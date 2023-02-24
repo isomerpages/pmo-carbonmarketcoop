@@ -2,6 +2,7 @@ collections:
   agreements-signed:
     output: true
     order:
+      - Ghana/FAQs.md
       - Ghana/Point of Contact.md
       - Ghana/.keep
       - Ghana/Documents and Templates for Download.md

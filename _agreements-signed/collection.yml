@@ -2,5 +2,6 @@ collections:
   agreements-signed:
     output: true
     order:
+      - Ghana/Process flow chart.md
       - Ghana/Documents and templates for download.md
       - Ghana/.keep

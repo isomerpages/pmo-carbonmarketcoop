@@ -1,4 +1,5 @@
 collections:
   agreements-signed:
     output: true
-    order: []
+    order:
+      - Ghana/.keep

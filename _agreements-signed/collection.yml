@@ -1,0 +1,4 @@
+collections:
+  agreements-signed:
+    output: true
+    order: []

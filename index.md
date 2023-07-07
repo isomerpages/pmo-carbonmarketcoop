@@ -13,14 +13,14 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: about carbon trading
+          description: What is Carbon Trading?
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Singapore's Approach
+          description: How are we contributing?
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Implementation Agreements
+          description: Everything about the process
           url: /privacy/
   - infobar:
       title: About Carbon Trading

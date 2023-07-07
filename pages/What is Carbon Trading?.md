@@ -4,7 +4,7 @@ permalink: /permalink/
 description: An overview of the process of carbon trading.
 ---
 #### Process
-![]()
+![alt text](https://go.gov.sg/process808![](/images/carboncreditsprocess.png) "Title")
 
 #### Definitions
 * _Carbon trading_ is the exchange of carbon credits on a carbon market.

@@ -2,4 +2,5 @@ collections:
   about-ct:
     output: true
     order:
+      - About Carbon Trading.md
       - What is Carbon Trading?.md

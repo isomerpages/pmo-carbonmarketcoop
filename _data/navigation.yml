@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Overview of IA
-    url: /overview
   - title: Agreements Signed
     collection: agreements-signed
   - title: Other Resources
@@ -10,3 +8,5 @@ links:
     url: /general-faqs
   - title: Project Register
     collection: project-register-test
+  - title: About CT
+    collection: about-ct

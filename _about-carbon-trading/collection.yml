@@ -1,5 +1,5 @@
 collections:
-  about-ct:
+  about-carbon-trading:
     output: true
     order:
       - Carbon Trading in Context.md

@@ -1,0 +1,4 @@
+collections:
+  project-register-test:
+    output: true
+    order: []

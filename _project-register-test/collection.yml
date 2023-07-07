@@ -2,5 +2,6 @@ collections:
   project-register-test:
     output: true
     order:
+      - Singapore/Singapore 2.md
       - Singapore/Singapore 1.md
       - Singapore/.keep

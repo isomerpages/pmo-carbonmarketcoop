@@ -34,4 +34,10 @@ sections:
       description: Our partnerships and more.
       button: Read more
       url: approach
+  - infobar:
+      title: Implementation agreements
+      description: Download our agreements with other countries, read about our
+        commitments, and more.
+      button: More
+      url: IA
 ---

@@ -2,10 +2,10 @@ collections:
   agreements-signed:
     output: true
     order:
-      - Country B/Test Page.md
-      - Country B/.keep
       - Ghana/.keep
       - Ghana/Documents and Templates for Download.md
       - Ghana/Process Flow Chart.md
       - Ghana/Point of Contact.md
       - Ghana/FAQs.md
+      - Country B/.keep
+      - Country B/Test Page.md

@@ -3,7 +3,8 @@ title: About Carbon Trading
 permalink: /about-carbon-trading/
 description: The paris agreement, the process, and its benefits.
 ---
-The Paris Agreement <br> 
+
+### The Paris Agreement <br>
 
 **Nationally Determined Contributions** - Under the Paris Agreement, all countries have nationally determined contributions (NDCs), which are countries’ climate ambitions. There are two types:
 
@@ -16,7 +17,7 @@ Art 6.2 outlines the decentralized mechanism of trading ITMOs through bilateral 
 
 Article 6 generally aims to:
 1) Promote emissions mitigation while fostering sustainable development,
-2) Incentivize emissions mitigations across the public and private sector,
+2) Incentivise emissions mitigations across the public and private sector,
 3) Help the participating countries fulfill their NDCs, and
 4) Deliver an overall mitigation in global emissions.
 
@@ -25,4 +26,3 @@ Other key features of article 6 include:
 * Art 6.5, prohibiting double counting, or corresponding adjustments between countries.
 * Art 6.6, asking that a share of proceeds from the projects developed should be used to cover administrative costs of developing countries.
 * Art 6.9, requiring countries to have a bilateral framework of accounting for carbon credits.
- 

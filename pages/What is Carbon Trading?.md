@@ -3,6 +3,9 @@ title: What is Carbon Trading?
 permalink: /permalink/
 description: An overview of the process of carbon trading.
 ---
+#### Process
+![]()
+
 #### Definitions
 * _Carbon trading_ is the exchange of carbon credits on a carbon market.
 * _Carbon markets_ are the trading systems used to buy or sell carbon credits.

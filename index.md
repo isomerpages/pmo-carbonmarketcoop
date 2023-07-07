@@ -28,4 +28,10 @@ sections:
       description: Article 6 of the Paris agreement, how it works, and what it accomplishes.
       button: read more
       url: /about-carbon-trading/
+  - infobar:
+      title: Singapore's approach to carbon trading
+      subtitle: How are we contributing?
+      description: Our partnerships and more.
+      button: Read more
+      url: approach
 ---

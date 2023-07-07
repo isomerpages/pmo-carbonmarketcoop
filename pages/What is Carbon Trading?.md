@@ -12,7 +12,7 @@ description: An overview of the process of carbon trading.
 	* In the Paris Agreement, carbon offsets are referred to as Internationally Transferred Mitigation Outcomes, or “ITMOs”.
 	* There is a limited crediting period during which carbon offsets generated from a project are eligible for issuance as verified carbon offsets.
 
-**Benefits of carbon trading**
+### Benefits of carbon trading
 
 One of the main premises of Article 6 is that participating in carbon trading is beneficial for host countries.
 

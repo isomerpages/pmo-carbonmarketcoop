@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: About carbon trading
           description: What is Carbon Trading?
-          url: https://google.com
+          url: /about-carbon-trading/
         - title: Singapore's Approach
           description: How are we contributing?
           url: https://gmail.com

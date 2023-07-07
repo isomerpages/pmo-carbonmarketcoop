@@ -1,0 +1,4 @@
+collections:
+  about-ct:
+    output: true
+    order: []

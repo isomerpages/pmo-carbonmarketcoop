@@ -4,7 +4,7 @@ permalink: /what-is-carbon-trading/
 description: An overview of the process of carbon trading.
 ---
 #### Process
-![alt text](https://go.gov.sg/process808![](/images/carboncreditsprocess.png) "Title")
+<img height="100" src="https://file.go.gov.sg/process808.png">
 
 #### Definitions
 * _Carbon trading_ is the exchange of carbon credits on a carbon market.
@@ -19,11 +19,11 @@ description: An overview of the process of carbon trading.
 
 One of the main premises of Article 6 is that participating in carbon trading is beneficial for host countries.
 
-1.       Carbon trading implements mitigation activities which are **additional**, meaning they would not otherwise happen.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon trading implements mitigation activities which are **additional**, meaning they would not otherwise happen.
 
-2.       Carbon trading provides significant **green growth opportunities** in the private sector.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon trading provides significant **green growth opportunities** in the private sector.
 
-3.       Carbon trading allows the advancement and realization of climate ambitions more **cost effectively**.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon trading allows the advancement and realization of climate ambitions more **cost effectively**.
 
 **Environmental integrity** – Carbon offsets are only verified if they are real, independently verified, permanent, additional, measurable, impose no net harm, avoid leakage, come from a strong governance and MRV system, and do not get double counted.
 

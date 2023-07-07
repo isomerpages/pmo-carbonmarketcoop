@@ -4,9 +4,9 @@ links:
     url: /overview
   - title: Agreements Signed
     collection: agreements-signed
-  - title: Project Register
-    url: /project-register
   - title: Other Resources
     url: /other-resources
   - title: General FAQs
     url: /general-faqs
+  - title: Project Register
+    collection: project-register-test

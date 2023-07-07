@@ -2,7 +2,7 @@ collections:
   agreements-signed:
     output: true
     order:
-      - Country B/Example Title.md
+      - Country B/Test Page.md
       - Country B/.keep
       - Ghana/.keep
       - Ghana/Documents and Templates for Download.md

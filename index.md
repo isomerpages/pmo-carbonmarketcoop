@@ -13,7 +13,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: about carbon trading
+        - title: About carbon trading
           description: What is Carbon Trading?
           url: https://google.com
         - title: Singapore's Approach

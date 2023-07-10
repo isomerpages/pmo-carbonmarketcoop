@@ -3,7 +3,6 @@ title: Singapore's Approach
 permalink: /about-carbon-trading/singapores-approach/
 description: Why and how Singapore participates in and supports carbon trading
 ---
-
 **Benefits**
 
 Carbon Trading is a suitable avenue to advance global climate actions and ambition because it:

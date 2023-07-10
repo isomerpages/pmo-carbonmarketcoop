@@ -1,5 +1,5 @@
 collections:
-  agreements-signed:
+  implementation-agreements:
     output: true
     order:
       - Implementation Agreements Explained.md

@@ -7,12 +7,14 @@ description: ""
  --- | --- | --- 
 [Project 1](/agreements-signed/Ghana/documents-and-templates-for-download/) | Cat 1   | 1 Jul 2023 
 Project 2 | Cat 1   | 1 Jul 2023 
-<br>
+
+
 |**Project Name**| **Category** |**Date**|
 | --- | --- | --- |
 | Project 1 | Cat 1   | 1 Jul 2023 |
 | Project 2 | Cat 1   | 1 Jul 2023 |
-<br>
+
+
 | Project Name | Category | Date |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |

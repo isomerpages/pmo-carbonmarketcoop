@@ -13,7 +13,8 @@ More specifically: 1) how carbon offset generating projects are authorized, 2) h
 
 **Corresponding adjustment dispute resolution** - When issues relating to the double counting of emissions reductions work, or “corresponding adjustments” arise, parties must use the dispute resolution mechanism provided for in each country’s IA.
 
-_Signed MOUs_
+
+### Signed MOUs
 
 MOUs express countries’ commitments to further strengthen our bilateral relationships and cooperation in climate change and sustainability. They also enable countries to collaborate on win-win opportunities that support both climate and economic objectives. Currently, Singapore has signed 11 Memorandums of Understanding with the following countries:
 1. Indonesia

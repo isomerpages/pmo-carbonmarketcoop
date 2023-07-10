@@ -3,10 +3,10 @@ title: Ghana Projects
 permalink: /project-register-test/ghana-projects/
 description: ""
 ---
-|**Project Name**| **Category** |**Date**|
-| ------ | ------ | ------ |
-| [Project 1](/agreements-signed/Ghana/documents-and-templates-for-download/) <br> | Cat 1   | 1 Jul 2023     |
-| Project 2  | Cat 1   | 1 Jul 2023     |
+**Project Name**| **Category** |**Date**
+ --- | --- | --- 
+[Project 1](/agreements-signed/Ghana/documents-and-templates-for-download/) | Cat 1   | 1 Jul 2023 
+Project 2 | Cat 1   | 1 Jul 2023 
 <br>
 
 <div data-show-facepile="false" data-hide-cover="false" data-adapt-container-width="true" data-small-header="false" data-height="100" data-width="250" data-tabs="timeline" data-href="https://www.facebook.com/PSDSingapore" class="fb-page"><blockquote class="fb-xfbml-parse-ignore" cite="https://www.facebook.com/PSDSingapore"><a href="https://www.facebook.com/PSDSingapore">PSD Singapore</a></blockquote></div>

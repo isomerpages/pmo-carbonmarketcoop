@@ -4,8 +4,7 @@ permalink: /faq/
 ---
 ### **FAQ**
 
->1.  What if I submit to the wrong link?
-
+>1.  What if I submit my application to the wrong link?
 
 Please resubmit to the correct submission portal. Members comprising the Joint Committee may differ between each country.
 

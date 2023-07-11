@@ -31,13 +31,13 @@ sections:
   - infobar:
       title: Singapore's approach to carbon trading
       subtitle: How are we contributing?
-      description: Our partnerships and more.
+      description: Our partners and why the bilateral carbon trading framework.
       button: Read more
       url: approach
   - infobar:
       title: Implementation agreements
-      description: Download our agreements with other countries, read about our
-        commitments, and more.
+      description: Download our agreements with other countries and learn how you can
+        implement your own projects.
       button: More
       url: IA
 ---

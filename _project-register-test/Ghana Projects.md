@@ -17,5 +17,8 @@ Project 3 | Cat 2   | 1 Jul 2023 |
 <div id="fb-root"></div>
 <script nonce="1JlYv6yG" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v17.0" crossorigin="anonymous" async=""></script>
 <br>
+<!---
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore%2Fposts%2Fpfbid0i18Ay4FKs1uEJ2RE37opjftAaSKzU5aSqgy1y8UhqMYWBCWeXZVpdtMu7yChcz86l&amp;show_text=true&amp;width=500" width="500" height="772" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+--->
 
-<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="772" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore%2Fposts%2Fpfbid0i18Ay4FKs1uEJ2RE37opjftAaSKzU5aSqgy1y8UhqMYWBCWeXZVpdtMu7yChcz86l&amp;show_text=true&amp;width=500"></iframe>
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="200" width="300" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPSDSingapore&amp;tabs=timeline&amp;width=200&amp;height=100&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId"></iframe>

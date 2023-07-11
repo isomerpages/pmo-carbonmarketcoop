@@ -16,7 +16,7 @@ Project 3 | Cat 2   | 1 Jul 2023 |
 <div data-hide-cover="false" data-height="500" data-width="800" data-href="https://www.facebook.com/PSDSingapore" data-tab="timeline" class="fb-page"></div>
 
 <div id="fb-root"></div>
-<script nonce="1JlYv6yG" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v17.0" crossorigin="anonymous" async=""></script>
+<script nonce="m3Ou1Fac" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v17.0" crossorigin="anonymous" async=""></script>
 
 <br>
 <!---

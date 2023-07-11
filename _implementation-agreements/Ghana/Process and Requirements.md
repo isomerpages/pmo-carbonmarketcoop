@@ -37,7 +37,3 @@ Mandates of the Joint Committee:
 **Latest updates**
 
 ** Resources and Reports**
-
-
-
-

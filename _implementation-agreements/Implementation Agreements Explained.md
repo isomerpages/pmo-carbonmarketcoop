@@ -22,7 +22,9 @@ The process may be different for each country depending on what the eligibility 
 
 ### Signed MOUs
 
-MOUs express countries’ commitments to further strengthen our bilateral relationships and cooperation in climate change and sustainability. They also enable countries to collaborate on win-win opportunities that support both climate and economic objectives. Currently, Singapore has signed 11 Memorandums of Understanding with the following countries:
+MOUs express countries’ commitments to further strengthen our bilateral relationships and cooperation in climate change and sustainability. They also enable countries to collaborate on win-win opportunities that support both climate and economic objectives. 
+
+Currently, Singapore has signed 11 Memorandums of Understanding with the following countries:
 1. Indonesia
 2. Colombia
 3. Peru

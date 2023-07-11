@@ -26,18 +26,18 @@ sections:
       title: About Carbon Trading
       subtitle: what is carbon trading?
       description: Article 6 of the Paris agreement, how it works, and what it accomplishes.
-      button: read more
+      button: find out more
       url: /about-carbon-trading/
   - infobar:
       title: Singapore's approach to carbon trading
       subtitle: How are we contributing?
       description: Our partners and why the bilateral carbon trading framework.
-      button: Read more
+      button: find out more
       url: approach
   - infobar:
       title: Implementation agreements
       description: Download our agreements with other countries and learn how you can
         implement your own projects.
-      button: More
+      button: find out more
       url: IA
 ---

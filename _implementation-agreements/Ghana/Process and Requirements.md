@@ -10,7 +10,7 @@ If you are looking to develop a carbon credit project in Ghana under the Singapo
 <img src="https://file.go.gov.sg/flow808.png">
 
 
-_Approved International Offset Programmes_
+### Approved International Offset Programmes
 
 Any mitigation project must utilize an approved (post 1st Jan 2016) methodology from either the **Global Standard for the Global Goals (GS4GG)** or the **Verified Carbon Standard (VCS)** program.
 
@@ -22,8 +22,8 @@ The exceptions to the above programmes approved by both Ghana and Singapore are:
 | -------- | -------- | -------- |
 | Land Use and Forestry &amp; Agriculture  | Scenario 2a and 3  | VM0012 <br> VM0017 <br> VM0021 <br> VM0022 <br> VM0024 <br> VM0026 <br> VM0032 <br> VM0033 <br> VM0036 <br> VM0040 <br> VM0041 <br> VM0042 |
 
-**Joint Committee -** the Singapore-Ghana Joint Committee is co-chaired by:
 
+**Joint Committee -** the Singapore-Ghana Joint Committee is co-chaired by:
 
 | Singapore | Ghana |
 | -------- | -------- | 
@@ -33,6 +33,7 @@ Mandates of the Joint Committee:
 * Each party may designate five officials including their co-chairs as members of the Joint Committee. 
 * They will also establish a Joint Secretariat to support their activities.
 * Joint Committee meeting occur annually and at either country's request.
+
 
 **Latest updates**
 

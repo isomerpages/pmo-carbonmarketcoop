@@ -7,7 +7,13 @@ description: How implementation agreements work
 
 Implementation Agreements (IAs) are legally binding documents. They establish _bilateral frameworks_ between Singapore and the Host Country to govern and facilitate carbon trading.
 
-More specifically: 1) how carbon offset generating projects are authorized, 2) how ITMOs (carbon credits) are issued and transferred, and 3) how ITMOs (carbon credits) are used to meet international environmental obligations. The process may be different for each country depending on what the eligibility criteria are.
+More specifically: 
+1) How carbon offset generating projects are authorized, 
+2) How ITMOs (carbon credits) are issued and transferred, and
+3) How ITMOs (carbon credits) are used to meet international environmental obligations. 
+
+The process may be different for each country depending on what the eligibility criteria are.
+
 
 **Joint committee –** Members of the Joint Committee are appointed under the IA. Joint Committees act as the administrative point of contact between private parties, host countries, and Singapore when authorizing mitigation activities and issuing ITMOs.
 

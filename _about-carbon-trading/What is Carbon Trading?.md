@@ -10,7 +10,7 @@ description: An overview of the process of carbon trading.
 * _Carbon trading_ is the exchange of carbon credits on a carbon market.
 * _Carbon markets_ are the trading systems used to buy or sell carbon credits.
 * _Carbon credits_ are tradable commodities which represent _verified_ carbon offsets.
-* _Carbon offsets_ refer to carbon emissions reductions, measured in tonnes of carbon dioxide equivalent (tCO2e).
+* _Carbon offsets_ refer to carbon emissions reductions, measured in tonnes of carbon dioxide equivalent (tCO<sub>2</sub>e).
 	* Carbon offsets are generated through projects such as forest protection, wind, or solar installations which take in carbon from the atmosphere.
 	* In the Paris Agreement, carbon offsets are referred to as Internationally Transferred Mitigation Outcomes, or “ITMOs”.
 	* There is a limited crediting period during which carbon offsets generated from a project are eligible for issuance as verified carbon offsets.

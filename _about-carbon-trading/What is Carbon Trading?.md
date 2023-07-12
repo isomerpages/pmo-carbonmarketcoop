@@ -4,7 +4,9 @@ permalink: /what-is-carbon-trading/
 description: An overview of the process of carbon trading.
 ---
 #### Process
-	<img height="500" width="1000" src="https://file.go.gov.sg/process808.png"> 
+	![How Carbon Credits Work](/images/carboncreditsprocesslg.png)
+	
+	<img src="https://file.go.gov.sg/process808.png"> 
 
 #### Definitions
 * _Carbon trading_ is the exchange of carbon credits on a carbon market.

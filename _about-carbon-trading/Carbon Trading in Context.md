@@ -24,6 +24,8 @@ Article 6 generally aims to:
 <br>
 Other key features of article 6 include:
 
+* Art 6.1, allowing countries to cooperate to achieve their NDCs,
+* Art 6.3, which asks that the use of ITMOs is voluntary and authorized,
 * Art 6.5, prohibiting double counting, or corresponding adjustments between countries.
 * Art 6.6, asking that a share of proceeds from the projects developed should be used to cover administrative costs of developing countries.
 * Art 6.9, requiring countries to have a bilateral framework of accounting for carbon credits.

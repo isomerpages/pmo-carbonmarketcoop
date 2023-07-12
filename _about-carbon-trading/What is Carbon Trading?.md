@@ -30,3 +30,7 @@ One of the main premises of Article 6 is that participating in carbon trading is
 Implementing carbon credit projects provides co-benefits and advances sustainable development goals of the Host countries. For instance:
 
 Nature-based carbon trading projects, such as forest restoration/re-forestation, contribute towards biodiversity protection, improve rural livelihoods, and increase carbon sequestration. Solar projects can ensure greater energy security, improved health and wellbeing, enhance the air quality and promote economic growth. Electric buses which replace diesel-powered buses can create green jobs, improve energy security, and significantly lighten air and noise pollution.
+
+<br>
+
+<img src="https://file.go.gov.sg/sdg808.png">

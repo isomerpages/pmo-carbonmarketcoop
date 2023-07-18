@@ -27,7 +27,7 @@ sections:
       subtitle: What is carbon trading?
       description: Article 6 of the Paris agreement, how it works, and what it accomplishes.
       button: Find out more
-      url: /about-carbon-trading/
+      url: /about-carbon-trading/carbon-trading-in-context/
   - infobar:
       title: Singapore's approach to carbon trading
       subtitle: How are we contributing?
@@ -40,4 +40,9 @@ sections:
         implement your own projects.
       button: find out more
       url: /implementation-agreements/implementation-agreements-explained/
+  - infobar:
+      title: The Register
+      description: Keep track of the latest approved and traded carbon credits here.
+      button: Find out more
+      url: /the-register/
 ---

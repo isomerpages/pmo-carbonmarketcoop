@@ -29,20 +29,14 @@ sections:
       button: Find out more
       url: /about-carbon-trading/carbon-trading-in-context/
   - infobar:
-      title: Singapore's approach to carbon trading
-      subtitle: How are we contributing?
-      description: Our partners and why the bilateral carbon trading framework.
-      button: find out more
-      url: /about-carbon-trading/singapores-approach/
+      title: The Register
+      description: Keep track of the latest approved and traded carbon credits here.
+      button: Find out more
+      url: /the-register/
   - infobar:
       title: Implementation agreements
       description: Download our agreements with other countries and learn how you can
         implement your own projects.
       button: find out more
       url: /implementation-agreements/implementation-agreements-explained/
-  - infobar:
-      title: The Register
-      description: Keep track of the latest approved and traded carbon credits here.
-      button: Find out more
-      url: /the-register/
 ---

@@ -2,6 +2,6 @@ collections:
   about-carbon-trading:
     output: true
     order:
-      - Carbon trading in context.md
       - What is carbon trading?.md
+      - Carbon trading in context.md
       - Singapore's approach.md

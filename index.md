@@ -29,8 +29,8 @@ sections:
       button: Find out more
       url: /about-carbon-trading/what-is-carbon-trading/
   - infobar:
-      title: The Register
-      description: Keep track of the latest approved and traded carbon credits here.
+      title: The Registry
+      description: Locate available carbon credits
       button: Find out more
       url: /the-registry/
   - infobar:

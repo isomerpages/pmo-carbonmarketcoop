@@ -2,6 +2,7 @@ collections:
   project-register-test:
     output: true
     order:
+      - Registry.md
       - Ghana Projects.md
       - Malaysia Projects.md
       - Singapore Projects.md

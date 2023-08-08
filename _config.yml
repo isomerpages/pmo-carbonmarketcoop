@@ -1,9 +1,9 @@
 title: Title
 url: https://carbontrading.gov.sg
-favicon: /images/carbontrading-logo.png
+favicon: /images/favicon1.png
 colors:
-  primary-color: "#8ccdd4"
-  secondary-color: "#7db0e5"
+  primary-color: "#35b0b5"
+  secondary-color: "#4c739e"
   media-colors:
     - title: media-color-one
       color: "#399797"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d20es3h5b424gq.amplifyapp.com
 prod: https://master.d20es3h5b424gq.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/carbontrading-logo.png
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""

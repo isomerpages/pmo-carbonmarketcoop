@@ -14,6 +14,3 @@ description: ""
 #### **Option 2: Maintain the Registry in an offline file and upload the PDF version**
 
 [Download Registry](/files/credits%20registry%20example%20(002).pdf)
-
-[![Registry](/images/carbontrading-logo.png)](/files/credits%20registry%20example%20(002).pdf)
-Click the above image to download the Registry.

@@ -25,17 +25,17 @@ sections:
   - infobar:
       title: About Carbon Trading
       subtitle: What is carbon trading?
-      description: Article 6 of the Paris agreement, how it works, and what it accomplishes.
+      description: How it works, Art 6 of the Paris agreement, and what it accomplishes.
       button: Find out more
       url: /about-carbon-trading/what-is-carbon-trading/
   - infobar:
       title: The Registry
-      description: Locate available carbon credits
+      description: Locate available carbon credits.
       button: Find out more
       url: /the-registry/
   - infobar:
       title: Implementation agreements
-      description: The frameworks for bilateral carbon trading
+      description: The frameworks for bilateral carbon trading.
       button: find out more
       url: /implementation-agreements/implementation-agreements-explained/
 ---

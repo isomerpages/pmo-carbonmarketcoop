@@ -27,12 +27,12 @@ sections:
       subtitle: What is carbon trading?
       description: Article 6 of the Paris agreement, how it works, and what it accomplishes.
       button: Find out more
-      url: /about-carbon-trading/carbon-trading-in-context/
+      url: /about-carbon-trading/what-is-carbon-trading/
   - infobar:
       title: The Register
       description: Keep track of the latest approved and traded carbon credits here.
       button: Find out more
-      url: /the-register/
+      url: /the-registry/
   - infobar:
       title: Implementation agreements
       description: Download our agreements with other countries and learn how you can

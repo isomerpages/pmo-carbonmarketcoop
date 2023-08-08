@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: About carbon trading
           description: What is Carbon Trading?
-          url: /about-carbon-trading/
-        - title: Singapore's Approach
-          description: How are we contributing?
-          url: https://gmail.com
+          url: /what-is-carbon-trading/
+        - title: The Registry
+          description: Locate carbon credits
+          url: /the-registry/
         - title: Implementation Agreements
           description: Everything about the process
-          url: /privacy/
+          url: /implementation-agreements/implementation-agreements-explained/
   - infobar:
       title: About Carbon Trading
       subtitle: What is carbon trading?

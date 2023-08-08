@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Carbon Trading
-      subtitle: A bilateral approach to reducing carbon emissions..
+      subtitle: A bilateral approach to reducing carbon emissions.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/

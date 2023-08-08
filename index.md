@@ -35,8 +35,7 @@ sections:
       url: /the-registry/
   - infobar:
       title: Implementation agreements
-      description: Download our agreements with other countries and learn how you can
-        implement your own projects.
+      description: The frameworks for bilateral carbon trading
       button: find out more
       url: /implementation-agreements/implementation-agreements-explained/
 ---

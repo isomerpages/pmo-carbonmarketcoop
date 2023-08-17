@@ -26,3 +26,5 @@ Other key benefits of this bilateral cooperative approach include:
 
 * **Contributes to adaptation actions** – Article 6 is designed to increase countries’ ambitions for both mitigation and adaptation actions. In lieu with the Article 6 rulebook, Singapore has decided to contribute resources towards climate adaptation through bilateral cooperation. As such, all projects authorised under Singapore’s Implementation Agreements will have to contribute 5% of their share of proceeds to the host countries’ adaptation needs and/or their Adaptation Fund.
 
+
+<img src="https://file.go.gov.sg/impbenefits808.png">

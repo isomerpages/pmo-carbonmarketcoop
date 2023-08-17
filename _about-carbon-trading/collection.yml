@@ -2,6 +2,6 @@ collections:
   about-carbon-trading:
     output: true
     order:
-      - What is carbon trading?.md
+      - What are carbon credits?.md
       - Climate action through carbon trading.md
       - Singapore's interest in carbon trading.md

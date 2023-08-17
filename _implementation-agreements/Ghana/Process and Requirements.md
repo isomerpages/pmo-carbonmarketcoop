@@ -90,11 +90,12 @@ Any mitigation project must utilize an approved (post 1st Jan 2016) methodology 
 
 Please check the respective websites to ensure you are using the most updated version of a methodology. Otherwise, your application may be refused.
 
-The exceptions to the above programmes approved by both Ghana and Singapore are:
+The programmes approved by both Ghana and Singapore are:
 
-| GS4GG | VCS Jurisdictional <br> and Nested +REDD <br> (JNR) framework | Verra |
-| -------- | -------- | -------- |
-| Land Use and Forestry &amp; Agriculture  | Scenario 2a and 3  | VM0012 <br> VM0017 <br> VM0021 <br> VM0022 <br> VM0024 <br> VM0026 <br> VM0032 <br> VM0033 <br> VM0036 <br> VM0040 <br> VM0041 <br> VM0042 |
+| Offset Programmes | Methodologies | 
+| -------- | -------- | 
+| Gold standard for the Global Goals (GS4GG)   |All methodologies published after 1 Jan 2016 except those under the "Land Use and Forestry &amp; Agriculture" category of GS4GG. |
+|Verified Carbon Standard (VCS)|All methodologies published after 1 Jan 2016 except those that are under the "Sectoral scope 14" category of VCS and are not indicated below: Scenario 2a and 3 of VCS Jurisdictional and Nested REDD+ (JNR) framework <br> VM0012 <br> VM0017 <br> VM0021 <br> VM0022 <br> VM0024 <br> VM0026 <br> VM0032 <br> VM0033 <br> VM0036 <br> VM0040 <br> VM0041 <br> VM0042|
 
 
 **Joint Committee -** the Singapore-Ghana Joint Committee is co-chaired by:

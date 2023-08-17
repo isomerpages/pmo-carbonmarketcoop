@@ -5,7 +5,7 @@ description: An overview of the process of carbon trading.
 ---
 _Carbon credits,_ also known as _carbon offsets,_ refer to carbon emissions reductions, measured in tonnes of carbon dioxide equivalent (tCO2e). Carbon offsets can be generated through projects such as forest protection, wind, or solar installations, which take in carbon from the atmosphere.
 
-A flowchart on he full process of carbon trading can be found below.
+A flowchart on the process of carbon trading, beginning with the generation of carbon offsets, can be found below.
 <img src="https://file.go.gov.sg/process808.png"> 
 *Illustration on the process of carbon trading*
 

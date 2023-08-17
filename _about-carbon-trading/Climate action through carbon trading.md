@@ -27,4 +27,4 @@ One of the main premises of Article 6 is that participating in carbon trading is
 
 Implementing carbon credit projects provides co-benefits and advances sustainable development goals of the Host countries. For instance:
 
-img
+<img src="https://file.go.gov.sg/benefits808.png">

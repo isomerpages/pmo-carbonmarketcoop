@@ -5,7 +5,7 @@ description: The Paris Agreement and Article 6
 ---
 ##### Cooperative mechanism under the Paris Agreement
 
-Under the Paris Agreement, all countries must communicate their N~n~ationally D~d~etermined C~c~ontributions (NDCs) and set climate targets that are aligned with the Paris Agreement’s climate goal.
+Under the Paris Agreement, all countries must communicate their Nationally Determined Contributions (NDCs) and set climate targets that are aligned with the Paris Agreement’s climate goal.
 
 **Article 6** of the Paris Agreement allows countries to pursue voluntary cooperation in the implementation of their NDCs. This development opened the door to higher ambition in climate mitigation and adaptation actions, while promoting sustainable development and environmental integrity. NDCs can be pursued through a market-based mechanism (Article 6.2, Article 6.4) and a non-market-based mechanism (Article 6.8). Our Minister of Sustainability and the Environment, Grace Fu, co-facilitated the conclusion of the Article 6 rulebook at COP-26 in December 2021.
 
@@ -26,3 +26,7 @@ One of the main premises of Article 6 is that participating in carbon trading is
 3.       Carbon trading allows the advancement and realisation of climate ambitions aligned to Paris Agreement goal more **cost effectively.**
 
 Implementing carbon credit projects provides co-benefits and advances sustainable development goals of the Host countries. For instance:
+
+Image credits: Unsplash – Andreas Gluckhorn, Eyyoel Kahseeh, Jeyakumaran Mayooresan.
+
+_Workers planting tree. Solar Panels. Singapore bus at night._

@@ -19,14 +19,12 @@ To bolster the robustness of Article 6.2 cooperation, safeguards will have to be
 
 One of the main premises of Article 6 is that participating in carbon trading is beneficial for host countries.
 
-1.       Carbon trading supports the implementation of emissions reduction and removal activities which are **additional**. This means that these mitigation efforts otherwise would not have happened without the revenue generated from carbon trading.
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon trading supports the implementation of emissions reduction and removal activities which are **additional**. This means that these mitigation efforts otherwise would not have happened without the revenue generated from carbon trading.
 
-2.       Carbon trading provides significant **green growth opportunities** in the private sector.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon trading provides significant **green growth opportunities** in the private sector.
 
-3.       Carbon trading allows the advancement and realisation of climate ambitions aligned to Paris Agreement goal more **cost effectively.**
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon trading allows the advancement and realisation of climate ambitions aligned to Paris Agreement goal more **cost effectively.**
 
 Implementing carbon credit projects provides co-benefits and advances sustainable development goals of the Host countries. For instance:
 
-Image credits: Unsplash – Andreas Gluckhorn, Eyyoel Kahseeh, Jeyakumaran Mayooresan.
-
-_Workers planting tree. Solar Panels. Singapore bus at night._
+img

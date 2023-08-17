@@ -3,29 +3,12 @@ title: Climate action through carbon trading
 permalink: /climate-action-through-carbon-trading/
 description: The Paris Agreement and Article 6
 ---
-### The Paris Agreement <br>
+##### Cooperative mechanism under the Paris Agreement
 
-**Nationally Determined Contributions** <br>
-Under the Paris Agreement, all countries have their climate ambitions outlined in Nationally Determined Contributions (NDCs). There are two types:
+Under the Paris Agreement, all countries must communicate their N~n~ationally D~d~etermined C~c~ontributions (NDCs) and set climate targets that are aligned with the Paris Agreement’s climate goal.
 
-* Conditional NDCs: achievement is contingent on international support and favourable circumstances.
-* Unconditional NDCs: achievement must be without international aid and independent of circumstances.
+**Article 6** of the Paris Agreement allows countries to pursue voluntary cooperation in the implementation of their NDCs. This development opened the door to higher ambition in climate mitigation and adaptation actions, while promoting sustainable development and environmental integrity. NDCs can be pursued through a market-based mechanism (Article 6.2, Article 6.4) and a non-market-based mechanism (Article 6.8). Our Minister of Sustainability and the Environment, Grace Fu, co-facilitated the conclusion of the Article 6 rulebook at COP-26 in December 2021.
 
-**Article 6** of the Paris Agreement allows parties to use Internationally Transferred Mitigation Outcomes (“ITMOs”) on a voluntary basis to meet nationally determined contributions. ITMOs are units of mitigation outcomes which use a carbon dioxide equivalent metric under Article 6. Our Minister of Sustainability and the Environment, Grace Fu, co-facilitated the Article 6 rulebook.
+**Article 6.2 provides the decentralized framework for bilateral or plurilateral cooperation between countries, through market-based mechanism of carbon trading**. Countries will trade Internationally Transferred Mitigation Outcomes (ITMOs) on a voluntary basis to jointly achieve their NDCs. Corresponding adjustments will be made to ensure no double counting of emissions reductions and removals by countries.
 
-Art 6.2 outlines the decentralized mechanism of trading ITMOs through bilateral cooperation. This underpins post 2020 carbon trading and leverages pre-existing standards including the ICAO CORSIA Emissions Unit eligibility criteria. 
-
-Article 6 generally aims to:
-1) Promote emissions mitigation while fostering sustainable development,
-2) Incentivise emissions mitigations across the public and private sector,
-3) Help participating countries fulfill their NDCs, and
-4) Deliver an overall mitigation in global emissions.
-
-<br>
-Other key features of article 6 include:
-
-* Art 6.1, allowing countries to cooperate to achieve their NDCs,
-* Art 6.3, which asks that the use of ITMOs is voluntary and authorized,
-* Art 6.5, prohibiting double counting, or corresponding adjustments between countries.
-* Art 6.6, asking that a share of proceeds from the projects developed should be used to cover administrative costs of developing countries.
-* Art 6.9, requiring countries to have a bilateral framework of accounting for carbon credits.
+To bolster the robustness of Article 6.2 cooperation, safeguards will have to be put in place to ensure environmental integrity and transparency. The high environmental integrity principles are as follows:

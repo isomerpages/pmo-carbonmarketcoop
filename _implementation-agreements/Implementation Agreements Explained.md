@@ -5,36 +5,10 @@ description: How implementation agreements work.
 ---
 ### What are Implementation Agreements?
 
-Implementation Agreements (IAs) are legally binding documents. They establish _bilateral frameworks_ between Singapore and the Host Country to govern and facilitate carbon trading.
+Implementation Agreements (IAs) are legally binding documents. They establish _bilateral frameworks_ between Singapore and the Host Country to govern and facilitate the international transfer of correspondingly adjusted carbon credits (i.e. mitigation outcomes), which cover processes such as project authorisation, reporting, and corresponding adjustments. The process of authorisation is different for each country depending on what the eligibility criteria are.
 
-More specifically: 
-1) How carbon offset generating projects are authorized, 
-2) How ITMOs (carbon credits) are issued and transferred, and
-3) How ITMOs (carbon credits) are used to meet international environmental obligations. 
+**Joint committee –** To authorise mitigation activities and issue ITMOs, a Joint Committee will be formed to serve as an administrative point of contact between private parties, host countries, and Singapore.
 
-The process may be different for each country depending on what the eligibility criteria are.
+Private sector players can leverage this framework to develop carbon credit projects that issue ITMOs.
 
-
-**Joint committee –** Members of the Joint Committee are appointed under the IA. Joint Committees act as the administrative point of contact between private parties, host countries, and Singapore when authorizing mitigation activities and issuing ITMOs.
-
-**Corresponding adjustment dispute resolution** - When issues relating to the double counting of emissions reductions work, or “corresponding adjustments” arise, parties must use the dispute resolution mechanism provided for in each country’s IA.
-
-
-### Signed MOUs
-
-MOUs express countries’ commitments to further strengthen our bilateral relationships and cooperation in climate change and sustainability. They also enable countries to collaborate on win-win opportunities that support both climate and economic objectives. 
-
-Currently, Singapore has signed 11 Memorandums of Understanding with the following countries:
-1. Indonesia
-2. Colombia
-3. Peru
-4. Vietnam
-5. Papua New Guinea
-6. the Dominican Republic
-7. Cambodia
-8. Morocco
-9. Mongolia
-10. Kenya
-11. Bhutan
-
-Read more about our most recent bilateral commitments **below**.
+Click on the country links in the sidebar to go to the specific IAs between Singapore and each host country.

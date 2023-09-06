@@ -29,13 +29,13 @@ sections:
       button: Find out more
       url: /about-carbon-trading/what-is-carbon-trading/
   - infobar:
-      title: The Registry
+      title: The Project Register
       description: Locate available carbon credits.
       button: Find out more
-      url: /the-registry/
+      url: https://carbontrading.gov.sg/project-register-test/
   - infobar:
       title: Implementation agreements
       description: The frameworks for bilateral carbon trading.
       button: find out more
-      url: /implementation-agreements/implementation-agreements-explained/
+      url: https://carbontrading.gov.sg/implementation-agreements/art-6/
 ---

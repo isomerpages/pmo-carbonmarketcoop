@@ -5,14 +5,20 @@ description: ""
 ---
 Singapore seeks to set up bilateral carbon markets collaboration with host countries that are aligned with Article 6 of the Paris Agreement. This bilateral cooperative approach would allow us to jointly achieve emissions targets set out in our NDCs, while promoting sustainable development and environmental integrity. It will also be underpinned by a legally binding framework, known as an Implementation Agreement, signed between Singapore and host countries.
 
-Memorandum of Understanding (MOU)
+#### Memorandum of Understanding (MOU)
 
 The MOU signals Singapore’s and host countries’ intent to collaborate on carbon markets, aligned with Article 6 of the Paris Agreement. Under the MOU, we will work towards a legally binding Implementation Agreement. We will also work together to identify potential Article 6-compliant mitigation activities which can support our achievement of respective NDCs.
 
 Currently, Singapore has signed MOUs with the following countries:
-body&gt;
 
-Implementation Agreement
+
+| Bhutan | Cambodia| Chile | Colombia | Dominican Republic | Indonesia |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| Kenya     | Morocco     | Mongolia     | Peru | Papua New Guinea | Vietnam|
+
+
+
+#### Implementation Agreement
 
 The Implementation Agreement (IA) is a legal document that ~will~ sets out the bilateral framework for the international transfer of correspondingly adjusted carbon credits (i.e. mitigation outcomes). The framework will cover processes such as project authorisation, reporting requirements, and corresponding adjustments. Private sector players can then leverage this framework to develop carbon credit projects that issue ITMOs.
 

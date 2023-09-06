@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: About carbon trading
           description: What is Carbon Trading?
-          url: /what-is-carbon-trading/
+          url: https://carbontrading.gov.sg/what-are-carbon-credits/
         - title: The Registry
           description: Locate carbon credits
           url: /the-registry/

@@ -8,5 +8,7 @@ links:
     collection: project-register-test
   - title: Environmental Integrity
     collection: environmental-integrity
+  - title: Application Form
+    url: /application-form
   - title: FAQs
     url: /faq

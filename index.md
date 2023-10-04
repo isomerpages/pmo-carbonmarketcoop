@@ -26,6 +26,7 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+      button: test
   - infobar:
       title: About Carbon Trading
       subtitle: What is carbon trading?

@@ -22,6 +22,10 @@ sections:
         - title: Implementation Agreements
           description: Everything about the process
           url: /implementation-agreements/implementation-agreements-explained/
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - infobar:
       title: About Carbon Trading
       subtitle: What is carbon trading?

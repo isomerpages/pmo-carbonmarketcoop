@@ -1,4 +1,5 @@
 collections:
   our-article-6-cooperation:
     output: true
-    order: []
+    order:
+      - What are carbon credits?.md

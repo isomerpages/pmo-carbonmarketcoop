@@ -10,7 +10,7 @@ development and environmental integrity. It will also be underpinned by a legall
 framework, known as an Implementation Agreement, signed between Singapore and host
 countries.
 
-**Memorandum of Understanding (MOU)**
+### Memorandum of Understanding (MOU)
 
 The MOU signals Singapore’s and host countries’ intent to collaborate on carbon markets,
 aligned with Article 6 of the Paris Agreement. Under the MOU, we will work towards a legally
@@ -27,7 +27,7 @@ Currently, Singapore has signed MOUs with the following countries:
 | Peru | Mongolia | | |
 | | Vietnam | |
 
-**Implementation Agreement**
+### Implementation Agreement
 The Implementation Agreement (IA) sets out the bilateral framework for the international
 transfer of correspondingly adjusted carbon credits (i.e. mitigation outcomes) between host
 countries and Singapore. The framework will cover processes such as project authorisation,
@@ -66,4 +66,5 @@ authorised under Singapore’s Implementation Agreements to cancel 2% of
 correspondingly adjusted carbon credits to deliver OMGE, aligned with the Article 6.4
 mechanism.
 
-file.go.gov.sg/impbenefits808.png
+
+<img src="https://file.go.gov.sg/impbenefits808.png">

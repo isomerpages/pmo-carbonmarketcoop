@@ -12,6 +12,13 @@ To ensure these carbon credits can truly advance global climate action and ambit
 <img src="https://file.go.gov.sg/envintegrity808.png">
 *Diagram on environmental integrity principles*
 
+*Benefits of carbon trading*
+1. Carbon trading supports the implementation of emissions reduction and removal activities which are additional. This means that these mitigation efforts otherwise would not have happened without the revenue generated from carbon trading.
+2. Carbon trading provides significant green growth opportunities in the private sector.
+3. Carbon trading allows the advancement and realisation of climate ambitions aligned to Paris Agreement goal more cost effectively.
+
+Implementing carbon credit projects also provides co-benefits and advances sustainable development goals of the Host countries. For instance:
+
 According to the Article 6 of the Paris Agreement, only **correspondingly adjusted carbon credits** can be used for a countries' Nationally Determined Contributions (NDCs) and other international mitigation purposes, such as the International Civil Aviation Organization’s Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA). These carbon credits that have been correspondingly adjusted are referred to as Internationally Transferred Mitigation Outcomes (ITMOs).
 
 

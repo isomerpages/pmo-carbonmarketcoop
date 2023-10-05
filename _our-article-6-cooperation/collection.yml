@@ -2,4 +2,5 @@ collections:
   our-article-6-cooperation:
     output: true
     order:
+      - Climate action through carbon trading.md
       - What are carbon credits?.md

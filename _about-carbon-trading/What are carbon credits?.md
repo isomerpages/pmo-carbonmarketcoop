@@ -8,7 +8,7 @@ _Carbon credits,_ also known as _carbon offsets,_ refer to carbon emissions redu
 <img src="https://file.go.gov.sg/process808.png"> 
 
 To ensure these carbon credits can truly advance global climate action and ambition, they need to meet a set of environmental integrity principles, which are explained in the graphic below.
-[NOTE: TO CHANGE TO 
+[NOTE: TO CHANGE TO NEW MSE INFOGRAPHIC]
 <img src="https://file.go.gov.sg/envintegrity808.png">
 *Diagram on environmental integrity principles*
 

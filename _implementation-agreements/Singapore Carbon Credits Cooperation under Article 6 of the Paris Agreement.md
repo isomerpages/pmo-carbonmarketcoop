@@ -45,7 +45,7 @@ quickly, high-integrity carbon crediting methodologies from credible offset
 programmes (e.g., Verra, Gold Standard, ART-TREES, America Carbon Registry, Global
 Carbon Council) will be used instead of setting up bilateral standards and
 methodologies.
- Authorised for all uses – All correspondingly adjusted carbon credits will be authorised
+*  **Authorised for all uses** – All correspondingly adjusted carbon credits will be authorised
 for all uses, including countries’ NDC achievement and companies’ voluntary uses. This
 will facilitate the flow of carbon finances from a wider pool of demand to scale up
 climate action and ambition, while fostering the growth of high-integrity carbon

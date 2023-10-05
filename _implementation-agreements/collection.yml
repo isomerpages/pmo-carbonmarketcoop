@@ -2,9 +2,9 @@ collections:
   implementation-agreements:
     output: true
     order:
-      - Host Countries.md
       - Singapore Carbon Credits Cooperation under Article 6 of the Paris
         Agreement.md
+      - Host Countries.md
       - Implementation Agreements Explained.md
       - Singapore's Article 6 collaboration with host countries.md
       - Ghana/.keep

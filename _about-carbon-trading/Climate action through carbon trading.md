@@ -19,22 +19,6 @@ that carbon credits are correspondingly adjusted ensures that there is no double
 
 **Corresponding adjustments** refers to the transfer of underlying emissions reductions across countries’ greenhouse gas (GHG) inventory. For example, when Country X buys 1MtCO 2 e of carbon credits from Country Y, Country Y has to add 1MtCO 2 e to its GHG inventory while Country
 X will reduce 1MtCO 2 e in its GHG inventory.
-<img src="https://go.gov.sg/corrsadj">
+<img src="https://file.go.gov.sg/corrsadj.gif">
+*Illustration of the process of corresponding adjustments.*
 
-To bolster the robustness of Article 6.2 cooperation, safeguards will have to be put in place to ensure environmental integrity and transparency. The high environmental integrity principles are as follows:
-
-*Diagram on high environmental integrity principles*
-
-**Benefits of carbon trading**
-
-One of the main premises of Article 6 is that participating in carbon trading is beneficial for host countries.
-
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon trading supports the implementation of emissions reduction and removal activities which are **additional**. This means that these mitigation efforts otherwise would not have happened without the revenue generated from carbon trading.
-
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon trading provides significant **green growth opportunities** in the private sector.
-
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon trading allows the advancement and realisation of climate ambitions aligned to Paris Agreement goal more **cost effectively.**
-
-Implementing carbon credit projects provides co-benefits and advances sustainable development goals of the Host countries. For instance:
-
-<img src="https://file.go.gov.sg/benefits808.png">

@@ -19,7 +19,7 @@ that carbon credits are correspondingly adjusted ensures that there is no double
 
 **Corresponding adjustments** refers to the transfer of underlying emissions reductions across countries’ greenhouse gas (GHG) inventory. For example, when Country X buys 1MtCO 2 e of carbon credits from Country Y, Country Y has to add 1MtCO 2 e to its GHG inventory while Country
 X will reduce 1MtCO 2 e in its GHG inventory.
-
+<img src="https://go.gov.sg/corrsadj">
 
 To bolster the robustness of Article 6.2 cooperation, safeguards will have to be put in place to ensure environmental integrity and transparency. The high environmental integrity principles are as follows:
 

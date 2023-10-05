@@ -22,4 +22,7 @@ Currently, Singapore has signed MOUs with the following countries:
 | Latin America | Asia | Africa | Oceania |
 | -------- | -------- | -------- |  -------- | 
 | Chile | Bhutan | Kenya | PNG |
-
+| Columbia | Cambodia | Morocco| |
+| Dominican Republic | Indonesia | | |
+| Peru | Mongolia | | |
+| Vietnam | | |

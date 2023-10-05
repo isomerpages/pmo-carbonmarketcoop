@@ -19,5 +19,4 @@ activities and the mitigation outcomes, including required documents at each sta
 outlined in the chart below. More details can be found in Annex B and &amp; link for 4.2.1.2.
 
 
-
-<img src="file.go.gov.sg/project-application-ghana-v2.png">
+<img src="https://file.go.gov.sg/project-application-ghana-v2.png">

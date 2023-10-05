@@ -2,6 +2,7 @@ collections:
   about-carbon-trading:
     output: true
     order:
+      - Test/Example Title.md
       - Test/.keep
       - What are carbon credits?.md
       - Climate action through carbon trading.md

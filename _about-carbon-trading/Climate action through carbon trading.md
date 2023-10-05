@@ -17,8 +17,7 @@ mitigation and adaptation actions, while promoting sustainable development and e
 According to the Article 6 of the Paris Agreement, only correspondingly adjusted carbon credits can be used for a countries' Nationally Determined Contributions (NDCs) and other international mitigation purposes, such as the International Civil Aviation Organization’s Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA). These correspondingly adjusted carbon credits are also referred to as Internationally Transferred Mitigation Outcomes (ITMOs). Ensuring
 that carbon credits are correspondingly adjusted ensures that there is no double counting, because when there corresponding adjustment is applied, the carbon credits are only counted once towards an international mitigation obligation.
 
-**Corresponding adjustments** refers to the transfer of underlying emissions reductions across countries’ greenhouse gas (GHG) inventory. For example, when Country X buys 1MtCO 2 e of carbon credits from Country Y, Country Y has to add 1MtCO 2 e to its GHG inventory while Country
-X will reduce 1MtCO 2 e in its GHG inventory.
+**Corresponding adjustments** refers to the transfer of underlying emissions reductions across countries’ greenhouse gas (GHG) inventory. For example, when Country X buys 1 MtCO<sub>2</sub>e of carbon credits from Country Y, Country Y has to add 1 MtCO<sub>2</sub>e to its GHG inventory while Country
+X will reduce 1 MtCO<sub>2</sub>e in its GHG inventory.
 <img src="https://file.go.gov.sg/corrsadj.gif">
 *Illustration of the process of corresponding adjustments.*
-

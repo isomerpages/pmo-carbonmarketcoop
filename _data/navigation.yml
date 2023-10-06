@@ -1,5 +1,7 @@
 logo: /images/carbontrading-logo.png
 links:
+  - title: Our Article 6 Cooperation
+    collection: our-article-6-cooperation
   - title: Implementation Agreements
     collection: implementation-agreements
   - title: The Project Register
@@ -10,5 +12,3 @@ links:
     url: /application-form
   - title: FAQs
     url: /faq
-  - title: Our Article 6 Cooperation
-    collection: our-article-6-cooperation

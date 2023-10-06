@@ -24,7 +24,7 @@ sections:
           url: /implementation-agreements/implementation-agreements-explained/
         - title: Project Application
           description: Apply for projects here
-          url: ""
+          url: /implementation-agreements/participation-criteria/
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room

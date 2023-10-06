@@ -21,7 +21,7 @@ sections:
           url: /the-registry/
         - title: Implementation Agreements
           description: Everything about the process
-          url: /implementation-agreements/implementation-agreements-explained/
+          url: /implementation-agreements/singapore-carbon-credits-cooperation
         - title: Project Application
           description: Apply for projects here
           url: /implementation-agreements/participation-criteria/

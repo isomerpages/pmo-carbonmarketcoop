@@ -2,5 +2,4 @@ collections:
   environmental-integrity:
     output: true
     order:
-      - EI Criteria/Example Title.md
       - EI Criteria/.keep

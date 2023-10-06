@@ -42,6 +42,6 @@ validators and verifiers.  
 * IOPs must only count carbon credits once towards a mitigation obligation to avoid double issuance, double use, and double claiming.  
 
  
-*CARBON PRICING ACT*
+###### CARBON PRICING ACT
 
 Singapore enacted the Carbon Pricing Act (Rev Ed 2020) to put in place regulations governing the reporting and payment of carbon taxes.

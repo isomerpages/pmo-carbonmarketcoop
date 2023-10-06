@@ -26,10 +26,10 @@ sections:
           description: Apply for projects here
           url: /implementation-agreements/participation-criteria/
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: UPDATES
+      subtitle: Take a look at our updates!
       id: resources
-      button: test
+      button: CLICK HERE TO FIND OUT MORE
   - infobar:
       title: About Carbon Trading
       subtitle: What is carbon trading?

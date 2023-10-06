@@ -1,5 +1,5 @@
 collections:
-  project-register-test:
+  project-register:
     output: true
     order:
       - Register.md

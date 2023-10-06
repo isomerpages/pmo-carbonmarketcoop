@@ -8,21 +8,26 @@ third_nav_title: Ghana
 
 A detailed overview of the process to seek Article 6 authorisation of the mitigation activities and the mitigation outcomes, including required documents at each stage, is outlined in the chart below:
 
-<img src="https://file.go.gov.sg/processtable808.png">
+<img src="https://file.go.gov.sg/project-application-ghana-v2.png">
 
 *Table outlining stages and submission documents*
 
 ##### *Stage A – Feasibility of the proposed mitigation activity*
 
-The project applicant submits an application to Singapore and Ghana’s Joint Committee, using the template which is available for download at the end of this page. The Joint Committee will determine whether their proposed mitigation activity is conceptually feasible and acceptable (e.g. meeting the environmental integrity requirements, eligibility of project types).
+The project applicant submits a **Project Application** to the Joint Committee.
+If the proposed mitigation activity concept is accepted by both countries, the Joint
+Committee will issue the **Letter of Support** and **Letter of Intent** from Singapore and Ghana
+respectively. These letters may specify the conditions that the project applicant should
+meet in designing the proposed mitigation activity.
+If the proposed mitigation activity concept is not accepted, the project applicant will be
+informed, along with any reasons for the non-acceptance (if relevant).
 
-After assessment, the Joint Committee will inform the project applicant of the outcome. If the proposed mitigation activity concept is feasible and acceptable, the Joint Committee will forward the first letter of support and letter of intent issued by Singapore and Ghana respectively. These letters may also lay out any conditions that the project applicant should meet in designing the proposed mitigation activity.
-
-If the proposed mitigation activity concept is not feasible or acceptable, the project applicant will be advised on how to revise their proposed mitigation activi
-ty. 
 | Required forms | Required documents | 
 | -------- | -------- | 
 | XXX     | YYY     |
+
+Singapore and Ghana may request for the submission of other relevant documents not
+listed above to aid their assessment.
 
 ##### _Stage B – Design of the proposed mitigation activity_
 

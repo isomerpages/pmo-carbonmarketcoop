@@ -31,62 +31,90 @@ listed above to aid their assessment.
 
 ##### _Stage B – Design of the proposed mitigation activity_
 
-The project applicant submits a project design document to the Joint Committee, using the template at the end of this page. Singapore and Ghana’s governments will determine whether the applicant’s design of their proposed mitigation activity is acceptable under the Implementation Agreement, and aligned with the conditions in the earlier issued first letter of support and letter of intent.
+The project applicant submits the Project Design Document (PDD) Submission Template to
+Joint Committee for assessment by Singapore and Ghana, which will be based on based on
+the conditions and requirements in the Implementation Agreement, letter of support and letter of intent.
 
-After assessment, the Joint Committee will inform the project applicant of the outcome. If the proposed mitigation project design is acceptable, the Joint Committee forward the second letter of support and letter of intent issued by Singapore and Ghana respectively. These letters may also lay out any conditions that the project applicant should meet in designing the mitigation project.
+After assessment, the Joint Committee will inform the project applicant of the PDD
+submission outcome.
 
-If the proposed mitigation project design is not feasible or acceptable, the project applicant will be advised on how to revise their project design.
+If the PDD Submission is accepted, Ghana will issue letter of recommendation and
+Singapore will reaffirm the earlier issued Letter of Support via an email to the Joint
+Committee, which will be forwarded to the project applicant. The PDD submission is
+accepted when:
+* There is no change in EI requirement that may affect the project; or
+* There is a is change in EI requirement after the issuance of the Letter of Support,
+and the project applicant submits the PDD within the 1-year assurance period
+
+Please note that Singapore will issue a new Letter of Support if there is a is change in EI
+requirement after the issuance of the Letter of Support and the Letter of Support has
+passed the 1-year assurance period.
+
+If the PDD Submission is rejected because the project design is not feasible or acceptable,
+the project applicant will be advised on how to revise their project design (if relevant).
 
 | Required forms | Required documents | 
 | -------- | -------- | 
 | XXX     | YYY     |
+
+Singapore and Ghana may request for the submission of other relevant documents not
+listed above to aid their assessment.
+
+
 
 ##### _Stage C – Authorisation of the proposed mitigation activity_
 
-The project applicant submits an authorisation application and the validation report of the proposed mitigation to the Joint Committee, using the template at the end of this page. The Joint Committee will determine whether their mitigation project is acceptable.
+The project applicant submits an authorisation application and the validation report of the
+proposed mitigation activity to the Joint Committee.
 
-After assessment, the Joint Committee will inform the project applicant of the outcome. If the proposed project is acceptable, the Joint Committee will:
+The Joint Committee will assess the proposed activity and inform the project applicant of
+the outcome.
 
+If the proposed mitigation activity is authorised, the Joint Committee will:
 1) forward the letters of authorisation from Singapore and Ghana respectively,
-
 2) enter the mitigation activity into the register,
+3) submit the initial report prepared jointly by Singapore and Ghana to the UNFCCC
+Secretariat.
 
-3) submit the initial report prepared jointly by Singapore and Ghana to the UNFCCC Secretariat.
+After the initial report has been accepted by the UNFCCC Secretariat, the Joint Committee
+will issue a Joint Statement of Authorisation to the project applicant, and publish the Joint
+Statement of Authorisation.
 
-After the initial report has been accepted by the UNFCCC Secretariat, the Joint Committee will &nbsp;issue a Joint Statement of Authorisation to the project applicant, and &nbsp;publish the Joint Statement of Authorisation. The Joint Statement of Authorisation can be found at this .
+After a Joint Statement of Authorisation has been issued, the project “applicant” becomes
+a project “participant”. Project participants may then register their mitigation activity with the approved International Offset Programme stated in the letters of authorisation and
+inform the Joint Committee of their registration. They may then begin to implement their
+project.
 
-After this, the project “applicant” becomes a project “participant”. They may then **register** their mitigation activity with the approved International Offset Programme as stated in the letters of authorisation and **inform** the Joint Committee of their registration. They may then begin to implement their project.
-
-If the proposed mitigation project is not authorised, the project applicant will be advised on how to revise their project authorisation application.
+If the proposed activity is not authorised, the project applicant will be advised by the Joint
+Committee on how to revise their project authorisation application (if relevant).
 
 | Required forms | Required documents | 
 | -------- | -------- | 
-| XXX     | YYY     |
+| XXX     | Joint Statements of Authorisation |
 
 ##### _Stage D – ITMO Issuance Authorisation_
 
-The Project Participant submits an ITMO issuance application to Singapore and Ghana’s Joint Committee. The Joint Committee sends the application so Singapore and Ghana separately to determine if the ITMO issuance meets their national requirements.
+The Project Participant submits an ITMO issuance application to Singapore and Ghana’s
+Joint Committee.
 
-After about 29 working days, the Joint Committee will inform the project participant of the outcome. If the ITMOs are authorised for issuance, Ghana will issue a Letter of Positive Examination and list the ITMOs in its national registry. Corresponding adjustments will also be made, in accordance with Article 6 of the Paris Agreement.
+The Joint Committee sends the application to Singapore and Ghana separately to
+determine if the ITMO issuance meets their national requirements. The Joint Committee
+will inform the project participant of the outcome after assessment.
 
-If the proposed mitigation project is not authorised, the applicant will be advised on how to revise their ITMO issuance application.
+If the ITMOs are authorised for issuance, Ghana will issue a Letter of Positive Examination
+and list the ITMOs in its national registry. Corresponding adjustments will also be made, in
+accordance with Article 6 of the Paris Agreement.
+
+If the ITMOs are not authorised for issuance, the applicant will be advised on how to
+revise their ITMO issuance application (if relevant).
 
 
 | Required forms | Required documents | 
 | -------- | -------- | 
 | XXX     | YYY     |
 
-
-
-You may download the relevant forms below:
-
-1. Ghana-Singapore Mitigation Activity Note of Intent
-
-2. Ghana-Singapore Mitigation Action Assessment Protocol
-
-3. Ghana-Singapore Authorization Application form
-
-4. Ghana-Singapore Issuance Application form
+Singapore and Ghana may request for the submission of other relevant documents not
+listed above to aid their assessment.
 
 
 ### Approved International Offset Programmes

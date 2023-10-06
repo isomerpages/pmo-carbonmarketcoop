@@ -31,20 +31,13 @@ The Singapore-Ghana Joint Committee is co-chaired by:
 | -------- | -------- |
 | Director-General, National Climate Change Secretariat | Director of environment, Ministry of Environment, Science, Technology and Innovation |
 
-
-Singapore Ghana
-
-
-
-
-
 The Joint Committee’s role includes:
- Provide decision-making recommendations to the countries for topics such as
+* Provide decision-making recommendations to the countries for topics such as
 guidance on processes, environmental integrity, share of proceeds and registry
 arrangements
- Establish rules and guidelines for project proponents to ease participation
- Review the IA and its annexes as required
- Consider potential cooperation areas
- Facilitate information exchange
- Discuss any questions and perform other functions related to the IA
-More details can be found in Article XX of the Implementation Agreement and Annex C.
+* Establish rules and guidelines for project proponents to ease participation
+* Review the IA and its annexes as required
+* Consider potential cooperation areas
+* Facilitate information exchange
+* Discuss any questions and perform other functions related to the IA
+More details can be found in Article 6 of the Implementation Agreement and Annex C.

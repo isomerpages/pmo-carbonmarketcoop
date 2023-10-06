@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Register.md
-      - test.md
+      - Ghana.md
       - Malaysia Projects.md
       - Singapore Projects.md

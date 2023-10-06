@@ -11,9 +11,9 @@ Singapore and Ghana substantively concluded negotiations on an Implementation Ag
 
 _Implementation Agreement factsheet_
 
-• Following the conclusion of Article 6 at COP26 last year, this Implementation Agreement will be the first such agreement for Singapore, and the second for Ghana . This concludes almost a year of negotiations between Singapore and Ghana.
+* Following the conclusion of Article 6 at COP26 last year, this Implementation Agreement will be the first such agreement for Singapore, and the second for Ghana . This concludes almost a year of negotiations between Singapore and Ghana.
 
-• The Implementation Agreement sets out the processes and criteria for carbon credit projects to be developed and to subsequently generate carbon credits. These carbon credits can then be transferred from Ghana to Singapore and can be used to meet emission targets set out in countries’ Nationally Determined Contributions (NDC).
+* The Implementation Agreement sets out the processes and criteria for carbon credit projects to be developed and to subsequently generate carbon credits. These carbon credits can then be transferred from Ghana to Singapore and can be used to meet emission targets set out in countries’ Nationally Determined Contributions (NDC).
 
 
 ###### The Implementation Agreement and its annexes are available for download here:

@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/carbontrading-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Carbon Trading
@@ -22,6 +22,9 @@ sections:
         - title: Implementation Agreements
           description: Everything about the process
           url: /implementation-agreements/implementation-agreements-explained/
+        - title: Project Application
+          description: Apply for projects here
+          url: ""
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room

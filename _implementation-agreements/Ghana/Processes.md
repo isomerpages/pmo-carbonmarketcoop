@@ -129,21 +129,3 @@ The programmes approved by both Ghana and Singapore are:
 | -------- | -------- | 
 | Gold standard for the Global Goals (GS4GG)   |All methodologies published after 1 Jan 2016 except those under the "Land Use and Forestry &amp; Agriculture" category of GS4GG. |
 |Verified Carbon Standard (VCS)|All methodologies published after 1 Jan 2016 except those that are under the "Sectoral scope 14" category of VCS and are not indicated below: Scenario 2a and 3 of VCS Jurisdictional and Nested REDD+ (JNR) framework <br> VM0012 <br> VM0017 <br> VM0021 <br> VM0022 <br> VM0024 <br> VM0026 <br> VM0032 <br> VM0033 <br> VM0036 <br> VM0040 <br> VM0041 <br> VM0042|
-
-
-**Joint Committee -** the Singapore-Ghana Joint Committee is co-chaired by:
-
-| Singapore | Ghana |
-| -------- | -------- | 
-| Director-General, <br> National Climate Change Secretariat | Director of Environment <br> Ministry of Environment, Science, Technology and Innovation |
-
-Mandates of the Joint Committee:
-* Each party may designate five officials including their co-chairs as members of the Joint Committee. 
-* They will also establish a Joint Secretariat to support their activities.
-* Joint Committee meeting occur annually and at either country's request.
-
-
-**Latest updates**
-
-
-**Resources and Reports**

@@ -13,7 +13,7 @@ Table of all required forms and documents for Project Application for Singapore 
 |  [Ghana-Singapore Authorization Application form](/files/isomer%20test.pdf) |
 | [Ghana-Singapore Issuance Application form](/files/isomer%20test.pdf) |
 
-# TO CREATE FORMSG!
+
 Instructions for use:
 * If project application documents are less than 7 Megabytes, please submit
 through this [form](https://go.gov.sg/project-application-ghana)

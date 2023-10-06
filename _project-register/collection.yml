@@ -2,5 +2,5 @@ collections:
   project-register:
     output: true
     order:
-      - Register.md
+      - Overall Register.md
       - Ghana's Register.md

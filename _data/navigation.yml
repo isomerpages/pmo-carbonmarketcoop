@@ -8,9 +8,12 @@ links:
     collection: project-register
   - title: Environmental Integrity
     collection: environmental-integrity
-  - title: Application Form
-    url: /application-form
   - title: FAQs
     url: /faq
   - title: Updates
     resource_room: true
+  - title: Apply
+    url: /permalink
+    sublinks:
+      - title: Ghana
+        url: /permalink

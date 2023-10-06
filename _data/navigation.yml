@@ -12,3 +12,5 @@ links:
     url: /application-form
   - title: FAQs
     url: /faq
+  - title: New resource room
+    resource_room: true

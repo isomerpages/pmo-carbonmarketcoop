@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - Participation Criteria.md
-      - Ghana subfolder/Ghana's Overview.md
-      - Ghana subfolder/.keep
-      - Host Countries/.keep
-      - Host Countries/Ghana.md
-      - Implementation Agreements Explained.md
-      - Singapore's Article 6 collaboration with host countries.md
-      - Ghana/Overview.md
       - Ghana/.keep
+      - Ghana/Overview.md
       - Ghana/Process and Requirements.md
       - Ghana/Documents and Templates for Download.md
       - Ghana/Point of Contact.md
       - Ghana/FAQs.md
+      - Ghana subfolder/.keep
+      - Ghana subfolder/Ghana's Overview.md
+      - Host Countries/.keep
+      - Host Countries/Ghana.md
+      - Implementation Agreements Explained.md
+      - Singapore's Article 6 collaboration with host countries.md

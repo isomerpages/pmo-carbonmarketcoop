@@ -8,12 +8,12 @@ links:
     collection: project-register
   - title: Environmental Integrity
     collection: environmental-integrity
-  - title: FAQs
-    url: /faq
-  - title: Updates
-    resource_room: true
   - title: Apply
     url: /permalink
     sublinks:
       - title: Ghana
         url: https://carbonmarkets-cooperation.gov.sg/agreements-signed/ghana/forms-for-download/
+  - title: FAQs
+    url: /faq
+  - title: Updates
+    resource_room: true

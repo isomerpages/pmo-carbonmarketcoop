@@ -33,7 +33,8 @@ sections:
   - infobar:
       title: About Carbon Trading
       subtitle: What is carbon trading?
-      description: How it works, Art 6 of the Paris agreement, and what it accomplishes.
+      description: Learn about Singapore's approach to carbon trading, and what it
+        accomplishes.
       button: Find out more
       url: /about-carbon-trading/what-is-carbon-trading/
   - infobar:

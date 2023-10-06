@@ -36,7 +36,7 @@ sections:
       description: Learn about Singapore's approach to carbon trading, and what it
         accomplishes.
       button: Find out more
-      url: /our-art6-cooperation/what-are-carbon-credits/
+      url: carbonmarkets-cooperation.gov.sg/our-art6-cooperation/what-are-carbon-credits/
   - infobar:
       title: The Project Register
       description: Locate available carbon credits.

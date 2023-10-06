@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Participation Criteria.md
-      - Ghana/Ghana's Recent Updates.md
       - Ghana/.keep
       - Ghana/Overview.md
       - Ghana/Processes.md
       - Ghana/Eligibility List.md
       - Ghana/Forms for Download.md
       - Ghana/Ghana Project Register.md
+      - Ghana/Ghana's Recent Updates.md
       - Ghana subfolder/.keep
       - Ghana subfolder/Ghana's Overview.md
       - Host Countries/.keep

@@ -41,7 +41,7 @@ sections:
       title: Project Register
       description: Locate available carbon credits.
       button: Find out more
-      url: https://carbonmarkets-cooperation.gov.sg/project-register-test/
+      url: https://carbonmarkets-cooperation.gov.sg/project-register/overall-register
   - infobar:
       title: Implementation agreements
       description: The frameworks for bilateral carbon trading.

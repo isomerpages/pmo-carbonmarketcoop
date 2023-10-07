@@ -119,7 +119,7 @@ listed above to aid their assessment.
 
 ### Approved International Offset Programmes
 
-Any mitigation project must utilize an approved (post 1st Jan 2016) methodology from either the [**Global Standard for the Global Goals (GS4GG)**](/https://globalgoals.goldstandard.org/gold-standard-previous-gs4gg/) or the [**Verra - Verified Carbon Standard (VCS)**](/https://verra.org/) program.
+Any mitigation project must utilize an approved (post 1st Jan 2016) methodology from either the [**Global Standard for the Global Goals (GS4GG)**](https://globalgoals.goldstandard.org/gold-standard-previous-gs4gg/) or the [**Verra - Verified Carbon Standard (VCS)**](https://verra.org/) program.
 
 Please check the respective websites to ensure you are using the most updated version of a methodology. Otherwise, your application may be refused.
 

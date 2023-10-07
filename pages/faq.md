@@ -25,3 +25,6 @@ Aside from the above means, you may still choose to go through other remedies or
 >4. Is it possible to submit the same application to multiple countries?
 
 The applicable eligibility criteria differ under each country’s Implementation Agreements. Please check the tabs under the Implementation agreement to ensure that you meet the standards of the host country that you are applying to.
+
+
+Have other questions? Please send them through [this form](https://go.gov.sg/carbon-credits-contacts) 

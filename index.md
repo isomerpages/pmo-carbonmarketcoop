@@ -38,7 +38,7 @@ sections:
       button: Find out more
       url: carbonmarkets-cooperation.gov.sg/our-art6-cooperation/what-are-carbon-credits/
   - infobar:
-      title: The Project Register
+      title: Project Register
       description: Locate available carbon credits.
       button: Find out more
       url: https://carbonmarkets-cooperation.gov.sg/project-register-test/

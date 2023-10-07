@@ -39,4 +39,4 @@ relevant offset programme at the point when the project applicant submits the
 application for authorisation of a mitigation activity.
 3. The methodology is not the latest version of a methodology listed in Annex A.
 
-# Additional environmental integrity requirements and safeguards imposed by Singapore can be found in LINK
+###### Additional environmental integrity requirements and safeguards imposed by Singapore can be found in LINK

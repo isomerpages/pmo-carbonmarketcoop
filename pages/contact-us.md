@@ -26,9 +26,9 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: ""
+      - email: Climate_Cooperation@pmo.gov.sg
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""

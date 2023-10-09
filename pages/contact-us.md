@@ -5,12 +5,12 @@ permalink: /contact-us/
 agency_name: us
 locations:
   - address:
-      - Climate Cooperation is a joint
-      - effort between PMO-SG
       - ""
-    title: Climate Cooperation
+      - ""
+      - ""
     operating_hours: []
     maps_link: ""
+    title: Climate Cooperation
 contacts:
   - content:
       - phone: ""

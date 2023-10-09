@@ -18,3 +18,13 @@ binding Implementation Agreement and identify potential Article 6-compliant miti
 activities which can support our achievement of respective NDCs.
 
 Currently, Singapore has signed MOUs with the following countries:
+   
+
+| Latin America | Asia | Africa | Oceania|
+| -------- | -------- | -------- |-------- |
+| Chile | Bhutan | Kenya | PNG |  
+|Colombia | Cambodia | Morocco | 
+| Dominican Republic | Indonesia | 
+| Peru | Mongolia |
+| | Vietnam |
+

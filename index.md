@@ -15,7 +15,7 @@ sections:
           url: https://carbontrading.gov.sg/what-are-carbon-credits/
         - title: Project Registry
           description: ""
-          url: /the-registry/
+          url: ""
         - title: Implementation Agreements
           description: Everything about the process
           url: /implementation-agreements/singapore-carbon-credits-cooperation

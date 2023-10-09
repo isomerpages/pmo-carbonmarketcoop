@@ -7,15 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Carbon Trading
-      subtitle: A bilateral approach to reducing carbon emissions.
+      title: Singapore's Article 6 Cooperations
       background: /images/mse life cycle of carbon credit.png
       key_highlights:
         - title: About carbon trading
           description: What is Carbon Trading?
           url: https://carbontrading.gov.sg/what-are-carbon-credits/
-        - title: The Registry
-          description: Locate carbon credits
+        - title: Project Registry
+          description: ""
           url: /the-registry/
         - title: Implementation Agreements
           description: Everything about the process

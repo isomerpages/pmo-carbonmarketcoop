@@ -27,21 +27,4 @@ sections:
       subtitle: Take a look at our updates!
       id: resources
       button: CLICK HERE TO FIND OUT MORE
-  - infobar:
-      title: About Carbon Trading
-      subtitle: What is carbon trading?
-      description: Learn about Singapore's approach to carbon trading, and what it
-        accomplishes.
-      button: Find out more
-      url: carbonmarkets-cooperation.gov.sg/our-art6-cooperation/what-are-carbon-credits/
-  - infobar:
-      title: Project Register
-      description: Locate available carbon credits.
-      button: Find out more
-      url: https://carbonmarkets-cooperation.gov.sg/project-register/overall-register
-  - infobar:
-      title: Implementation agreements
-      description: The frameworks for bilateral carbon trading.
-      button: find out more
-      url: https://carbontrading.gov.sg/implementation-agreements/art-6/
 ---

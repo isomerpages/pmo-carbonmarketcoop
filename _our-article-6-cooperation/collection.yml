@@ -2,10 +2,10 @@ collections:
   our-article-6-cooperation:
     output: true
     order:
-      - Singapore's Art 6 Cooperations/Singapore Carbon Credits Cooperation
-        under Article 6 of the Paris Agreement.md
-      - Singapore's Art 6 Cooperations/.keep
       - What are carbon credits?.md
       - Climate action through carbon trading.md
       - Singapore's interest in carbon trading.md
+      - Singapore's Art 6 Cooperations/.keep
+      - Singapore's Art 6 Cooperations/Singapore Carbon Credits Cooperation
+        under Article 6 of the Paris Agreement.md
       - Participation Criteria for our Implementation Agreements.md

@@ -64,3 +64,4 @@ emissions reduction. Singapore has therefore made it a requirement for all proje
 authorised under Singapore’s Implementation Agreements to cancel 2% of
 correspondingly adjusted carbon credits to deliver OMGE, aligned with the Article 6.4
 mechanism.
+

@@ -15,8 +15,7 @@ colors:
       color: "#e6eeaf"
     - title: media-color-five
       color: "#00838f"
-description: A site of the Singapore Government that shares information on
-  Singapore's carbon market cooperation efforts.
+description: Learn about Singapore's approach to carbon trading, and what it accomplishes.
 permalink: none
 baseurl: ""
 exclude:

@@ -1,8 +1,7 @@
 ---
 layout: homepage
 title: Singapore's Carbon Markets Cooperation
-description: A site of the Singapore Government that shares information on
-  Singapore's carbon market cooperation efforts.
+description: Learn about Singapore's approach to carbon trading, and what it accomplishes.
 image: /images/carbontrading-logo.png
 permalink: /
 notification: ""

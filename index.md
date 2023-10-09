@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: Singapore's Carbon Markets Cooperation
-description: An Isomer site of the Singapore Government
+description: A site of the Singapore Government that shares information on
+  Singapore's carbon market cooperation efforts.
 image: /images/carbontrading-logo.png
 permalink: /
 notification: ""

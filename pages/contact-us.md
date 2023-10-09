@@ -8,9 +8,9 @@ locations:
       - National Climate
       - Change Secretariat
       - 100 High Street
-    title: Prime Minister’s Office
     operating_hours: []
     maps_link: ""
+    title: Prime Minister’s Office
 contacts:
   - content:
       - phone: ""

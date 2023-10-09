@@ -15,7 +15,8 @@ colors:
       color: "#e6eeaf"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: A site of the Singapore Government that shares information on
+  Singapore's carbon market cooperation efforts.
 permalink: none
 baseurl: ""
 exclude:

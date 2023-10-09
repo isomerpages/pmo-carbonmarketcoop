@@ -2,7 +2,6 @@ collections:
   implementation-agreements:
     output: true
     order:
-      - Participation Criteria.md
       - Ghana/.keep
       - Ghana/Overview.md
       - Ghana/Processes.md

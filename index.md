@@ -17,10 +17,10 @@ sections:
           description: ""
           url: https://carbonmarkets-cooperation.gov.sg/project-register/overall-register/
         - title: Implementation Agreements
-          description: Everything about the process
+          description: ""
           url: /implementation-agreements/singapore-carbon-credits-cooperation
         - title: Project Application
-          description: Apply for projects here
+          description: ""
           url: /implementation-agreements/participation-criteria/
   - resources:
       title: UPDATES

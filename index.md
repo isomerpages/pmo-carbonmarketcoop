@@ -9,9 +9,7 @@ sections:
   - hero:
       title: Carbon Trading
       subtitle: A bilateral approach to reducing carbon emissions.
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/mse life cycle of carbon credit.png
       key_highlights:
         - title: About carbon trading
           description: What is Carbon Trading?

@@ -11,7 +11,7 @@ sections:
       background: /images/mse life cycle of carbon credit.png
       key_highlights:
         - title: About carbon trading
-          description: What is Carbon Trading?
+          description: ""
           url: https://carbontrading.gov.sg/what-are-carbon-credits/
         - title: Project Registry
           description: ""

@@ -5,7 +5,7 @@ description: Carbon credits and the process of carbon trading explained.
 ---
 _Carbon credits,_ also known as _carbon offsets,_ refer to carbon emissions reductions, measured in tonnes of carbon dioxide equivalent (tCO2e). Carbon credits can be generated through projects which take in carbon from the atmosphere (e.g. reforestation), or reduce the amount of carbon released into the atmosphere (e.g. renewable energy projects). *Carbon trading* is a market-based mechanism which enables the buying, selling, transfer, and exchange of carbon credits. *Illustrative process of carbon credits generation and carbon trading:*
 
-<img src="https://file.go.gov.sg/process808.png"> 
+<img src="https://file.go.gov.sg/carbon-credit-lifecycle.png"> 
 
 To ensure these carbon credits can truly advance global climate action and ambition, they need to meet a set of environmental integrity principles, which are explained in the graphic below.
 [NOTE: TO CHANGE TO NEW MSE INFOGRAPHIC]

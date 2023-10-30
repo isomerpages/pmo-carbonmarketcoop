@@ -78,9 +78,10 @@ will issue a Joint Statement of Authorisation to the project applicant, and publ
 Statement of Authorisation.
 
 After a Joint Statement of Authorisation has been issued, the project “applicant” becomes
-a project “participant”. Project participants may then register their mitigation activity with the approved International Offset Programme stated in the letters of authorisation and
+a project “participant”. Project participants may then register their mitigation activity with the approved carbon crediting programme <sup>1</sup> stated in the letters of authorisation and
 inform the Joint Committee of their registration. They may then begin to implement their
 project.
+
 
 If the proposed activity is not authorised, the project applicant will be advised by the Joint
 Committee on how to revise their project authorisation application (if relevant).
@@ -114,7 +115,7 @@ Singapore and Ghana may request for the submission of other relevant documents n
 listed above to aid their assessment.
 
 
-### Approved International Offset Programmes
+### Approved Carbon Crediting Programmes <sup> 1 </sup>
 
 Any mitigation project must utilize an approved (post 1st Jan 2016) methodology from either the [**Global Standard for the Global Goals (GS4GG)**](https://globalgoals.goldstandard.org/gold-standard-previous-gs4gg/) or the [**Verra - Verified Carbon Standard (VCS)**](https://verra.org/) program.
 
@@ -126,3 +127,5 @@ The programmes approved by both Ghana and Singapore are:
 | -------- | -------- | 
 | Gold standard for the Global Goals (GS4GG)   |All methodologies published after 1 Jan 2016 except those under the "Land Use and Forestry &amp; Agriculture" category of GS4GG. |
 |Verified Carbon Standard (VCS)|All methodologies published after 1 Jan 2016 except those that are under the "Sectoral scope 14" category of VCS and are not indicated below: Scenario 2a and 3 of VCS Jurisdictional and Nested REDD+ (JNR) framework <br> VM0012 <br> VM0017 <br> VM0021 <br> VM0022 <br> VM0024 <br> VM0026 <br> VM0032 <br> VM0033 <br> VM0036 <br> VM0040 <br> VM0041 <br> VM0042|
+
+*1: Please note that carbon crediting programme has the same meaning as an international offset programme in the IA*

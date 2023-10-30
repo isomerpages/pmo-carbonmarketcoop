@@ -27,7 +27,7 @@ both Ghana and Singapore.
 Though pre-approvals have been granted to the above list of methodologies, the
 applicability of these methodologies may be further assessed by both Ghana and
 Singapore when project applicant submits for registration. Based on the further
-assessment, Singapore or Ghana may refuse to refuse to authorise a mitigation activity in
+assessment, Singapore or Ghana may refuse to authorise a mitigation activity in
 scenarios where its methodology fails to qualify as a pre-approved methodology under
 Annex A. The refusal for authorisation may be because:
 

@@ -4,7 +4,7 @@ permalink: /implementation-agreements/ghana/eligibility-list/
 description: ""
 third_nav_title: Ghana
 ---
-### Approved International Offset Programmes and Carbon Crediting Methodologies
+### Approved Carbon Crediting Programmes and Carbon Crediting Methodologies
 
 Any mitigation project must utilise an approved methodology from either the [**Global Standard for the Global Goals (GS4GG)**](/https://globalgoals.goldstandard.org/gold-standard-previous-gs4gg/) or the [**Verra - Verified Carbon Standard (VCS)**](/https://verra.org/) program.
 

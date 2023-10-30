@@ -29,6 +29,8 @@ informed, along with any reasons for the non-acceptance (if relevant).
 Singapore and Ghana may request for the submission of other relevant documents not
 listed above to aid their assessment.
 
+The LOS will have an assurance period of 1 year. After the assurance period, Singapore reserves the right to withdraw the LOS if there are changes to Singapore's environmental integrity (EI) requirements that affect the project. Changes in EI requirements will be published in [Ghana's Eligibility List section in this website](). 
+
 ##### _Stage B – Design of the proposed mitigation activity_
 
 The project applicant submits the Project Design Document (PDD) Submission Template to

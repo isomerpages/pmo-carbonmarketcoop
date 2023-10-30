@@ -2,12 +2,12 @@ logo: /images/carbontrading-logo.png
 links:
   - title: About
     collection: our-article-6-cooperation
-  - title: Implementation Agreement
-    collection: implementation-agreements
-  - title: Project Register
-    collection: project-register
   - title: Environmental Integrity
     collection: environmental-integrity
+  - title: Project Register
+    collection: project-register
+  - title: Implementation Agreement
+    collection: implementation-agreements
   - title: Updates
     resource_room: true
   - title: FAQs

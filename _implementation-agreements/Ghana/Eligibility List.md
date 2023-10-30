@@ -6,7 +6,7 @@ third_nav_title: Ghana
 ---
 ### Approved Carbon Crediting Programmes and Carbon Crediting Methodologies
 
-Any mitigation project must utilise an approved methodology from either the [**Global Standard for the Global Goals (GS4GG)**](/https://globalgoals.goldstandard.org/gold-standard-previous-gs4gg/) or the [**Verra - Verified Carbon Standard (VCS)**](/https://verra.org/) program.
+Any mitigation project must utilise methodologies approved by either the [**Global Standard for the Global Goals (GS4GG)**](/https://globalgoals.goldstandard.org/gold-standard-previous-gs4gg/) or the [**Verra - Verified Carbon Standard (VCS)**](/https://verra.org/) program.
 
 Project applicants should check with the respective websites to ensure that the
 methodology used for the project is up to date. Otherwise, project applications may not

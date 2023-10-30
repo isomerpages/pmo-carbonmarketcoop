@@ -45,12 +45,7 @@ Singapore will reaffirm the earlier issued Letter of Support via an email to the
 Committee, which will be forwarded to the project applicant. The PDD submission is
 accepted when:
 * There is no change in EI requirement that may affect the project; or
-* There is a is change in EI requirement after the issuance of the Letter of Support,
-and the project applicant submits the PDD within the 1-year assurance period
-
-Please note that Singapore will issue a new Letter of Support if there is a is change in EI
-requirement after the issuance of the Letter of Support and the Letter of Support has
-passed the 1-year assurance period.
+* There is a change in EI requirement after the issuance of the Letter of Support (LOS) that may affect the project, but the project applicant submits the PDD within the 1-year assurance period
 
 If the PDD Submission is rejected because the project design is not feasible or acceptable,
 the project applicant will be advised on how to revise their project design (if relevant).
@@ -67,7 +62,7 @@ listed above to aid their assessment.
 ##### _Stage C – Authorisation of the proposed mitigation activity_
 
 The project applicant submits an authorisation application and the validation report of the
-proposed mitigation activity to the Joint Committee.
+proposed mitigation activity to the Joint Committee. Please note that the submission should be made within the assurance period of the LOS. After the assurance period, NEA reserves the right to withdraw the LOS if there are changes to Singapore's environmental integrity (EI) requirements that affect the project.
 
 The Joint Committee will assess the proposed activity and inform the project applicant of
 the outcome.

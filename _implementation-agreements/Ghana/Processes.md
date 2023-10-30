@@ -34,8 +34,8 @@ The LOS will have an assurance period of 1 year. After the assurance period, Sin
 ##### _Stage B – Design of the proposed mitigation activity_
 
 The project applicant submits the Project Design Document (PDD) Submission Template to
-Joint Committee for assessment by Singapore and Ghana, which will be based on based on
-the conditions and requirements in the Implementation Agreement, letter of support and letter of intent.
+Joint Committee for assessment by Singapore and Ghana, which will be based on
+the conditions and requirements in the Implementation Agreement, Letter of Support (LOS) and Letter of Intent (LOI).
 
 After assessment, the Joint Committee will inform the project applicant of the PDD
 submission outcome.

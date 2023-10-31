@@ -19,6 +19,3 @@ To comply with Article 6 of the Paris Agreement, the certified emissions reducti
 
 For more details, please click [here](https://www.mse.gov.sg/resource-room/category/2023-10-04-eligibility-criteria-for-international%20carbon%20credits)
  
-###### CARBON PRICING ACT
-
-Singapore enacted the Carbon Pricing Act (Rev Ed 2020) to put in place regulations governing the reporting and payment of carbon taxes.

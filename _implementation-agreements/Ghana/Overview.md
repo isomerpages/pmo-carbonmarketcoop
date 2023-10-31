@@ -52,4 +52,6 @@ arrangements
 * Consider potential cooperation areas
 * Facilitate information exchange
 * Discuss any questions and perform other functions related to the IA
+
+
 More details can be found in Article 6 of the Implementation Agreement and Annex C (Terms of Reference of the Joint Committee).

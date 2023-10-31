@@ -25,6 +25,13 @@ locations:
     operating_hours: []
     maps_link: ""
     title: MSE
+  - address:
+      - "40 Scotts Road, "
+      - "Environment Building #13-00, "
+      - Singapore 228231
+    title: NEA
+    operating_hours: []
+    maps_link: ""
 contacts:
   - content:
       - phone: ""

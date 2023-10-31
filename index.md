@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Singapore's Article 6 Cooperations
-      background: /images/mse life cycle of carbon credit.png
+      background: /images/website background.png
       key_highlights:
         - title: About carbon trading
           description: ""

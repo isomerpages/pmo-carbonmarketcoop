@@ -18,4 +18,3 @@ To comply with Article 6 of the Paris Agreement, the certified emissions reducti
 | **No leakage** | The project or programme that generated the certified emissions reductions or removals must not result in a material increase in emissions elsewhere, or if there is a risk of a material increase in emissions elsewhere, there must be measures in place to monitor, mitigate and compensate any such material increase in emissions. |
 
 For more details, please click [here](https://www.mse.gov.sg/resource-room/category/2023-10-04-eligibility-criteria-for-international%20carbon%20credits)
- 

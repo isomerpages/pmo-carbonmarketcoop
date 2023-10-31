@@ -11,4 +11,4 @@ links:
   - title: Updates
     resource_room: true
   - title: FAQs
-    url: /faq
+    collection: faq

@@ -13,3 +13,6 @@ development and environmental integrity. It will also be underpinned by a legall
 framework, known as an Implementation Agreement, signed between Singapore and host
 countries.
 
+In support of global climate ambition, Singapore’s bilateral agreements will require carbon credit developers to make a monetary contribution equivalent to 5% share of proceeds (SOP) of the Article 6-authorised carbon credits generated under our Implementation Agreements towards the host countries’ adaptation actions and/or UNFCCC Adaptation Fund.
+
+Article 6 transactions through Singapore will also support an overall mitigation of global emissions (OMGE). 2% of Article 6-authorised carbon credits are required to be cancelled at issuance, tereby preventing these credits from entering the market and contributing to an overall itigation of global emissions.

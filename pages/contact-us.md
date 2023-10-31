@@ -11,6 +11,20 @@ locations:
     operating_hours: []
     maps_link: ""
     title: Prime Minister’s Office
+  - address:
+      - 100 High Street
+      - ""
+      - ""
+    title: Ministry of Trade & Industry
+    operating_hours: []
+    maps_link: ""
+  - address:
+      - "40 Scotts Road #24-00, "
+      - Environment Building,
+      - Singapore 228231
+    title: MSE
+    operating_hours: []
+    maps_link: ""
 contacts:
   - content:
       - phone: ""

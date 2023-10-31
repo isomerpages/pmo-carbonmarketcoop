@@ -15,16 +15,16 @@ locations:
       - 100 High Street
       - ""
       - ""
-    title: Ministry of Trade & Industry
     operating_hours: []
     maps_link: ""
+    title: MTI
   - address:
-      - "40 Scotts Road #24-00, "
+      - "40 Scotts Road #24-00,"
       - Environment Building,
       - Singapore 228231
-    title: MSE
     operating_hours: []
     maps_link: ""
+    title: MSE
 contacts:
   - content:
       - phone: ""

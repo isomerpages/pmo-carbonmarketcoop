@@ -7,7 +7,7 @@ description: Why and how Singapore participates in and supports carbon trading
 
 Given Singapore’s geographical constraints as a small island-city-state, our access to alternative sources of energy is limited, placing us in a disadvantaged position. Effective international cooperation can help us achieve our climate targets. 
 
-One such means of international cooperation is carbon trading, aligned with the Article 6 of the Paris Agreement. Bilateral agreements between countries (Implementation Agreements) need to be in place to facilitate such use of carbon credits. Singapore is committed to using high-integrity carbon credits. These carbon credits have the potential to help host countries go above and beyond their unconditional Nationally Determined Contributions (NDCs), or climate commitments that the host countries intend to achieve without external support. Beyond the carbon crediting period, the mitigation outcomes generated could be accrued to the host countries’ future NDCs. 
+One such means of international cooperation is carbon trading, aligned with the Article 6 of the Paris Agreement. Bilateral agreements between countries (Implementation Agreements) need to be in place to facilitate such use of carbon credits. Singapore is committed to using high-integrity carbon credits. These carbon credits have the potential to help host countries go above and beyond their unconditional Nationally Determined Contributions (NDCs), or climate commitments that the host countries intend to achieve without external support. 
 
 From **2024**, taxable facilities in Singapore will be allowed to use high quality international carbon credits to offset up to 5% of their taxable emissions, under Singapore’s carbon tax system. 
 

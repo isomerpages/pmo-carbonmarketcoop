@@ -15,7 +15,7 @@ Table of all required forms and documents for Project Application for Singapore 
 
 
 Instructions for use:
-* If project application documents are less than 7 Megabytes, please submit
+* If project application documents are less than 7 MB, please submit
 through this [form](https://go.gov.sg/project-application-ghana)
-* If project application documents are more than 7 Megabytes, please send it to us
+* If project application documents are more than 7 MB, please send it to us
 through email at Climate_Cooperation@pmo.gov.sg

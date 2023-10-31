@@ -17,4 +17,4 @@ In support of global climate ambition, Singapore’s bilateral agreements will r
 
 Article 6 transactions through Singapore will also support an overall mitigation of global emissions (OMGE). 2% of Article 6-authorised carbon credits are required to be cancelled at issuance, tereby preventing these credits from entering the market and contributing to an overall itigation of global emissions.
 
-Beyond the carbon crediting period, the mitigation outcomes generated could be accrued to the host countries’ future NDCs. 
+Beyond the carbon crediting period, the mitigation outcomes generated could be accrued to the host countries’ future NDCs.

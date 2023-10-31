@@ -11,10 +11,6 @@ One such means of international cooperation is carbon trading, aligned with the 
 
 From **2024**, taxable facilities in Singapore will be allowed to use high quality international carbon credits to offset up to 5% of their taxable emissions, under Singapore’s carbon tax system. 
 
-In support of global climate ambition, Singapore’s bilateral agreements will require carbon credit developers to make a monetary contribution equivalent to 5% share of proceeds (SOP) of the Article 6-authorised carbon credits generated under our Implementation Agreements towards the host countries’ adaptation actions and/or UNFCCC Adaptation Fund.
-
-Article 6 transactions through Singapore will also support an overall mitigation of global emissions (OMGE). 2% of Article 6-authorised carbon credits are required to be cancelled at issuance, tereby preventing these credits from entering the market and contributing to an overall itigation of global emissions.
-
 **Carbon markets present Singapore with emerging green growth opportunities**
 
 Singapore aspires to develop into a carbon services and trading hub by tapping on its thriving

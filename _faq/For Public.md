@@ -3,7 +3,7 @@ title: For Public
 permalink: /faq/for-public/
 description: ""
 ---
-### **FAQ**
+### **For Public**
 
 >1.  What if I submit my application to the wrong link?
 

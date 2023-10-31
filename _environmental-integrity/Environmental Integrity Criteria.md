@@ -3,43 +3,21 @@ title: Environmental Integrity Criteria
 permalink: /environmental-integrity/environmental-integrity-criteria/
 description: ""
 ---
-### The Eligibility Criteria 
+### Singapore's Eligibility Criteria 
 
-**Carbon credit generation**
+To comply with Article 6 of the Paris Agreement, the certified emissions reductions or removals must have occurred between 1 January 2021 and 31 December 2030.
 
-These ensure that the carbon credits generated are environmentally robust.  
+| Principle | Definition |
+| --- | --- |
+| **Not double-counted** | The certified emissions reductions or removals must not be counted more than once in contravention of the Paris Agreement. |
+| **Additional** | The certified emissions reductions or removals must exceed any emissions reduction or removals required by any law or regulatory requirement of the host country, and that would otherwise have occurred in a conservative, business-as-usual scenario. |
+| **Real** | The certified emissions reductions or removals must have been quantified based on a realistic, defensible, and conservative estimate of the amount of emissions that would have occurred in a business-as-usual scenario, assuming the project or programme that generated the certified emission reductions or removals had not been carried out. |
+| **Quantified and verified** | The certified emissions reductions or removals must have been calculated in a manner that is conservative and transparent, and must have been measured and verified by an accredited and independent third-party verification entity before the ICC was issued. |
+| **Permanent** | The certified emissions reductions or removals must not be reversible, or if there is a risk that the certified emissions reductions or removals may be reversible, there must be measures in place to monitor, mitigate and compensate any material reversal of the certified emissions reductions or removals. |
+| **No net harm** | The project or programme that generated the certified emissions reductions or removals must not violate any applicable laws, regulatory requirements, or international obligations of the host country. |
+| **No leakage** | The project or programme that generated the certified emissions reductions or removals must not result in a material increase in emissions elsewhere, or if there is a risk of a material increase in emissions elsewhere, there must be measures in place to monitor, mitigate and compensate any such material increase in emissions. |
 
-* Carbon credits must represent emissions reductions or removals that are **additional**, meaning those which exceed any reductions that are already
-mandated or would otherwise occur in a conservative, business as usual scenario. The tests for additionality are robust and publicly disclosed. 
-
-* Carbon credits must be issued against a **realistic**, defensible, and conservative baseline estimation of “business as usual” emissions.
-* Carbon credits must be calculated in a conservative and transparent method. More specifically, they must be based on accurate measurements and quantification methods/protocols, verified by independent third-party verification entities, and verification should be conducted ex-post the project
-emissions. Ex-ante issued credits are not eligible.  
-* Carbon credits must have a clear chain of custody within the International Offset Programme. 
-* Carbon credits must represent emissions reductions that are irreversible and therefore permanent. 
- Carbon credits should be generated from projects that do not cause emissions to materially increase elsewhere (this is known as **leakage**) and
-must have measures in place to assess and mitigate incidences of material leakage. 
-* Carbon credits must represent emissions reductions that “do no net harm”, meaning, they comply with local social and environmental
-safeguards. 
-
- 
-**Programme governance and operation **
-
-These ensure that International Offset Programmes are robustly governed and generate carbon credits of high environmental integrity. 
-* IOPs are required to put in place **clear methodologies**, protocols, and their development processes. 
-* IOPs must **publicly disclose eligibility criteria** for each type of offset activity – including sectors, project types, geographic locations. 
-* IOPs must put in place carbon credit issuance and retirement procedures. These track how carbon credits are issued, retired, cancelled,
-discounted, and the length of crediting and whether that period is renewable. 
-* IOPs must have **carbon credit identification** and tracking procedures, which ensure that: 1) units are tracked, 2) units are identified through serial
-numbers, 3) the registry has robust security provisions in place, 4) units have clearly identified owners or holders, 5) stipulations as to whether they are
-linked to other registries, 6) whether and which international data exchange standards the registry conforms with.   
-* IOPs must define and ensure the attributes and property aspects of a carbon credit.  
-* IOPs must put in place **validation and verification standards** and procedures, as well as requirements and procedures for the accreditation of
-validators and verifiers.  
-* IOPs must publicly disclose who is responsible for their administration and how decisions are made. 
-* IOPs must publicly disclose a) what information is captured and made available to different stakeholders,  
-* IOPs must only count carbon credits once towards a mitigation obligation to avoid double issuance, double use, and double claiming.  
-
+For more details, please click [here](https://www.mse.gov.sg/resource-room/category/2023-10-04-eligibility-criteria-for-international%20carbon%20credits)
  
 ###### CARBON PRICING ACT
 

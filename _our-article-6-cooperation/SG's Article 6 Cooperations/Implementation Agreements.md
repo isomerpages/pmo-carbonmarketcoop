@@ -31,14 +31,6 @@ bilateral cooperation. As such, all projects authorised under Singapore’s
 Implementation Agreements will have to contribute 5% of their share of proceeds or
 equivalent to the host countries’ adaptation needs and/or their Adaptation Fund.
 
-* **Contributes to Overall Mitigation in Global Emissions (OMGE)** – In the Article 6
-rulebook, countries are also strongly encouraged to cancel some of the
-correspondingly adjusted carbon credits generated under a cooperative mechanism.
-Cancellation ensures that these carbon credits will not be used towards country’s NDC,
-compliance requirements or voluntary targets, thereby serving the sole purpose of
-emissions reduction. Singapore has therefore made it a requirement for all projects
-authorised under Singapore’s Implementation Agreements to cancel 2% of
-correspondingly adjusted carbon credits to deliver OMGE, aligned with the Article 6.4
-mechanism.
+* **Contributes to Overall Mitigation in Global Emissions (OMGE)** – Singapore requires all projects authorised under Singapore's Implementation Agreements to cancel 2% of correspondingly adjusted carbon credits to deliver OMGE, which is strongly encouraged under Article 6 rules. Cancellation ensures that these carbon credits will not be used towards the country's NDC, compliance requirements or voluntary targets, thereby serving the sole purpose of emissions reduction.
 
 <img src="https://file.go.gov.sg/impbenefits808.png">

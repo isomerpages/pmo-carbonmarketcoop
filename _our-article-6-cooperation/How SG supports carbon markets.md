@@ -11,6 +11,8 @@ One such means of international cooperation is carbon trading, aligned with the 
 
 International cooperation aligned with Article 6 of the Paris Agreement can raise global climate ambition and help countries that are alternative energy disadvantaged (such as Singapore) to achieve their target through the transfer of mitigation outcomes between countries. To unlock the potential of Article 6, bilateral agreements between countries must be in place to govern and facilitate the use of Article 6 compliant carbon credits to offset the NDC of a country.  
 
+Singapore is pursuing cooperation with other countries under Article 6.2 of the Paris Agreement to enable the transfer of international mitigation outcomes to Singapore.
+
 From **2024 onwards**, taxable facilities in Singapore will be allowed to use high quality international carbon credits to offset up to 5% of their taxable emissions, under Singapore’s carbon tax system. 
 
 **Carbon markets present Singapore with emerging green growth opportunities**

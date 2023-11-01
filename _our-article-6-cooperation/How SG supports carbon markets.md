@@ -3,13 +3,15 @@ title: How SG supports carbon markets
 permalink: /our-art6-cooperation/how-sg-supports-carbon-markets/
 description: Why and how Singapore participates in and supports carbon trading
 ---
-**Carbon trading allows Singapore to collaborate with other countries towards achievement of climate targets.**
+**Collaborating with other countries to support our climate ambition**
 
-Given Singapore’s geographical constraints as a small island-city-state, our access to alternative sources of energy is limited, placing us in a disadvantaged position. Effective international cooperation can help us achieve our climate targets. 
+As Singapore decarbonises our economy, we recognise our limited ability to deploy renewable energy is limited given our constraints as a small island city state that is densely populated. Effective international cooperation through carbon markets can thus help us achieve our climate targets. 
 
-One such means of international cooperation is carbon trading, aligned with the Article 6 of the Paris Agreement. Bilateral agreements between countries (Implementation Agreements) need to be in place to facilitate such use of carbon credits. Singapore is committed to using high-integrity carbon credits. These carbon credits have the potential to help host countries go above and beyond their unconditional Nationally Determined Contributions (NDCs), or climate commitments that the host countries intend to achieve without external support. 
+One such means of international cooperation is carbon trading, aligned with the Article 6 of the Paris Agreement. 
 
-From **2024**, taxable facilities in Singapore will be allowed to use high quality international carbon credits to offset up to 5% of their taxable emissions, under Singapore’s carbon tax system. 
+International cooperation aligned with Article 6 of the Paris Agreement can raise global climate ambition and help countries that are alternative energy disadvantaged (such as Singapore) to achieve their target through the transfer of mitigation outcomes between countries. To unlock the potential of Article 6, bilateral agreements between countries must be in place to govern and facilitate the use of Article 6 compliant carbon credits to offset the NDC of a country.  
+
+From **2024 onwards**, taxable facilities in Singapore will be allowed to use high quality international carbon credits to offset up to 5% of their taxable emissions, under Singapore’s carbon tax system. 
 
 **Carbon markets present Singapore with emerging green growth opportunities**
 

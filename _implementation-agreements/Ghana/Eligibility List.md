@@ -4,7 +4,7 @@ permalink: /implementation-agreements/ghana/eligibility-list/
 description: ""
 third_nav_title: Ghana
 ---
-### Approved Carbon Crediting Programmes and Carbon Crediting Methodologies
+### Approved Carbon Crediting Programmes and Methodologies
 
 Any mitigation project must utilise methodologies approved by either the [**Global Standard for the Global Goals (GS4GG)**](/https://globalgoals.goldstandard.org/gold-standard-previous-gs4gg/) or the [**Verra - Verified Carbon Standard (VCS)**](/https://verra.org/) program.
 
@@ -15,7 +15,7 @@ be accepted.
 
 The programmes and methodologies approved by both Ghana and Singapore are:
 
-| Offset Programmes | Methodologies | 
+| Carbon crediting Programmes | Methodologies | 
 | -------- | -------- | 
 | Gold standard for the Global Goals (GS4GG) | All methodologies published before 31 March 2023, except  those under the "Land Use and Forestry &amp; Agriculture" category of GS4GG and: <br> Methodology for Animal Waste Management and Biogas Application V1.1 <br> Methodology for Collection of Macroalgae to Avoid Emissions from Decomposition V1.0 <br> Carbon Sequestration Through Accelerated Carbonation of Concrete Aggregate V1.0 <br> Two and Three Wheeled Personal Transportation V1.0 |
 |Verified Carbon Standard (VCS)| All methodologies published before 31 March 2023, except VM0044, those that are under the “Sectoral Scope 14” category of VCS and are **not** indicated below: <br> Scenario 2a and 3 of VCS Jurisdictional and Nested REDD+ (JNR) framework <br> VM0012 <br> VM0022 <br> VM0026 (and VMD0040) <br> VM0032 <br> VM0033 <br> VM0036 <br> VM0040 <br> VM0041 <br> VM0042 <br> Where any VCS methodology is used, the project participant will be required to demonstrate the Sustainable Development contributions or co-benefits of the relevant mitigation activity by submitting to the Joint Committee its verification report under the Climate, Community and Biodiversity Standards (CCB Standards), the Sustainable Development Verified Impact Standard (SD VISta) or another standard recognised by VCS for such purpose. | 

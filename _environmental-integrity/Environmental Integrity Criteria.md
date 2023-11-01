@@ -3,7 +3,7 @@ title: Environmental Integrity Criteria
 permalink: /environmental-integrity/environmental-integrity-criteria/
 description: ""
 ---
-### Singapore's Eligibility Criteria 
+### Singapore's Eligibility Criteria (as per MSE's media release)
 
 To comply with Article 6 of the Paris Agreement, the certified emissions reductions or removals must have occurred between 1 January 2021 and 31 December 2030.
 

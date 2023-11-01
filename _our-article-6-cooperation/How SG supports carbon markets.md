@@ -15,7 +15,7 @@ Singapore is pursuing cooperation with other countries under Article 6.2 of the 
 
 From **2024 onwards**, taxable facilities in Singapore will be allowed to use high quality international carbon credits to offset up to 5% of their taxable emissions, under Singapore’s carbon tax system. 
 
-**Carbon markets present Singapore with emerging green growth opportunities**
+**Building a Vibrant Carbon Services Ecosystem**
 
 Singapore aspires to develop into a carbon services and trading hub by tapping on its thriving
 ecosystem and locality in Southeast Asia, one of the largest carbon credit sources. Based on a [study](https:/www.edb.gov.sg/en/about-edb/media-releases-publications/singapore-is-well-positioned-to-become-a-carbon-services-and-trading-hub-for-southeast-asia-and-the-asia-pacific.html) commissioned by the Economic Development Board (EDB) and Enterprise Singapore (ESG),

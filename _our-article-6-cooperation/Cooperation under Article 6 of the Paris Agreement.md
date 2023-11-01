@@ -3,7 +3,7 @@ title: Cooperation under Article 6 of the Paris Agreement
 permalink: /our-art6-cooperation/cooperation-under-art-6-paris-agreement/
 description: The Paris Agreement and Article 6
 ---
-##### Cooperative mechanism under the Paris Agreement
+##### How Carbon Markets support Climate Action
 
 Article 6 of the Paris Agreement sets out the framework for countries to voluntarily cooperate to achieve their climate targets, or Nationally Determined Contributions (NDCs).
 

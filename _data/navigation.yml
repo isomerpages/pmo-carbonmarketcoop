@@ -6,8 +6,6 @@ links:
     collection: environmental-integrity
   - title: Project Register
     collection: project-register
-  - title: Implementation Agreement
-    collection: implementation-agreements
   - title: Newsroom
     resource_room: true
   - title: FAQs

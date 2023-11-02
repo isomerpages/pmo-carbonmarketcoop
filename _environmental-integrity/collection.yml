@@ -2,6 +2,6 @@ collections:
   environmental-integrity:
     output: true
     order:
-      - Environmental Integrity Criteria.md
+      - Eligibility Criteria.md
       - Overall Eligibility List.md
       - Additional Environmental Integrity safeguards.md

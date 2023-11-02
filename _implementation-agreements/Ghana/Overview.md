@@ -4,10 +4,8 @@ permalink: /implementation-agreements/ghana/overview/
 description: ""
 third_nav_title: Ghana
 ---
-##### Timeline
 
-###### 15 November 2022: 
-Singapore and Ghana substantively concluded negotiations on an Implementation Agreement on carbon credits cooperation.
+Singapore and Ghana substantively concluded negotiations on an Implementation Agreement on carbon credits cooperation on 15 November 2022.
 
 _Implementation Agreement factsheet_
 

@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: About carbon trading
           description: ""
-          url: https://carbontrading.gov.sg/what-are-carbon-credits/
+          url: https://carbonmarkets-cooperation.gov.sg/our-art6-cooperation/what-are-carbon-credits/
         - title: Project Register
           description: ""
           url: https://carbonmarkets-cooperation.gov.sg/project-register/overall-register/

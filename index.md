@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Singapore's Article 6 Cooperations
+      title: Singapore's Article 6 Cooperation
       background: /images/website background.png
       key_highlights:
         - title: About carbon trading

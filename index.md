@@ -23,8 +23,7 @@ sections:
           description: ""
           url: /implementation-agreements/participation-criteria/
   - resources:
-      title: UPDATES
-      subtitle: Take a look at our updates!
+      title: Newsroom
       id: resources
       button: CLICK HERE TO FIND OUT MORE
 ---

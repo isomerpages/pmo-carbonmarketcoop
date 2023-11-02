@@ -18,7 +18,7 @@ sections:
           url: /project-register/overall-register/
         - title: Implementation Agreements
           description: ""
-          url: /implementation-agreements/singapore-carbon-credits-cooperation
+          url: /implementation-agreements/overall-ias/
         - title: Project Application
           description: ""
           url: /implementation-agreements/participation-criteria/

@@ -28,5 +28,4 @@ All forestry conservation projects (i.e. REDD+) must:
 
 | Project type | Additional safeguard(s) |
 | -------- | -------- |
-| Forestry conservation (ie. REDD+) | Use nested baseline or be part of a jurisdictional programme to address concerns over leakage and non-additionality due to policy <br>  Not use baseline that incorporates HFLD-related incentive factor|
-
+| Forestry conservation (ie. REDD+) | Use nested baseline or be part of a jurisdictional programme to address concerns over leakage and non-additionality due to policy <br>  Not use baseline that incorporates High Forest-Low Deforestation-related incentive factor|

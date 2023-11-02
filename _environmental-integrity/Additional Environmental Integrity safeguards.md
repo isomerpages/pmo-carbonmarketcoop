@@ -10,7 +10,7 @@ Only carbon credits from the following renewable energy projects will be allowed
 3. Projects outside of (1) and (2), but come from (i) Least Developed Countries (LDC),
 (ii) micro-grids that are not linked to national grids, or (iii) lower middle income
 countries with less than 5% of the said renewable technology deployed in national
-grid at the point of registration or renewal
+grid at the point of registration&nbsp;or renewal
 
 **Renewable energy projects refers to projects that (i) generate and deliver energy services
 (e.g. mechanical, work, electricity, heat) from non-fossil fuel and renewable energy sources,
@@ -22,6 +22,11 @@ income countries is based on World Bank’s definition*
 
 
 All forestry conservation projects (i.e. REDD+) must:
-* Use nested baseline or be part of a jurisdictional programme to address concerns
-over leakage and non-additionality due to policy; and
-* Not use baseline that incorporates HFLD-related incentive factor
+
+
+
+
+| Project type | Additional safeguard(s) |
+| -------- | -------- |
+| Forestry conservation (ie. REDD+) | Use nested baseline or be part of a jurisdictional programme to address concerns over leakage and non-additionality due to policy <br>  Not use baseline that incorporates HFLD-related incentive factor|
+

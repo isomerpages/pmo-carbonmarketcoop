@@ -2,6 +2,7 @@
 title: How carbon markets support climate action
 permalink: /our-art6-cooperation/how-carbon-markets-support-climate-action/
 description: The Paris Agreement and Article 6
+variant: markdown
 ---
 ##### How Carbon Markets support Climate Action
 
@@ -12,6 +13,6 @@ Article 6 of the Paris Agreement sets out the framework for countries to volunta
 For example, when Country X buys 1 MtCO<sub>2</sub>e of carbon credits from Country Y, Country Y has to add 1 MtCO<sub>2</sub>e to its GHG inventory while Country X will reduce 1 MtCO<sub>2</sub>e in its GHG inventory.
 
 
-<img src="https://file.go.gov.sg/corrsadj.gif">
+<img src="https://file.go.gov.sg/corrsadj-v2.gif">
 
 *Illustration of the process of corresponding adjustments.*

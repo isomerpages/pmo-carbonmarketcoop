@@ -2,5 +2,6 @@
 title: Participation criteria for implementation agreements
 permalink: /implementation-agreements/participation-criteria/
 description: ""
+variant: markdown
 ---
-Please note that this page is in progress.
+Work in progress.

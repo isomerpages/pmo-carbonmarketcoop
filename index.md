@@ -1,32 +1,29 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Singapore's Carbon Markets Cooperation
+description: Learn about Singapore's approach to carbon trading, and what it accomplishes.
+image: /images/carbontrading-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Singapore's Article 6 Cooperation
+      background: /images/website background.png
+      key_highlights:
+        - title: About carbon trading
+          description: ""
+          url: /our-art6-cooperation/what-are-carbon-credits/
+        - title: Project Register
+          description: ""
+          url: /project-register/overall-register/
+        - title: Implementation Agreements
+          description: ""
+          url: /implementation-agreements/overall-ias/
+        - title: Project Application
+          description: ""
+          url: /implementation-agreements/participation-criteria/
+  - resources:
+      title: Newsroom
+      id: resources
+      button: CLICK HERE TO FIND OUT MORE
 ---
-

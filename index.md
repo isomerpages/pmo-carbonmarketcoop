@@ -18,7 +18,7 @@ sections:
           url: /project-register/overall-register/
         - title: Implementation Agreements
           description: ""
-          url: /implementation-agreements/overall-ias/
+          url: /our-article-6-cooperation/singapores-art-6-cooperations/overview/
         - title: Project Application
           description: ""
           url: /implementation-agreements/participation-criteria/

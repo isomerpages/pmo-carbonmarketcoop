@@ -2,6 +2,7 @@
 title: Additional Environmental Integrity safeguards
 permalink: /environmental-integrity/additional-environmental-integrity-safeguards/
 description: ""
+variant: markdown
 ---
 Only carbon credits from the following renewable energy projects will be allowed:
 

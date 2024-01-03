@@ -1,4 +1,5 @@
 collections:
   implementation-agreements:
     output: true
-    order: []
+    order:
+      - Overall IAs.md

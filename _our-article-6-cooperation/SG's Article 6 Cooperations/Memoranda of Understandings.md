@@ -3,6 +3,7 @@ title: Memoranda of Understandings
 permalink: /our-article-6-cooperation/sgs-article-6-cooperations/mous/
 description: ""
 third_nav_title: SG's Article 6 Cooperations
+variant: markdown
 ---
 ### Memorandum of Understanding (MOU)
 The MOU signals Singapore’s and host countries’ intent to collaborate on carbon markets,
@@ -15,7 +16,7 @@ Currently, Singapore has signed MOUs with the following countries:
 
 | Latin America | Asia | Africa | Oceania|
 | -------- | -------- | -------- |-------- |
-| Chile | Bhutan | Kenya | PNG |  
+| Chile | Bhutan | Kenya | Papua New Guinea |  
 |Colombia | Cambodia | Morocco | 
 | Dominican Republic | Indonesia | 
 | Peru | Mongolia |

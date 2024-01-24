@@ -1,0 +1,11 @@
+collections:
+  implementation-agreements:
+    output: true
+    order:
+      - Papua New Guinea/Project Register.md
+      - Papua New Guinea/Forms.md
+      - Papua New Guinea/Eligibility List.md
+      - Papua New Guinea/Processes.md
+      - Papua New Guinea/Overview.md
+      - Papua New Guinea/.keep
+      - Overall IAs.md

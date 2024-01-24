@@ -1,0 +1,6 @@
+collections:
+  environmental-integrity:
+    output: true
+    order:
+      - Eligibility Criteria.md
+      - Overall Eligibility List.md

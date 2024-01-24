@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /our-article-6-cooperation/singapores-art-6-cooperations/overview/
-description: ""
+description: SG's Article 6 Cooperations Overview
 third_nav_title: SG's Article 6 Cooperations
 variant: markdown
 ---

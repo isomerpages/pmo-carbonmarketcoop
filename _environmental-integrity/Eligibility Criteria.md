@@ -1,7 +1,7 @@
 ---
 title: Eligibility Criteria
 permalink: /environmental-integrity/eligibility-criteria/
-description: ""
+description: Eligibility Criteria
 variant: markdown
 ---
 ### Singapore's Eligibility Criteria

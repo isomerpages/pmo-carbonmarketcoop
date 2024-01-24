@@ -1,7 +1,8 @@
 ---
 title: Overall Register
 permalink: /project-register/overall-register/
-description: ""
+description: Overall Register
+variant: tiptap
 ---
 Work in progress.
 

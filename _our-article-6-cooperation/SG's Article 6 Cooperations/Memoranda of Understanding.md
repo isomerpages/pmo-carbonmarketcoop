@@ -53,7 +53,7 @@ can support our achievement of respective NDCs.</p>
 <p>Morocco</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Fiji</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ can support our achievement of respective NDCs.</p>
 <p>Indonesia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rwanda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,7 +100,7 @@ can support our achievement of respective NDCs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Costa Rica</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sri Lanka</p>

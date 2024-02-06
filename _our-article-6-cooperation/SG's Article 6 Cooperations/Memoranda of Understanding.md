@@ -86,7 +86,7 @@ can support our achievement of respective NDCs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Paraguay</p>
+<p>Costa Rica</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vietnam</p>
@@ -100,7 +100,7 @@ can support our achievement of respective NDCs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Costa Rica</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sri Lanka</p>

@@ -66,7 +66,8 @@ are not eligible.&nbsp;</p>
 <p>3 HFLD countries are developing countries with more than 50% forest cover
 and a deforestation rate of less than 0.22% per year.&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
-<p></p>
+<p><strong>Annex B</strong>
+</p>
 <p>Applicable for 2024 Emissions Year onwards, last updated 8 Feb 2024</p>
 <table>
 <tbody>

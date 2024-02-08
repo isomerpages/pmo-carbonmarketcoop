@@ -193,5 +193,4 @@ Water Savings in Buildings, v1.0.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[RYG(1]</a>Where is Annex A?</p>
 <p></p>

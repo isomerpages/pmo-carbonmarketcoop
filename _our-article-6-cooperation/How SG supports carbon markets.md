@@ -2,10 +2,11 @@
 title: How SG supports carbon markets
 permalink: /our-art6-cooperation/how-sg-supports-carbon-markets/
 description: Why and how Singapore participates in and supports carbon trading
+variant: markdown
 ---
 **Collaborating with other countries to support our climate ambition**
 
-As Singapore decarbonises our economy, we recognise our limited ability to deploy renewable energy is limited given our constraints as a small island city state that is densely populated. Effective international cooperation through carbon markets can thus help us achieve our climate targets. 
+As Singapore decarbonises our economy, we recognise our limited ability to deploy renewable energy is limited given our constraints as a small island city state that is densely populated. Effective international cooperation through carbon markets, aligned with the Article 6 of the Paris Agreement, can thus help us achieve our climate targets.
 
 One such means of international cooperation is carbon trading, aligned with the Article 6 of the Paris Agreement. 
 

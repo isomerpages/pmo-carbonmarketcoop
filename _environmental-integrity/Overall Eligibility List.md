@@ -73,20 +73,6 @@ and a deforestation rate of less than 0.22% per year.&nbsp;&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>First column</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Second column</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Third column</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Host country</strong>
 </p>
 </td>

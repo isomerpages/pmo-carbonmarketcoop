@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overall IAs.md
+      - Ghana/Overview.md
       - Ghana/.keep
       - Papua New Guinea/.keep
       - Papua New Guinea/Overview.md

@@ -27,7 +27,7 @@ of the Implementation Agreement and ensures the proper and the smooth implementa
 of the Implementation Agreement.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p>The Singapore-Papua New Guinea Joint Committee is co-chaired by:</p>
+<p>The Singapore-Ghana Joint Committee is co-chaired by:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,7 +39,7 @@ of the Implementation Agreement.</p>
 <p>Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Papua New Guinea</p>
+<p>Ghana</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,8 @@ of the Implementation Agreement.</p>
 <p>National Climate Change Secretariat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Managing Director, Climate Change Development Authority</p>
+<p>Director (Environment), Ministry of Environment, Science, Technology and
+Innovation</p>
 </td>
 </tr>
 </tbody>

@@ -2,6 +2,7 @@ collections:
   implementation-agreements:
     output: true
     order:
+      - Ghana/Overall IAs.md
       - Ghana/.keep
       - Papua New Guinea/.keep
       - Papua New Guinea/Overview.md

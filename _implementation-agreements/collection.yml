@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Overall IAs.md
-      - Ghana/Project Register.md
       - Ghana/.keep
       - Ghana/Overview.md
       - Ghana/Processes.md
       - Ghana/Eligibility List.md
       - Ghana/Forms.md
+      - Ghana/Project Register.md
       - Papua New Guinea/.keep
       - Papua New Guinea/Overview.md
       - Papua New Guinea/Processes.md

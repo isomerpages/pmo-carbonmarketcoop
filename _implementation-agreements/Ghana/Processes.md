@@ -1,9 +1,9 @@
 ---
 title: Processes
-permalink: /implementation-agreements/papua-new-guinea/processes/
+permalink: /processes/
 variant: tiptap
 description: ""
-third_nav_title: Papua New Guinea
+third_nav_title: Ghana
 ---
 <p><em>Stage A – Feasibility of the proposed mitigation activity</em>
 </p>
@@ -14,9 +14,9 @@ Committee.</p>
 <p>&nbsp;</p>
 <p>If the proposed mitigation activity concept is accepted by both countries,
 the Joint Committee will issue the <u>Letter of Support</u> and <u>Letter of Intent</u> from
-Singapore and Papua New Guinea respectively. These letters may specify
-the conditions that the project applicant should meet in designing the
-proposed mitigation activity.</p>
+Singapore and Ghana respectively. These letters may specify the conditions
+that the project applicant should meet in designing the proposed mitigation
+activity.</p>
 <p>&nbsp;</p>
 <p>If the proposed mitigation activity concept is not accepted, the project
 applicant will be informed, along with any reasons for the non-acceptance
@@ -38,7 +38,7 @@ applicant will be informed, along with any reasons for the non-acceptance
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Work in Progress</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>Work in Progress</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,14 +48,14 @@ applicant will be informed, along with any reasons for the non-acceptance
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>Singapore and Papua New Guinea may request for the submission of other
-relevant documents not listed above to aid their assessment.</p>
+<p>Singapore and Ghana may request for the submission of other relevant documents
+not listed above to aid their assessment.</p>
 <p>&nbsp;</p>
 <p>The LOS will have an assurance period of 1 year.&nbsp; After the assurance
 period, Singapore reserves the right to withdraw the LOS if there are changes
 to Singapore’s environmental integrity (EI) EI requirements that affect
-the project. Changes in EI requirements will be published in Papua New
-Guinea’s Eligibility List section in this website.</p>
+the project. Changes in EI requirements will be published in Ghana’s Eligibility
+List section in this website.</p>
 <p><em>&nbsp;</em>
 </p>
 <p><em>Stage B – Design of the proposed mitigation activity</em>
@@ -63,17 +63,17 @@ Guinea’s Eligibility List section in this website.</p>
 <p><em>&nbsp;</em>
 </p>
 <p>The project applicant submits the completed <u>Project Design Document (PDD) Submission Template</u> to
-Joint Committee for assessment by Singapore and Papua New Guinea, which
-will be based on the conditions and requirements in the Implementation
-Agreement, Letter of Support (LOS) and Letter of Intent (LOI).</p>
+Joint Committee for assessment by Singapore and Ghana, which will be based
+on the conditions and requirements in the Implementation Agreement, Letter
+of Support (LOS) and Letter of Intent (LOI).</p>
 <p>&nbsp;</p>
 <p>After assessment, the Joint Committee will inform the project applicant
 of the PDD submission outcome.</p>
 <p>&nbsp;</p>
-<p>If the PDD Submission is accepted, Papua New Guinea will issue letter
-of recommendation and Singapore will reaffirm the earlier issued Letter
-of Support via an email to the Joint Committee, which will be forwarded
-to the project applicant. The PDD submission is accepted when:</p>
+<p>If the PDD Submission is accepted, Ghana will issue letter of recommendation
+and Singapore will reaffirm the earlier issued Letter of Support via an
+email to the Joint Committee, which will be forwarded to the project applicant.
+The PDD submission is accepted when:</p>
 <p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,7 +107,7 @@ project design (if relevant).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Work in Progress</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>Work in Progress</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,8 +117,8 @@ project design (if relevant).</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>Singapore and Papua New Guinea may request for the submission of other
-relevant documents not listed above to aid their assessment.</p>
+<p>Singapore and Ghana may request for the submission of other relevant documents
+not listed above to aid their assessment.</p>
 <p>&nbsp;</p>
 <p><em>Stage C – Authorisation of the proposed mitigation activity</em>
 </p>
@@ -136,11 +136,11 @@ applicant of the outcome.</p>
 <p>&nbsp;</p>
 <p>If the proposed mitigation activity is authorised, the Joint Committee
 will:</p>
-<p>1) forward the letters of authorisation issued by Singapore and Papua
-New Guinea respectively;</p>
+<p>1) forward the letters of authorisation issued by Singapore and Ghana
+respectively;</p>
 <p>2) enter the mitigation activity into the register; and</p>
-<p>3) submit the initial report prepared jointly by Singapore and Papua New
-Guinea to the UNFCCC Secretariat.</p>
+<p>3) submit the initial report prepared jointly by Singapore and Ghana to
+the UNFCCC Secretariat.</p>
 <p>&nbsp;</p>
 <p>After the initial report has been accepted by the UNFCCC Secretariat,
 the Joint Committee will issue a Joint Statement of Authorisation to the
@@ -181,24 +181,24 @@ application (if relevant).</p>
 </tr>
 </tbody>
 </table>
-<p>Singapore and Papua New Guinea may request for the submission of other
-relevant documents not listed above to aid their assessment.</p>
+<p>Singapore and Ghana may request for the submission of other relevant documents
+not listed above to aid their assessment.</p>
 <p></p>
 <p><em>Stage D – ITMO Issuance Authorisation</em>
 </p>
 <p></p>
 <p>The Project Participant submits an ITMO issuance application to Singapore
-and Papua New Guinea's Joint Committee.</p>
+and Ghana’s Joint Committee.</p>
 <p></p>
-<p>The Joint Committee sends the application to Singapore and Papua New Guinea
-separately to determine if the ITMO issuance meets their national requirements.
-The Joint Committee will inform the project participant of the outcome
-after assessment.</p>
+<p>The Joint Committee sends the application to Singapore and Ghana separately
+to determine if the ITMO issuance meets their national requirements. The
+Joint Committee will inform the project participant of the outcome after
+assessment.</p>
 <p></p>
-<p>If the ITMOs are authorised for issuance, Papua New Guinea will issue
-a Letter of Positive Examination and list the ITMOs in its national registry.
-Corresponding adjustments will also be made, in accordance with Article
-6 of the Paris Agreement.</p>
+<p>If the ITMOs are authorised for issuance, Ghana will issue a Letter of
+Positive Examination and list the ITMOs in its national registry. Corresponding
+adjustments will also be made, in accordance with Article 6 of the Paris
+Agreement.</p>
 <p></p>
 <p>If the ITMOs are not authorised for issuance, the applicant will be advised
 on how to revise their ITMO issuance application (if relevant).</p>
@@ -228,6 +228,5 @@ on how to revise their ITMO issuance application (if relevant).</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>Singapore and Papua New Guinea may request for the submission of other
-relevant documents not listed above to aid their assessment.</p>
-<p></p>
+<p>Singapore and Ghana may request for the submission of other relevant documents
+not listed above to aid their assessment.</p>

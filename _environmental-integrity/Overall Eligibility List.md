@@ -69,7 +69,12 @@ and a deforestation rate of less than 0.22% per year.&nbsp;&nbsp;</p>
 <p><strong>Annex B</strong>
 </p>
 <p>Applicable for 2024 Emissions Year onwards, last updated 8 Feb 2024</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -172,6 +177,70 @@ and Degradation (REDD);</p>
 Connected Renewable Energy Based Desalination Plant, v1.0;</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM005 Methodology for Desalinated
 Water Savings in Buildings, v1.0.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Ghana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Standard for the Global Goals (GS4GG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All active methodologies published before 31 March 2023 except those under
+the “Land Use and Forestry &amp; Agriculture” category of GS4GG.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Verified Carbon Standard (VCS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All active methodologies published before 31 March 2023 except those that
+are under the "Sectoral Scope 14" category of VCS, with these allowable
+exceptions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Scenario 2a and 3 of VCSN Jurisdictional and Nested REDD+ (JNR) framework</p>
+</li>
+<li>
+<p>VM0012</p>
+</li>
+<li>
+<p>VM0017</p>
+</li>
+<li>
+<p>VM0021</p>
+</li>
+<li>
+<p>VM0022</p>
+</li>
+<li>
+<p>VM0024</p>
+</li>
+<li>
+<p>VM0026 (and VMD0040)</p>
+</li>
+<li>
+<p>VM0032</p>
+</li>
+<li>
+<p>VM0036</p>
+</li>
+<li>
+<p>VM0041</p>
+</li>
+<li>
+<p>VM0042</p>
+</li>
+</ul>
+<p></p>
+<p>Where any VCS methodology is used, the project participant will be required
+to demonstrate the Sustainable Development contributions or co-benefits
+of the relevant mitigation activity by submitting to the Joint Committee
+its verification report under the Climate, Community and Biodiversity Standards
+(CCB Standards), the Sustainable Development Verified Impact Standard (SD
+VISta) or another standard recognised by VCS for such purpose.</p>
 </td>
 </tr>
 </tbody>

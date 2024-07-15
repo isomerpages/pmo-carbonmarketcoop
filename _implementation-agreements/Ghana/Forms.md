@@ -1,11 +1,11 @@
 ---
 title: Forms
-permalink: /implementation-agreements/papua-new-guinea/forms/
+permalink: /forms/
 variant: tiptap
 description: ""
-third_nav_title: Papua New Guinea
+third_nav_title: Ghana
 ---
-<p><em>Table of all required forms and documents for Project Application for Singapore and Papua New Guinea</em>
+<p><em>Table of all required forms and documents for Project Application for Singapore and Ghana</em>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -19,25 +19,25 @@ third_nav_title: Papua New Guinea
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Papua New Guinea-Singapore Mitigation Activity Note of Intent</em>
+<p><em>Ghana-Singapore Mitigation Activity Note of Intent</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Papua New Guinea-Singapore Mitigation Action Assessment Protocol</em>
+<p><em>Ghana-Singapore Mitigation Action Assessment Protocol</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Papua New Guinea-Singapore Authorisation Application form</em>
+<p><em>Ghana-Singapore Authorisation Application form</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Papua New Guinea-Singapore Issuance Application form</em>
+<p><em>Ghana-Singapore Issuance Application form</em>
 </p>
 </td>
 </tr>

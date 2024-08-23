@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.nccs.gov.sg/singapore-signs-implementation-agreement-with-ghana-to-collaborate-on-carbon-credits/
+external: https://www.nccs.gov.sg/singapore-signs-implementation-agreement-with-ghana-to-collaborate-on-carbon-credits/
 ---

@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.mti.gov.sg/Newsroom/Press-Releases/2023/12/Singapore-and-Bhutan-substantively-conclude-negotiations-on
+external: https://www.mti.gov.sg/Newsroom/Press-Releases/2023/12/Singapore-and-Bhutan-substantively-conclude-negotiations-on
 ---

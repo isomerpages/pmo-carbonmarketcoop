@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.edb.gov.sg/en/business-insights/insights/singapore-vietnam-ink-deals-to-broaden-collaboration-in-green-economy-innovation.html
+external: https://www.edb.gov.sg/en/business-insights/insights/singapore-vietnam-ink-deals-to-broaden-collaboration-in-green-economy-innovation.html
 ---

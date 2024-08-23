@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.nccs.gov.sg/media/press-releases/singapore-and-paraguay-substantively-conclude-negotations-on-ia/
+external: https://www.nccs.gov.sg/media/press-releases/singapore-and-paraguay-substantively-conclude-negotations-on-ia/
 ---

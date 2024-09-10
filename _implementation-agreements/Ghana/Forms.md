@@ -6,7 +6,12 @@ description: ""
 third_nav_title: Ghana
 ---
 <p>Instructions for Use:</p>
-<p></p>
+<ol type="1">
+	<h6><li> Download and access the form tempalte</li>
+		<li> Prepare supporting documents </li>
+		<li> Access the respective FormSG sybmission portal and submit the necessary information and supporting documents</li></h6>
+	</ol>
+	
 <p></p>
 <p></p>
 <p><em>Table of all required forms and documents for Project Application for Singapore and Ghana</em>

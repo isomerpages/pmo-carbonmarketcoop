@@ -38,8 +38,7 @@ applicant will be informed, along with any reasons for the non-acceptance
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Work in Progress</a>
-</p>
+<p>Work in Progress</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,8 +106,7 @@ project design (if relevant).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Work in Progress</a>
-</p>
+<p>Work in Progress</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

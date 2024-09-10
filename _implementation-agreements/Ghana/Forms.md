@@ -1,20 +1,25 @@
 ---
 title: Forms
 permalink: /forms/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Ghana
 ---
-<p>Instructions for Use:</p>
-<ol type="1">
-	<h6><li> Download and access the form tempalte</li>
-		<li> Prepare supporting documents </li>
-		<li> Access the respective FormSG sybmission portal and submit the necessary information and supporting documents</li></h6>
-	</ol>
-	
-<p></p>
-<p></p>
-<p><em>Table of all required forms and documents for Project Application for Singapore and Ghana</em>
+<h4>Instructions for Use:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Download and access the form template</p>
+</li>
+<li>
+<p>Prepare supporting documents</p>
+</li>
+<li>
+<p>Access the respective FormSG submission portal and submit the necessary
+information and supporting documents</p>
+</li>
+</ol>
+<hr>
+<p><strong>Downloadable Template for Required forms for Project Application for Singapore and Ghana</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -23,43 +28,56 @@ third_nav_title: Ghana
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Downloadable Template for Required forms</p>
+<p>Ghana-Singapore Mitigation Activity Note of Intent</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ghana-Singapore Mitigation Activity Note of Intent</em>
-</p>
+<p>Ghana-Singapore Mitigation Action Assessment Protocol</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ghana-Singapore Mitigation Action Assessment Protocol</em>
-</p>
+<p>Ghana-Singapore Authorisation Application form</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Ghana-Singapore Authorisation Application form</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Ghana-Singapore Issuance Application form</em>
-</p>
+<p>Ghana-Singapore ITMO Application form</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>&nbsp;</em>
+<p></p>
+<hr>
+<p><strong>Submission Portal: </strong><em>It is recommended that applicants have the completed forms and supporting documents ready before accessing the portal.</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
-<p>Instructions for use:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If project application
-documents are less than 7 MB, please submit through this form</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If project application
-documents are more than 7 MB, please send it to us through email at <a rel="noopener noreferrer nofollow" target="_blank">Climate_Cooperation@pmo.gov.sg</a>
-</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stage A: Feasibility of the Proposed Mitigation Activity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stage B: Design of the Proposed Mitigation Activity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stage C: Authorisation of the Proposed Mitigation Activity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stage D: ITMO Issuance Authorisation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>

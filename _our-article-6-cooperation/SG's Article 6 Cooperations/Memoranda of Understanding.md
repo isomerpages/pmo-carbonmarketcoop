@@ -12,7 +12,12 @@ the MOU, we will work towards a legally binding Implementation Agreement
 and identify potential Article 6-compliant mitigation activities which
 can support our achievement of respective NDCs.</p>
 <p>Currently, Singapore has signed MOUs with the following countries:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,9 +28,6 @@ can support our achievement of respective NDCs.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Africa</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Oceania</p>
 </th>
 </tr>
 <tr>
@@ -38,9 +40,6 @@ can support our achievement of respective NDCs.</p>
 <td rowspan="1" colspan="1">
 <p>Kenya</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Papua New Guinea</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,8 +51,16 @@ can support our achievement of respective NDCs.</p>
 <td rowspan="1" colspan="1">
 <p>Morocco</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Costa Rica</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Fiji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rwanda</p>
 </td>
 </tr>
 <tr>
@@ -64,10 +71,7 @@ can support our achievement of respective NDCs.</p>
 <p>Indonesia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rwanda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Senegal</p>
 </td>
 </tr>
 <tr>
@@ -76,23 +80,6 @@ can support our achievement of respective NDCs.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mongolia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Costa Rica</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vietnam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,6 +94,14 @@ can support our achievement of respective NDCs.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vietnam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

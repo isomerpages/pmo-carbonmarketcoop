@@ -1,7 +1,7 @@
 ---
 title: Processes
 permalink: /processes/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Ghana
 ---
@@ -28,19 +28,35 @@ applicant will be informed, along with any reasons for the non-acceptance
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Required forms</p>
+<p><strong>Required Forms</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Required documents</p>
+<p><strong>Required Documents</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>Work in Progress</u></a>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ghana-Singapore Mitigation Activity Note of Intent</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Undertaking to Comply with Singapore's Conditions for Participation in
+the Implementation Agreement</p>
+</li>
+<li>
+<p>Certification of Business Incorporate / Registration</p>
+</li>
+<li>
+<p>Notice of Assessment for Corporate Tax</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -92,19 +108,28 @@ project design (if relevant).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Required forms</p>
+<p><strong>Required Forms</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Required documents</p>
+<p><strong>Required Documents</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>Work in Progress</u></a>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ghana-Singapore Mitigation Action Assessment Protocol</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Project Design Document</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -126,20 +151,16 @@ applicant of the outcome.</p>
 <p></p>
 <p>If the proposed mitigation activity is authorised, the Joint Committee
 will:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Forward the letters of authorisation issued by Singapore and Ghana respectively;</p>
 </li>
 <li>
 <p>Enter the mitigation activity into the register; and</p>
 </li>
-</ol>
-<p></p>
-<p>After the initial report has been accepted by the UNFCCC Secretariat,
-the Joint Committee will issue a Joint Statement of Authorisation to the
-project applicant, and publish the Joint Statement of Authorisation. The
-Joint Statements of Authorisation issued can be found at this &lt;link&gt;.</p>
-<p></p>
+</ul>
+<p>The Joint Committee will then issue a Joint Statement of Authorisation
+to the project applicant, and publish the Joint Statement of Authorisation.</p>
 <p>After a Joint Statement of Authorisation has been issued, the project
 “applicant” becomes a project “participant”. Project participants may then <strong>register</strong> their
 mitigation activity with the approved International Offset Programme stated
@@ -158,18 +179,28 @@ application (if relevant).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Required forms</p>
+<p><strong>Required Forms</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Required documents</p>
+<p><strong>Required Documents</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Work in Progress</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ghana-Singapore Authorisation Application Form</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Validation Report approved by the Carbon Crediting Programme</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -177,8 +208,7 @@ application (if relevant).</p>
 <p>Singapore and Ghana may request for the submission of other relevant documents
 not listed above to aid their assessment.</p>
 <p></p>
-<p><em>Stage D – ITMO Issuance Authorisation</em>
-</p>
+<h3>Stage D – ITMO Issuance Authorisation</h3>
 <p></p>
 <p>The Project Participant submits an ITMO issuance application to Singapore
 and Ghana’s Joint Committee.</p>
@@ -212,14 +242,29 @@ on how to revise their ITMO issuance application (if relevant).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Work in Progress</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ghana-Singapore ITMO Issuance Application Form</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Proof of Issuance from Carbon Crediting Programme with Accompanying Verification
+Report</p>
+</li>
+<li>
+<p>Proof of Transfer in compliance with Ghana's Permit Conditions</p>
+</li>
+<li>
+<p>Other supporting documents as required in the form</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p>Singapore and Ghana may request for the submission of other relevant documents
 not listed above to aid their assessment.</p>

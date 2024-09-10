@@ -3,6 +3,7 @@ title: Implementation Agreements
 permalink: /our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/
 description: ""
 third_nav_title: SG's Article 6 Cooperations
+variant: markdown
 ---
 ### Implementation Agreement
 
@@ -34,3 +35,5 @@ equivalent to the host countries’ adaptation needs and/or their Adaptation Fun
 * **Contributes to Overall Mitigation in Global Emissions (OMGE)** – Singapore requires all projects authorised under Singapore's Implementation Agreements to cancel 2% of correspondingly adjusted carbon credits to deliver OMGE, which is strongly encouraged under Article 6 rules. Cancellation ensures that these carbon credits will not be used towards the country's NDC, compliance requirements or voluntary targets, thereby serving the sole purpose of emissions reduction.
 
 <img src="https://file.go.gov.sg/impbenefits808.png">
+
+As of August 2024, Singapore has signed two IAs, with Papua New Guinea and Ghana. More information can be found here.

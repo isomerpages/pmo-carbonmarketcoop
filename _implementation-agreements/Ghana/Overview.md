@@ -7,8 +7,17 @@ third_nav_title: Ghana
 ---
 <p>Singapore and Ghana signed an <a href="https://www.nccs.gov.sg/singapore-signs-implementation-agreement-with-ghana-to-collaborate-on-carbon-credits/#:~:text=Singapore%20Signs%20Implementation%20Agreement%20with%20Ghana%20to%20Collaborate%20On%20Carbon%20Credits,-27%20MAY%202024&amp;text=Singapore%20and%20Ghana%20signed%20an,Agreement%20on%2027%20May%202024." rel="noopener noreferrer nofollow" target="_blank">Implementation Agreement</a> on
 carbon credits cooperation on 27 May 2024.</p>
-<p></p>
 <hr>
+<p>A detailed overview of the process to seek Article 6 authorisation of
+the mitigation activities and the mitigation outcomes, including required
+documents at each stage, is outlined in the chart below. More details can
+be found in the <a href="https://www.carbonmarkets-cooperation.gov.sg/processes/" rel="noopener nofollow" target="_blank">Processes section</a>.</p>
+<p></p>
+<p>[infographic]
+<br>
+</p>
+<hr>
+<p></p>
 <p><strong>Joint Committee</strong>
 </p>
 <p></p>

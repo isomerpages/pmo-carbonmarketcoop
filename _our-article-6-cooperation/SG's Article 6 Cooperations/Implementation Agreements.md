@@ -36,4 +36,4 @@ equivalent to the host countries’ adaptation needs and/or their Adaptation Fun
 
 <img src="https://file.go.gov.sg/impbenefits808.png">
 
-As of August 2024, Singapore has signed two IAs, with Papua New Guinea and Ghana. More information can be found here.
+As of August 2024, Singapore has signed two IAs, with Papua New Guinea and Ghana. More information can be found [[here](https://www.carbonmarkets-cooperation.gov.sg/implementation-agreements/overall-ias/)](https://).

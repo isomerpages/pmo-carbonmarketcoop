@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Ghana
 ---
+<p>Instructions for Use:</p>
+<p></p>
+<p></p>
+<p></p>
 <p><em>Table of all required forms and documents for Project Application for Singapore and Ghana</em>
 </p>
 <table style="minWidth: 25px">

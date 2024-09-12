@@ -1,11 +1,11 @@
 ---
 title: Benefits of carbon trading
 permalink: /our-article-6-cooperation/benefits-of-carbon-trading/
-description: "This page describes the sustainable development benefits and other
-  mitigation benefits that may be unlocked with carbon trading. "
+description: This page describes the sustainable development benefits and other
+  mitigation benefits that may be unlocked with carbon trading.
 variant: tiptap
 ---
-<h5>Benefits of carbon trading</h5>
+<h5>Benefits of Carbon Trading</h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Carbon markets help to channel financial resources to support emissions
@@ -27,6 +27,5 @@ protection, and climate adaptation and resilience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image describes the sustainable development goals associated with nature-based climate solutions, renewable energy projects, and public transport electrification." src="https://file.go.gov.sg/benefits808.png">
 </div>
-<p>Image credits: Unsplash – Andreas Gluckhorn, Eyyoel Kahseeh, Jeyakumaran
-Mayooresan. <em>Workers planting tree. Solar Panels. Singapore bus at night.</em>
+<p><em>Image credits: Unsplash – Andreas Gluckhorn, Eyyoel Kahseeh, Jeyakumaran Mayooresan. Workers planting tree. Solar Panels. Singapore bus at night.</em>
 </p>

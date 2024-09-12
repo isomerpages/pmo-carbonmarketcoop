@@ -21,7 +21,8 @@ sections:
           url: /our-article-6-cooperation/singapores-art-6-cooperations/overview/
         - title: Project Application
           description: ""
-          url: /implementation-agreements/participation-criteria/
+          url: /implementation-agreements/overall-ias/
+      variant: center
   - resources:
       title: Newsroom
       id: resources

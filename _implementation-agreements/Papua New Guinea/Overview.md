@@ -7,6 +7,7 @@ third_nav_title: Papua New Guinea
 ---
 <p>Singapore and Papua New Guinea signed an <a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2023/12/Singapore-signs-first-Implementation-Agreement-with-Papua-New-Guinea" rel="noopener noreferrer nofollow" target="_blank">Implementation Agreement</a> on
 carbon credits cooperation on 8 December 2023.</p>
+<hr>
 <p></p>
 <p>A detailed overview of the process to seek Article 6 authorisation of
 the mitigation activities and the mitigation outcomes, including required

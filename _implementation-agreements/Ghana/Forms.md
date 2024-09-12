@@ -58,33 +58,46 @@ Document format, where possible.</p>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Downloadable Templates for Required forms for Project Application for Singapore and Ghana</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Stage A:</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ghana-Singapore Mitigation Activity Note of Intent</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Stage B:</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ghana-Singapore Mitigation Action Assessment Protocol</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Stage C:</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ghana-Singapore Authorisation Application form</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Stage D:</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ghana-Singapore ITMO Application form</p>
 </td>

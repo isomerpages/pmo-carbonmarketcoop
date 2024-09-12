@@ -99,7 +99,7 @@ period</p>
 <p>If the PDD Submission is rejected because the project design is not feasible
 or acceptable, the project applicant will be advised on how to revise their
 project design (if relevant).</p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -134,7 +134,6 @@ project design (if relevant).</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Singapore and Ghana may request for the submission of other relevant documents
 not listed above to aid their assessment.</p>
 <h3>Stage C – Authorisation of the proposed mitigation activity</h3>
@@ -208,7 +207,6 @@ application (if relevant).</p>
 </table>
 <p>Singapore and Ghana may request for the submission of other relevant documents
 not listed above to aid their assessment.</p>
-<p></p>
 <h3>Stage D – ITMO Issuance Authorisation</h3>
 <p></p>
 <p>The Project Participant submits an ITMO issuance application to Singapore

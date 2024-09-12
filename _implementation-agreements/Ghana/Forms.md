@@ -57,14 +57,18 @@ Document format, where possible.</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p><strong>Downloadable Template for Required forms for Project Application for Singapore and Ghana</strong>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Downloadable Templates for Required forms for Project Application for Singapore and Ghana</strong>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ghana-Singapore Mitigation Activity Note of Intent</p>

@@ -5,18 +5,24 @@ variant: tiptap
 description: ""
 third_nav_title: Ghana
 ---
-<h3>Stage A – Feasibility of the proposed mitigation activity</h3>
+<p><strong><em><u>[inforgraphic]</u></em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Stage A – Feasibility of the proposed mitigation activity</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The project applicant submits a <u>Project Application</u> to the Joint
-Committee.</p>
+<p>The project applicant submits the completed <u>Mitigation Activity Note of Intent</u> to
+the Joint Committee.</p>
 <p></p>
-<p>If the proposed mitigation activity concept is accepted by both countries,
+<p>If the Mitigation Activity Note of Intent is accepted by both countries,
 the Joint Committee will issue the <u>Letter of Support</u> and <u>Letter of Intent</u> from
 Singapore and Ghana respectively. These letters may specify the conditions
 that the project applicant should meet in designing the proposed mitigation
 activity.</p>
 <p></p>
-<p>If the proposed mitigation activity concept is not accepted, the project
+<p>If the Mitigation Activity Note of Intent is not accepted, the project
 applicant will be informed, along with any reasons for the non-acceptance
 (if relevant).</p>
 <p></p>
@@ -70,9 +76,16 @@ period, Singapore reserves the right to withdraw the LOS if there are changes
 to Singapore’s environmental integrity (EI) EI requirements that affect
 the project. Changes in EI requirements will be published in Ghana’s Eligibility
 List section in this website.</p>
-<h3>Stage B – Design of the proposed mitigation activity</h3>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Stage B – Design of the proposed mitigation activity</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The project applicant submits the completed <u>Project Design Document (PDD) Submission Template</u> to
+<p>The project applicant submits the completed <u>Mitigation Action Assessment Protocol</u> to
 Joint Committee for assessment by Singapore and Ghana, which will be based
 on the conditions and requirements in the Implementation Agreement, Letter
 of Support (LOS) and Letter of Intent (LOI).</p>
@@ -136,14 +149,21 @@ project design (if relevant).</p>
 </table>
 <p>Singapore and Ghana may request for the submission of other relevant documents
 not listed above to aid their assessment.</p>
-<h3>Stage C – Authorisation of the proposed mitigation activity</h3>
+</div>
+</details>
+</div>
 <p></p>
-<p>The project applicant submits an authorisation application and the validation
-report of the proposed mitigation activity to the Joint Committee. Please
-note that the submission should be made within the validity period of the
-LOS. After the validity period, NEA reserves the right to withdraw the
-LOS if there are changes to Singapore’s environmental integrity (EI) requirements
-that affect the project.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Stage C – Authorisation of the proposed mitigation activity</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The project applicant submits a completed <u>Authorisation Application Form</u> and
+the validation report of the proposed mitigation activity to the Joint
+Committee. Please note that the submission should be made within the validity
+period of the LOS. After the validity period, NEA reserves the right to
+withdraw the LOS if there are changes to Singapore’s environmental integrity
+(EI) requirements that affect the project.</p>
 <p></p>
 <p>The Joint Committee will assess the proposed activity and inform the project
 applicant of the outcome.</p>
@@ -207,10 +227,17 @@ application (if relevant).</p>
 </table>
 <p>Singapore and Ghana may request for the submission of other relevant documents
 not listed above to aid their assessment.</p>
-<h3>Stage D – ITMO Issuance Authorisation</h3>
+</div>
+</details>
+</div>
 <p></p>
-<p>The Project Participant submits an ITMO issuance application to Singapore
-and Ghana’s Joint Committee.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Stage D – ITMO Issuance Authorisation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Project Participant submits the completed <u>ITMO Issuance Application form</u> to
+Singapore and Ghana’s Joint Committee.</p>
 <p></p>
 <p>The Joint Committee sends the application to Singapore and Ghana separately
 to determine if the ITMO issuance meets their national requirements. The
@@ -267,3 +294,7 @@ Report</p>
 <p></p>
 <p>Singapore and Ghana may request for the submission of other relevant documents
 not listed above to aid their assessment.</p>
+</div>
+</details>
+</div>
+<p></p>

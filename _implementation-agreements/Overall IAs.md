@@ -30,7 +30,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p>Singapore has substantively concluded IAs with the following countries:</p>
+<p>Singapore has substantively concluded negotiations on the IAs with the
+following countries:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

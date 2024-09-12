@@ -153,10 +153,11 @@ applicant of the outcome.</p>
 will:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Forward the letters of authorisation issued by Singapore and Ghana respectively;</p>
+<p>Forward the letters of authorisation issued by Singapore and Ghana respectively;
+and</p>
 </li>
 <li>
-<p>Enter the mitigation activity into the register; and</p>
+<p>Enter the mitigation activity into the register.</p>
 </li>
 </ul>
 <p>The Joint Committee will then issue a Joint Statement of Authorisation

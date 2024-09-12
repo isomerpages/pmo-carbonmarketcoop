@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Ghana
 ---
-<p><strong><em><u>[inforgraphic]</u></em></strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GH_Infographic.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Stage A – Feasibility of the proposed mitigation activity</strong>

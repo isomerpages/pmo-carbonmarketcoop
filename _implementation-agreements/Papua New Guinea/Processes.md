@@ -125,14 +125,12 @@ Guinea respectively; and</p>
 </li>
 <li>
 <p>Enter the mitigation activity into the register.</p>
+<p></p>
 </li>
 </ul>
 <p></p>
-<p>&nbsp;</p>
-<p>After the initial report has been accepted by the UNFCCC Secretariat,
-the Joint Committee will issue a Joint Statement of Authorisation to the
-project applicant, and publish the Joint Statement of Authorisation. The
-Joint Statements of Authorisation issued can be found at this &lt;link&gt;.</p>
+<p>The Joint Committee will issue a Joint Statement of Authorisation to the
+project applicant, and publish the Joint Statement of Authorisation.</p>
 <p></p>
 <p>After a Joint Statement of Authorisation has been issued, the project
 “applicant” becomes a project “participant”. Project participants may then <strong>register</strong> their
@@ -170,9 +168,7 @@ application (if relevant).</p>
 </table>
 <p>Singapore and Papua New Guinea may request for the submission of other
 relevant documents not listed above to aid their assessment.</p>
-<p></p>
-<p><em>Stage D – ITMO Issuance Authorisation</em>
-</p>
+<h3>Stage D – ITMO Issuance Authorisation</h3>
 <p></p>
 <p>The Project Participant submits an ITMO issuance application to Singapore
 and Papua New Guinea's Joint Committee.</p>
@@ -214,7 +210,6 @@ on how to revise their ITMO issuance application (if relevant).</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p>Singapore and Papua New Guinea may request for the submission of other
 relevant documents not listed above to aid their assessment.</p>
-<p></p>

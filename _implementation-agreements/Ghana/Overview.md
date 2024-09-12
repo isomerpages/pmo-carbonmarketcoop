@@ -13,8 +13,7 @@ the mitigation activities and the mitigation outcomes, including required
 documents at each stage, is outlined in the chart below. More details can
 be found in the <a href="https://www.carbonmarkets-cooperation.gov.sg/processes/" rel="noopener nofollow" target="_blank">Processes section</a>.</p>
 <p></p>
-<p>[infographic]
-<br>
+<p><strong><em><u>[infographic] <br></u></em></strong>
 </p>
 <hr>
 <p></p>

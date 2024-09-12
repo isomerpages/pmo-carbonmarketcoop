@@ -17,7 +17,7 @@ third_nav_title: Ghana
 the Joint Committee.</p>
 <p></p>
 <p>If the Mitigation Activity Note of Intent is accepted by both countries,
-the Joint Committee will issue the <u>Letter of Support</u> and <u>Letter of Intent</u> from
+the Joint Committee will issue the <u>1st Letter of Support</u> and <u>Letter of Intent</u> from
 Singapore and Ghana respectively. These letters may specify the conditions
 that the project applicant should meet in designing the proposed mitigation
 activity.</p>
@@ -93,10 +93,9 @@ of Support (LOS) and Letter of Intent (LOI).</p>
 <p>After assessment, the Joint Committee will inform the project applicant
 of the PDD submission outcome.</p>
 <p></p>
-<p>If the PDD Submission is accepted, Ghana will issue letter of recommendation
-and Singapore will reaffirm the earlier issued Letter of Support via an
-email to the Joint Committee, which will be forwarded to the project applicant.
-The PDD submission is accepted when:</p>
+<p>If the PDD Submission is accepted, Ghana will issue a <u>Letter of Recommendation</u> and
+Singapore will issue a <u>2nd Letter of Support</u>, which will be forwarded
+to the project applicant. The PDD submission is accepted when:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -172,15 +171,15 @@ applicant of the outcome.</p>
 will:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Forward the letters of authorisation issued by Singapore and Ghana respectively;
-and</p>
+<p>Forward the <u>Letters of Authorisation</u> issued by Singapore and Ghana
+respectively; and</p>
 </li>
 <li>
 <p>Enter the mitigation activity into the register.</p>
 </li>
 </ul>
-<p>The Joint Committee will then issue a Joint Statement of Authorisation
-to the project applicant, and publish the Joint Statement of Authorisation.</p>
+<p>The Joint Committee will then issue a <u>Joint Statement of Authorisation</u> to
+the project applicant, and publish the Joint Statement of Authorisation.</p>
 <p>After a Joint Statement of Authorisation has been issued, the project
 “applicant” becomes a project “participant”. Project participants may then <strong>register</strong> their
 mitigation activity with the approved International Offset Programme stated
@@ -244,10 +243,9 @@ to determine if the ITMO issuance meets their national requirements. The
 Joint Committee will inform the project participant of the outcome after
 assessment.</p>
 <p></p>
-<p>If the ITMOs are authorised for issuance, Ghana will issue a Letter of
-Positive Examination and list the ITMOs in its national registry. Corresponding
-adjustments will also be made, in accordance with Article 6 of the Paris
-Agreement.</p>
+<p>If the ITMOs are authorised for issuance, Ghana will issue a <u>Letter of Positive Examination</u> and
+list the ITMOs in its national registry. Corresponding adjustments will
+also be made, in accordance with Article 6 of the Paris Agreement.</p>
 <p></p>
 <p>If the ITMOs are not authorised for issuance, the applicant will be advised
 on how to revise their ITMO issuance application (if relevant).</p>

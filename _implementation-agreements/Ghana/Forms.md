@@ -31,7 +31,7 @@ Please note the guidelines for submission below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1. File Format for Form Submissions:</p>
+<p>File Format for Form Submissions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All completed forms should be submitted in Word Document file format (e.g.
@@ -41,7 +41,7 @@ Document format, where possible.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. Naming Conventions:</p>
+<p>Naming Conventions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should title the subject of their email submissions as:</p>

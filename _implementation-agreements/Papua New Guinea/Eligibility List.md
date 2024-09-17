@@ -14,28 +14,14 @@ Otherwise, project applications may not be accepted.</p>
 <p></p>
 <p>The programmes and methodologies approved by both Papua New Guinea and
 Singapore are:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Offset programmes</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Methodologies</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gold Standard for the Global Goals (GS4GG)</p>
-</td>
-<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Gold Standard for the Global Goals (GS4GG)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>All methodologies published before 31 March 2023 except:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -56,13 +42,17 @@ and</p>
 <p>Two And Three Wheeled Personal Transportation&nbsp;V1.0.</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Verified Carbon Standard (VCS)</p>
-</td>
-<td rowspan="1" colspan="1">
+</div>
+</details>
+</div>
+</li>
+<li>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Verified Carbon Standard (VCS)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>All methodologies published before 31 March 2023 except VM0044 and those
 that are under the “Sectoral Scope 14” category of VCS and are <u>not</u> indicated
 below:</p>
@@ -102,41 +92,65 @@ of the relevant mitigation activity by submitting to the Joint Committee
 its verification report under the Climate, Community and Biodiversity Standards
 (CCB Standards), the Sustainable Development Verified Impact Standard (SD
 VISta) or another standard recognised by VCS for such purpose.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>American Carbon Registry (ACR)</p>
-</td>
-<td rowspan="1" colspan="1">
+</div>
+</details>
+</div>
+</li>
+<li>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>American Carbon Registry (ACR)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>All methodologies published before 31 March 2023, except those that are
 under the “Sectoral Scope 3 (Land Use, Land Use Change and Forestry)” category
 of ACR.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Global Carbon Council (GCC)</p>
-</td>
-<td rowspan="1" colspan="1">
+</div>
+</details>
+</div>
+</li>
+<li>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Global Carbon Council (GCC)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>All methodologies published before 31 March 2023, excluding the following
 activities and methodologies:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nuclear energy</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nuclear energy</p>
+</li>
+<li>
 <p>HFC-23 abatement</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reducing Emissions from Deforestation
-and Degradation (REDD)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Afforestation &amp; Reforestation
-(A&amp;R)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carbon Capture &amp; Storage (CCS)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; activities in the GCC’s “Regional
-Positive List”</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM004</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM005</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+<li>
+<p>Reducing Emissions from Deforestation and Degradation (REDD)</p>
+</li>
+<li>
+<p>Afforestation &amp; Reforestation (A&amp;R)</p>
+</li>
+<li>
+<p>Carbon Capture &amp; Storage (CCS)</p>
+</li>
+<li>
+<p>activities in the GCC’s “Regional Positive List”</p>
+</li>
+<li>
+<p>GCCM004</p>
+</li>
+<li>
+<p>GCCM005</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p>The above list of offset programmes and methodologies meet the eligibility
 criteria, environmental integrity, and domestic laws, regulations and administrative

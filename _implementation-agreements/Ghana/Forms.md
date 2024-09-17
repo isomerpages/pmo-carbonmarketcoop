@@ -31,12 +31,11 @@ Please note the guidelines for submission below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>File Format for Form Submissions</p>
+<p>File Format for Attachments</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All completed forms should be submitted in Word Document file format (e.g.
-.docx). Supporting documents are also recommended to be submitted in Word
-Document format, where possible.</p>
+<p>All completed forms and supporting documents are to be attached in PDF
+file format (e.g. .pdf).</p>
 </td>
 </tr>
 <tr>
@@ -53,6 +52,18 @@ Document format, where possible.</p>
 <p>E.g. GH-SG Application Submission - Stage B for Project XYZ_GH-SG12345</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inclusion of External Links</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants should avoid submiting external links (such as links to file
+hosting services) as part of your application.</p>
+<p></p>
+<p>Should you exceed the attachment size limit, you may send the attachment(s)
+in a separate email.</p>
 </td>
 </tr>
 </tbody>

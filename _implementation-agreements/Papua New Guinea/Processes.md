@@ -5,8 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Papua New Guinea
 ---
-<h3>Stage A – Feasibility of the proposed mitigation activity</h3>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Stage A – Feasibility of the proposed mitigation activity</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The project applicant submits a <u>Project Application</u> to the Joint
 Committee.&nbsp;</p>
 <p>If the proposed mitigation activity concept is accepted by both countries,
@@ -51,7 +55,14 @@ to Singapore’s environmental integrity (EI) EI requirements that affect
 the project. Changes in EI requirements will be published in Papua New
 Guinea’s Eligibility List section in this website.</p>
 <p></p>
-<h3>Stage B – Design of the proposed mitigation activity</h3>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Stage B – Design of the proposed mitigation activity</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The project applicant submits the completed <u>Project Design Document (PDD) Submission Template</u> to
 Joint Committee for assessment by Singapore and Papua New Guinea, which
 will be based on the conditions and requirements in the Implementation
@@ -104,8 +115,14 @@ project design (if relevant).</p>
 </table>
 <p>Singapore and Papua New Guinea may request for the submission of other
 relevant documents not listed above to aid their assessment.</p>
-<h3>Stage C – Authorisation of the proposed mitigation activity</h3>
-<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Stage C – Authorisation of the proposed mitigation activity</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The project applicant submits an authorisation application and the validation
 report of the proposed mitigation activity to the Joint Committee. Please
 note that the submission should be made within the validity period of the
@@ -168,8 +185,14 @@ application (if relevant).</p>
 </table>
 <p>Singapore and Papua New Guinea may request for the submission of other
 relevant documents not listed above to aid their assessment.</p>
-<h3>Stage D – ITMO Issuance Authorisation</h3>
-<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Stage D – ITMO Issuance Authorisation</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The Project Participant submits an ITMO issuance application to Singapore
 and Papua New Guinea's Joint Committee.</p>
 <p></p>
@@ -213,3 +236,7 @@ on how to revise their ITMO issuance application (if relevant).</p>
 <p></p>
 <p>Singapore and Papua New Guinea may request for the submission of other
 relevant documents not listed above to aid their assessment.</p>
+</div>
+</details>
+</div>
+<p></p>

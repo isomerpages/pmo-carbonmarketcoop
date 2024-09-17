@@ -26,7 +26,7 @@ Please note the guidelines for submission below.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Guidelines for Submission to Facilitate the Review Process:</p>
+<p>Guidelines for Submission:</p>
 </th>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ file format (e.g. .pdf).</p>
 <p>Inclusion of External Links</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants should avoid submiting external links (such as links to file
+<p>Applicants should avoid submitting external links (such as links to file
 hosting services) as part of your application.</p>
 <p></p>
 <p>Should you exceed the attachment size limit, you may send the attachment(s)
@@ -77,7 +77,7 @@ in a separate email.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Downloadable Templates for Required forms for Project Application for Singapore and Ghana</strong>
+<p><strong>Downloadable Templates for Application Forms</strong>
 </p>
 </td>
 </tr>

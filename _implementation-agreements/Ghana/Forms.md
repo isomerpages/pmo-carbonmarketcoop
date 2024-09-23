@@ -8,7 +8,9 @@ third_nav_title: Ghana
 <h4>Instructions for Use:</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and access the form template</p>
+<p>Download and access the form template
+<br><em>[Applicants are advised to access and fill up the form templates in Adobe Acrobat Reader]</em>
+</p>
 </li>
 <li>
 <p>Complete the form template and prepare supporting documents for submission</p>

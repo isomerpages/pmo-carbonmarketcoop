@@ -34,8 +34,16 @@ Please note the guidelines for submission below.</p>
 <p>File Format for Attachments</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All completed forms and supporting documents are to be attached in PDF
-file format (e.g. .pdf).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All completed forms and supporting documents are to be submitted in PDF
+file format.</p>
+</li>
+<li>
+<p>For the submission of Stage A to D forms, please save and submit the forms
+as a certified read-only copy.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>

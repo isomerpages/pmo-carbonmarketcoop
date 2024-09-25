@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Ghana
 ---
+<p><em>Note: Official assessments on applications will only be made after the Singapore-Ghana Implementation Agreement has entered into force on [date].</em>
+</p>
+<hr>
 <h4>Instructions for Use:</h4>
 <ol data-tight="true" class="tight">
 <li>

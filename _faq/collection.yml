@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - For Taxable Facilities.md
-      - For Project Developers.md
       - For Public.md

@@ -19,14 +19,14 @@ the carbon crediting programmes and methodologies that adhere to the
 particular, the Eligibility List will be reviewed annually to maintain
 relevance and uphold high environmental integrity standards, based on the
 latest science and evidence.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>NEA signed Memoranda of Understanding with carbon crediting programmes,
 &nbsp;to leverage their capabilities in ensuring that carbon credits issued
 under their registries are robustly validated, verified, issued, and retired.
 This will facilitate Singapore-based companies in exercising the option
 to use high-quality international carbon credits to offset up to 5 per
 cent of their taxable emissions from 1 Jan 2024.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The carbon crediting programmes and methodologies that are eligible may
 be different for each host country, as host countries also have their own
 criteria. The Eligibility List for each host country would be agreed under
@@ -43,11 +43,11 @@ aligned with Article 6.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The carbon credits must be authorised for corresponding adjustment and
 fall under the Eligibility List to be used for carbon tax offset.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Authorised projects that may generate eligibility carbon credits will
 be listed on a <a href="https://www.carbonmarkets-cooperation.gov.sg/project-register/overall-register/" rel="noopener nofollow" target="_blank">project register</a> on
 Singapore’s Carbon Markets Cooperation website.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>As part of the carbon tax administration process, carbon tax-liable companies
 will also submit the Notice of ICC Use to the National Environment Agency
 of Singapore for confirmation on the eligibility of ICCs the company has
@@ -63,7 +63,7 @@ identified before using them to offset their taxable emissions.</p>
 <p>The authorisation process is detailed under the Overview and Processes
 section of each country’s Implementation Agreement page. This may differ
 across Implementation Agreements, as they are agreed upon by both countries.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Generally, to seek authorisation under the respective Implementation Agreement,
 project applicants should submit the required forms and documents. Singapore
 and the host country will assess the project to ensure that they meet the
@@ -92,7 +92,7 @@ laws, regulations and administrative framework.</p>
 the Implementation Agreements. However, the timeline varies as there are
 differences among partner countries in the infrastructure, frameworks and
 processes.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Singapore will continue to actively engage partner countries to sign and
 effect Implementation Agreements on carbon credit collaboration.</p>
 </div>

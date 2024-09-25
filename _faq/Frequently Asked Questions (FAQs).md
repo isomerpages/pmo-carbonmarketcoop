@@ -36,4 +36,66 @@ aligned with Article 6.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can taxable facilities check if the carbon credits generated from a project can be used for carbon tax offset?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The carbon credits must be authorised for corresponding adjustment and
+fall under the Eligibility List to be used for carbon tax offset.</p>
+<p>&nbsp;</p>
+<p>Authorised projects that may generate eligibility carbon credits will
+be listed on a <a href="https://www.carbonmarkets-cooperation.gov.sg/project-register/overall-register/" rel="noopener nofollow" target="_blank">project register</a> on
+Singapore’s Carbon Markets Cooperation website.</p>
+<p>&nbsp;</p>
+<p>As part of the carbon tax administration process, carbon tax-liable companies
+will also submit the Notice of ICC Use to the National Environment Agency
+of Singapore for confirmation on the eligibility of ICCs the company has
+identified before using them to offset their taxable emissions.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the authorisation process for a carbon credit project?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The authorisation process is detailed under the Overview and Processes
+section of each country’s Implementation Agreement page. This may differ
+across Implementation Agreements, as they are agreed upon by both countries.</p>
+<p>&nbsp;</p>
+<p>Generally, to seek authorisation under the respective Implementation Agreement,
+project applicants should submit the required forms and documents. Singapore
+and the host country will assess the project to ensure that they meet the
+environmental integrity criteria of the respective country, and other domestic
+requirements.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will projects that are already implemented be eligible for authorisation?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Existing projects that have already been implemented may still be considered
+for authorisation, provided they meet both countries’ applicable domestic
+laws, regulations and administrative framework.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When will Implementation Agreements with other countries be signed?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Singapore is working closely with partner countries to sign and effect
+the Implementation Agreements. However, the timeline varies as there are
+differences among partner countries in the infrastructure, frameworks and
+processes.</p>
+<p>&nbsp;</p>
+<p>Singapore will continue to actively engage partner countries to sign and
+effect Implementation Agreements on carbon credit collaboration.</p>
+</div>
+</details>
+</div>
 <p></p>

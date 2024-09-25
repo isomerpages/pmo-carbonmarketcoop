@@ -14,10 +14,10 @@ documents at each stage, is outlined in the chart below. More details can
 be found in the <a href="https://www.carbonmarkets-cooperation.gov.sg/processes/" rel="noopener nofollow" target="_blank">Processes section</a>.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GH_Infographic.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/v3_GH_infographic.png">
+</div>
 <hr>
 <p><strong>Joint Committee</strong>
 </p>

@@ -23,7 +23,6 @@ be found in the <a href="https://www.carbonmarkets-cooperation.gov.sg/processes/
 </p>
 <p></p>
 <p>The Joint Committee is a coordination body that oversees the administration
-of the Implementation Agreement and ensures the proper and the smooth implementation
 of the Implementation Agreement.</p>
 <p></p>
 <p>The Singapore-Ghana Joint Committee is co-chaired by:</p>
@@ -43,11 +42,11 @@ of the Implementation Agreement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Director-General, National Climate Change Secretariat</p>
+<p>Director-General of Climate Change, National Climate Change Secretariat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director (Environment), Ministry of Environment, Science, Technology and
-Innovation</p>
+<p>Director of Environment, Ministry of Environment, Science, Technology
+and Innovation</p>
 </td>
 </tr>
 </tbody>
@@ -56,24 +55,20 @@ Innovation</p>
 <p>The Joint Committee’s role includes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Provide decision-making recommendations to the countries for topics such
-as guidance on processes, environmental integrity, share of proceeds and
-registry arrangements</p>
+<p>Making recommendations to the countries for their decision on processes,
+environmental integrity criteria, and registry arrangements under the IA;</p>
 </li>
 <li>
-<p>Establish rules and guidelines for project proponents to ease participation</p>
+<p>Establishing rules and guidelines for project applications for authorisation
+under the IA;</p>
 </li>
 <li>
-<p>Review the IA and its annexes as required</p>
+<p>Reviewing the IA and its Annexes as required, and recommending amendments
+to the countries;</p>
 </li>
 <li>
-<p>Consider potential cooperation areas</p>
-</li>
-<li>
-<p>Facilitate information exchange</p>
-</li>
-<li>
-<p>Discuss any questions and perform other functions related to the IA</p>
+<p>Facilitating the exchange of information relevant to the processes under
+the IA.</p>
 </li>
 </ul>
 <p></p>

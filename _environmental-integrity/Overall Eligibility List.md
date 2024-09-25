@@ -46,10 +46,9 @@ evidence.</p>
 </li>
 </ol>
 <hr>
-<p><em>Last Updated 8 Sep 2024:</em>
+<p><em>Applicable for 2024 Emissions Year onwards; Last Updated 8 Sep 2024:</em>
 </p>
 <h3><strong>ANNEX A</strong>&nbsp;</h3>
-<p>Applicable for 2024 Emissions Year onwards</p>
 <h4><strong><u>Specific Requirements for Project Types</u></strong>&nbsp;</h4>
 <p><strong>For renewable energy projects<sup>1</sup>, only ICCs from the following projects are eligible:&nbsp;</strong>
 </p>
@@ -87,9 +86,7 @@ projects or programmes are not eligible.&nbsp;</p>
 <p></p>
 <p><em><sup>3</sup> HFLD countries are developing countries with more than 50% forest cover and a deforestation rate of less than 0.22% per year.&nbsp;&nbsp;</em>
 </p>
-<hr>
 <h3><strong>Annex B</strong></h3>
-<p>Applicable for 2024 Emissions Year onwards</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

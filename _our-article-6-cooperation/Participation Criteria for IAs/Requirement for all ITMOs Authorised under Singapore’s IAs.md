@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Participation Criteria for IAs
 ---
-<h4><strong>Requirement for all Internationally Transferred Mitigation Outcomes (ITMOs) Authorised under Singapore’s Implementation Agreements (“IAs”) to be first either sold or transferred to Eligible Entities bona fide</strong></h4>
+<h3>Requirement for all Internationally Transferred Mitigation Outcomes (ITMOs) Authorised under Singapore’s Implementation Agreements (“IAs”) to be first either sold or transferred to Eligible Entities bona fide</h3>
 <p>To grow Singapore as a carbon services and trading hub, we require all
 ITMOs* authorised under Singapore’s IAs to be first either sold or transferred
 to an Eligible Entity bona fide (“Qualifying Sale or Transfer”).</p>

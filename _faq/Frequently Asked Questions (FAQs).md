@@ -4,8 +4,7 @@ permalink: /faq/
 description: ""
 variant: tiptap
 ---
-<p>Have other questions? Please send them through <a href="https://go.gov.sg/carbon-credits-contacts" rel="noopener noreferrer nofollow" target="_blank">this form.</a>
-</p>
+<p>Have other questions? Please send them to <a href="mailto:carbon_cooperation@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">carbon_cooperation@pmo.gov.sg</a>.</p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

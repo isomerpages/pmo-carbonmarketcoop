@@ -71,7 +71,7 @@ the Implementation Agreement</p>
 </table>
 <p></p>
 <p>Singapore and Ghana may request for the submission of other relevant documents
-not listed above to aid their assessment.</p>
+not listed above.</p>
 <p></p>
 <p>The LOS will have a validity period of minimally 1 year.&nbsp; After the
 first year from the date of issuance, Singapore reserves the right to withdraw
@@ -131,7 +131,7 @@ applicant will be informed, along with any reasons for the non-acceptance
 </tbody>
 </table>
 <p>Singapore and Ghana may request for the submission of other relevant documents
-not listed above to aid their assessment.</p>
+not listed above.</p>
 </div>
 </details>
 </div>
@@ -204,7 +204,7 @@ will be informed, along with any reasons for the non-acceptance (if relevant).</
 </tbody>
 </table>
 <p>Singapore and Ghana may request for the submission of other relevant documents
-not listed above to aid their assessment.</p>
+not listed above.</p>
 </div>
 </details>
 </div>
@@ -215,19 +215,14 @@ not listed above to aid their assessment.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Project Participant submits the completed <u>ITMO Issuance Application form</u> to
-Singapore and Ghana’s Joint Committee.</p>
+the Joint Committee.</p>
 <p></p>
-<p>The Joint Committee sends the application to Singapore and Ghana separately
-to determine if the ITMO issuance meets their national requirements. The
-Joint Committee will inform the project participant of the outcome after
-assessment.</p>
+<p>If the ITMO Issuance Application Form is accepted by both countries, the
+Joint Committee will forward to the project applicant the <u>Letter of Positive Examination</u> issued
+by Ghana.</p>
 <p></p>
-<p>If the ITMOs are authorised for issuance, Ghana will issue a <u>Letter of Positive Examination</u> and
-list the ITMOs in its national registry. Corresponding adjustments will
-also be made, in accordance with Article 6 of the Paris Agreement.</p>
-<p></p>
-<p>If the ITMOs are not authorised for issuance, the applicant will be advised
-on how to revise their ITMO issuance application (if relevant).</p>
+<p>If the proposed ITMO issuance is not authorised, the project applicant
+will be informed, along with any reasons for the non-acceptance (if relevant).</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -270,7 +265,7 @@ Report</p>
 </table>
 <p></p>
 <p>Singapore and Ghana may request for the submission of other relevant documents
-not listed above to aid their assessment.</p>
+not listed above.</p>
 </div>
 </details>
 </div>

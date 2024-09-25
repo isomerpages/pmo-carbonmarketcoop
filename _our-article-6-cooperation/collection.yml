@@ -2,6 +2,7 @@ collections:
   our-article-6-cooperation:
     output: true
     order:
+      - Participation Criteria for IAs/.keep
       - What are carbon credits?.md
       - Benefits of carbon trading.md
       - How carbon markets support climate action.md

@@ -7,7 +7,7 @@ third_nav_title: Ghana
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GH_Infographic.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/v3_GH_infographic.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -54,10 +54,6 @@ applicant will be informed, along with any reasons for the non-acceptance
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>Undertaking to Comply with Singapore's Conditions for Participation in
-the Implementation Agreement</p>
-</li>
 <li>
 <p>Certification of Business Incorporate / Registration</p>
 </li>
@@ -124,6 +120,9 @@ applicant will be informed, along with any reasons for the non-acceptance
 <ul data-tight="true" class="tight">
 <li>
 <p>Project Design Document</p>
+</li>
+<li>
+<p>Other relevant permits / approvals needed to meet Ghana's requirements</p>
 </li>
 </ul>
 </td>
@@ -196,7 +195,14 @@ will be informed, along with any reasons for the non-acceptance (if relevant).</
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Validation Report approved by the Carbon Crediting Programme</p>
+<p>Validation Report in accordance with the requirements of the carbon crediting
+programme</p>
+</li>
+<li>
+<p><em>[If Relevant]</em> Offer to the Singapore Government for purchase of
+ITMOs authorised under this Implementation Agreement arising from this
+mitigation activity</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -258,6 +264,12 @@ Report</p>
 <li>
 <p>Other supporting documents as required in the form</p>
 </li>
+<li>
+<p>Other relevant permits / approvals needed to meet Ghana's requirements</p>
+</li>
+<li>
+<p>Positive Examination Report issued by Ghana</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -269,4 +281,5 @@ not listed above.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>

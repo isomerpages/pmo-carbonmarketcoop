@@ -2,9 +2,6 @@ collections:
   our-article-6-cooperation:
     output: true
     order:
-      - Participation Criteria for IAs/Participation Criteria for Implementation
-        Agreements.md
-      - Participation Criteria for IAs/.keep
       - What are carbon credits?.md
       - Benefits of carbon trading.md
       - How carbon markets support climate action.md
@@ -13,3 +10,6 @@ collections:
       - SG's Article 6 Cooperations/Overview.md
       - SG's Article 6 Cooperations/Memoranda of Understanding.md
       - SG's Article 6 Cooperations/Implementation Agreements.md
+      - Participation Criteria for IAs/.keep
+      - Participation Criteria for IAs/Participation Criteria for Implementation
+        Agreements.md

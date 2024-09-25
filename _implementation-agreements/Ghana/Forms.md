@@ -16,8 +16,8 @@ third_nav_title: Ghana
 <p>Complete the form template and prepare supporting documents for submission</p>
 </li>
 <li>
-<p>Submit the completed form and any supporting documents to <a href="mailto:Climate_Cooperation@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Climate_Cooperation@pmo.gov.sg</a> and <strong><em><u>[email address from Ghana]</u></em></strong>.
-Please note the guidelines for submission below.</p>
+<p>Submit the completed form and any supporting documents to <a href="mailto:Climate_Cooperation@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Climate_Cooperation@pmo.gov.sg</a> and
+<a href="mailto:cmo@epa.gov.gh" rel="noopener noreferrer nofollow" target="_blank">cmo@epa.gov.gh</a>. Please note the guidelines for submission below.</p>
 </li>
 </ol>
 <table style="minWidth: 50px">
@@ -38,12 +38,11 @@ Please note the guidelines for submission below.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>All completed forms and supporting documents are to be submitted in PDF
-file format.</p>
+<p>All completed forms and supporting documents are to be submitted in <strong>PDF file format</strong>.</p>
 </li>
 <li>
 <p>For the submission of Stage A to D forms, please save and submit the forms
-as a certified read-only copy.</p>
+as a <strong>certified read-only</strong> copy.</p>
 </li>
 </ul>
 </td>
@@ -69,8 +68,8 @@ as a certified read-only copy.</p>
 <p>Inclusion of External Links</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants should avoid submitting external links (such as links to file
-hosting services) as part of your application.</p>
+<p>Applicants should <strong>avoid submitting external links</strong> (such
+as links to file hosting services) as part of your application.</p>
 <p></p>
 <p>Should you exceed the attachment size limit, you may send the attachment(s)
 in a separate email.</p>

@@ -46,8 +46,10 @@ evidence.</p>
 </li>
 </ol>
 <hr>
+<p><em>Last Updated 8 Sep 2024:</em>
+</p>
 <h3><strong>ANNEX A</strong>&nbsp;</h3>
-<p>Applicable for 2024 Emissions Year onwards, last updated 8 Feb 2024</p>
+<p>Applicable for 2024 Emissions Year onwards</p>
 <h4><strong><u>Specific Requirements for Project Types</u></strong>&nbsp;</h4>
 <p><strong>For renewable energy projects<sup>1</sup>, only ICCs from the following projects are eligible:&nbsp;</strong>
 </p>
@@ -61,20 +63,20 @@ or&nbsp;</p>
 </li>
 <li>
 <p>Projects outside of (1) and (2) that come from (i) Least Developed Countries
-(LDC)2, (ii) micro-grids that are not linked to national grids, or (iii)
-lower middle income countries2 with less than 5% of the said renewable
-technology deployed in their national grid at the point of registration
-or renewal.&nbsp;</p>
+(LDC)<sup>2</sup>, (ii) micro-grids that are not linked to national grids,
+or (iii) lower middle income countries<sup>2</sup> with less than 5% of
+the said renewable technology deployed in their national grid at the point
+of registration or renewal.&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<p><em><sup>1  </sup>Renewable energy projects refer to projects that (i) generate and deliver energy services (e.g. mechanical, work, electricity, heat) from non-fossil fuel and renewable energy sources, or (ii) comprise of renewable energy generation units (e.g. solar PV, tidal/wave, wind, hydro, geothermal, waste-to-energy, renewable biomass) that are supplying energy or electricity.&nbsp;</em>
+<p><em><sup>1 </sup>Renewable energy projects refer to projects that (i) generate and deliver energy services (e.g. mechanical, work, electricity, heat) from non-fossil fuel and renewable energy sources, or (ii) comprise of renewable energy generation units (e.g. solar PV, tidal/wave, wind, hydro, geothermal, waste-to-energy, renewable biomass) that are supplying energy or electricity.&nbsp;</em>
 </p>
-<p><em><sup>2  </sup>Definition of LDC is based on <a href="https://www.un.org/development/desa/dpad/least-developed-country-category/ldcs-at-a-glance.html" rel="noopener noreferrer nofollow" target="_blank">United Nations’ definition</a>; Definition of lower middle income countries is based on <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=XN" rel="noopener noreferrer nofollow" target="_blank">World Bank’s definition</a>.&nbsp;</em>
+<p><em><sup>2 </sup>Definition of LDC is based on <a href="https://www.un.org/development/desa/dpad/least-developed-country-category/ldcs-at-a-glance.html" rel="noopener noreferrer nofollow" target="_blank">United Nations’ definition</a>; Definition of lower middle income countries is based on <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=XN" rel="noopener noreferrer nofollow" target="_blank">World Bank’s definition</a>.&nbsp;</em>
 </p>
 <p></p>
 <hr>
-<p><strong>For High Forest cover, Low Deforestation (HFLD)<sup>3</sup> countries,</strong> 
+<p><strong>For High Forest cover, Low Deforestation (HFLD)<sup>3</sup> countries,</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -87,7 +89,7 @@ projects or programmes are not eligible.&nbsp;</p>
 </p>
 <hr>
 <h3><strong>Annex B</strong></h3>
-<p>Applicable for 2024 Emissions Year onwards, last updated 9 Sep 2024</p>
+<p>Applicable for 2024 Emissions Year onwards</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

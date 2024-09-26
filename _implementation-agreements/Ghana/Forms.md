@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Ghana
 ---
-<p><em>Note: Assessments on applications will be made after the Singapore-Ghana Implementation Agreement has entered into force on [date].</em>
+<p><em>Note: Application outcomes will only be issued from late October 2024, after the Singapore-Ghana Implementation Agreement has entered into force.</em>
 </p>
 <hr>
 <h4>Instructions for Use:</h4>

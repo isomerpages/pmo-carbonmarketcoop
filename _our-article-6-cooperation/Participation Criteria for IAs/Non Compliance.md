@@ -22,10 +22,10 @@ or measures on a case-by-case basis.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project developer</strong>  <strong>is unable to provide satisfactory evidence of compliance within <u>1 month</u> after being requested by the Singapore Government to do so.</strong>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The project developer</strong>  <strong>is unable to provide satisfactory evidence of compliance within <u>1 month</u> of being requested by the Singapore Government to do so.</strong>
 </p>
 <p></p>
-<p>Project developer will be issued with a Warning Letter, and has 3 months
+<p>The project developer will be issued with a Warning Letter and has 3 months
 (the “<strong>grace period</strong>”) to submit satisfactory evidence of
 compliance.</p>
 <p></p>
@@ -37,11 +37,11 @@ the required evidence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project developer</strong>  <strong>fails to provide satisfactory evidence of compliance by the end of the grace period <u>more than once</u> within the span of 3 years.</strong>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The project developer</strong>  <strong>fails to provide satisfactory evidence of compliance by the end of the grace period <u>more than once</u> within the span of 3 years.</strong>
 </p>
 <p></p>
-<p>Project developer may be disqualified from participation under any of
-Singapore’s IAs for a period of <u>12 to 24 months (to be determined by the Singapore Government), starting from the date of notice of the disqualification issued by the Singapore Government</u>.
+<p>The project developer may be disqualified from participation under any
+of Singapore’s IAs for a period of <u>12 to 24 months (to be determined by the Singapore Government), starting from the date of notice of the disqualification issued by the Singapore Government</u>.
 During the period of disqualification, the Singapore Government may withhold
 authorisations of:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All ITMOs from previously authorised

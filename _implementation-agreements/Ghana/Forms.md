@@ -8,7 +8,7 @@ third_nav_title: Ghana
 <p><em>Note: Application outcomes will only be issued from late October 2024, after the Singapore-Ghana Implementation Agreement has entered into force.</em>
 </p>
 <hr>
-<h4>Instructions for Use:</h4>
+<h4><strong>Instructions for Use:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and access the form template
@@ -122,7 +122,7 @@ in a separate email.</p>
 <p>Stage D:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ghana-Singapore ITMO Application form</p>
+<p>Ghana-Singapore ITMO Issuance Application form</p>
 </td>
 </tr>
 </tbody>

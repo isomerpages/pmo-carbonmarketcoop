@@ -98,7 +98,8 @@ in a separate email.</p>
 <p>Stage A:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ghana-Singapore Mitigation Activity Note of Intent</p>
+<p><a href="/files/Stage_A_Mitigation_Activity_Note_of_Intent__27_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Activity Note of Intent</a>
+</p>
 </td>
 </tr>
 <tr>

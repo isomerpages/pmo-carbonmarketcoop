@@ -5,17 +5,22 @@ variant: tiptap
 description: ""
 third_nav_title: Ghana
 ---
-<h4>Instructions for Use:</h4>
+<p><em>Note: Application outcomes will only be issued from late October 2024, after the Singapore-Ghana Implementation Agreement has entered into force.</em>
+</p>
+<hr>
+<h4><strong>Instructions for Use:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and access the form template</p>
+<p>Download and access the form template
+<br><em>[Applicants are advised to access and fill up the form templates in Adobe Acrobat Reader]</em>
+</p>
 </li>
 <li>
 <p>Complete the form template and prepare supporting documents for submission</p>
 </li>
 <li>
-<p>Submit the completed form and any supporting documents to <a href="mailto:Climate_Cooperation@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Climate_Cooperation@pmo.gov.sg</a> and <strong><em><u>[email address from Ghana]</u></em></strong>.
-Please note the guidelines for submission below.</p>
+<p>Submit the completed form and any supporting documents to <a href="mailto:Climate_Cooperation@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Climate_Cooperation@pmo.gov.sg</a> and
+<a href="mailto:cmo@epa.gov.gh" rel="noopener noreferrer nofollow" target="_blank">cmo@epa.gov.gh</a>. Please note the guidelines for submission below.</p>
 </li>
 </ol>
 <table style="minWidth: 50px">
@@ -34,8 +39,15 @@ Please note the guidelines for submission below.</p>
 <p>File Format for Attachments</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All completed forms and supporting documents are to be attached in PDF
-file format (e.g. .pdf).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All completed forms and supporting documents are to be submitted in <strong>PDF file format</strong>.</p>
+</li>
+<li>
+<p>For the submission of Stage A to D forms, please save and submit the forms
+as a <strong>certified read-only</strong> copy.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -59,8 +71,8 @@ file format (e.g. .pdf).</p>
 <p>Inclusion of External Links</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants should avoid submitting external links (such as links to file
-hosting services) as part of your application.</p>
+<p>Applicants should <strong>avoid submitting external links</strong> (such
+as links to file hosting services) as part of your application.</p>
 <p></p>
 <p>Should you exceed the attachment size limit, you may send the attachment(s)
 in a separate email.</p>
@@ -86,7 +98,8 @@ in a separate email.</p>
 <p>Stage A:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ghana-Singapore Mitigation Activity Note of Intent</p>
+<p><a href="/files/Stage_A_Mitigation_Activity_Note_of_Intent__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Activity Note of Intent</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +107,8 @@ in a separate email.</p>
 <p>Stage B:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ghana-Singapore Mitigation Action Assessment Protocol</p>
+<p><a href="/files/Stage_B_Mitigation_Action_Assessment_Protocol__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Action Assessment Protocol</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +116,8 @@ in a separate email.</p>
 <p>Stage C:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ghana-Singapore Authorisation Application form</p>
+<p><a href="/files/Stage_C_Mitigation_Activity_Authorisation_Application__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Authorisation Application form</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +125,8 @@ in a separate email.</p>
 <p>Stage D:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ghana-Singapore ITMO Application form</p>
+<p><a href="/files/Stage_D_Ghana_Singapore_ITMO_Issuance_Application_Form__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore ITMO Issuance Application form</a>
+</p>
 </td>
 </tr>
 </tbody>

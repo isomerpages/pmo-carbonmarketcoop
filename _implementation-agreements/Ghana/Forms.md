@@ -58,7 +58,7 @@ as a <strong>certified read-only</strong> copy.</p>
 <p>Applicants should title the subject of their email submissions as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>GH-SG Application Submission - <em>[Stage A/B/C/D]</em> for <em>[Name of Mitigation Activity</em>]_[<em>Mitigiation Activity Reference Number (if applicable)</em>]</p>
+<p>GH-SG Application Submission - <em>[Stage A/B/C/D]</em> for <em>[Name of Mitigation Activity</em>]_[<em>Mitigation Activity Reference Number (if applicable)</em>]</p>
 </li>
 <li>
 <p>E.g. GH-SG Application Submission - Stage B for Project XYZ_GH-SG12345</p>

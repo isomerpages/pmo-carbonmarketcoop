@@ -107,8 +107,7 @@ in a separate email.</p>
 <p>Stage B:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/26Sep__Draft_Stage_B_Mitigation_Action_Assessment_Protocol.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Action Assessment Protocol</a>
-<a href="/files/Stage_B_Mitigation_Action_Assessment_Protocol__300924_.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p><a href="/files/Stage_B_Mitigation_Action_Assessment_Protocol__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Action Assessment Protocol</a>
 </p>
 </td>
 </tr>

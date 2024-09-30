@@ -116,7 +116,7 @@ in a separate email.</p>
 <p>Stage C:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Stage_C_Mitigation_Activity_Authorisation_Application__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Authorisation Application form</a>
+<p><a href="/files/Stage_C_Mitigation_Activity_Authorisation_Application__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Authorisation Application Form</a>
 </p>
 </td>
 </tr>

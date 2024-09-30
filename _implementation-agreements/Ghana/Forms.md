@@ -98,7 +98,7 @@ in a separate email.</p>
 <p>Stage A:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Stage_A_Mitigation_Activity_Note_of_Intent__27_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Activity Note of Intent</a>
+<p><a href="/files/Stage_A_Mitigation_Activity_Note_of_Intent__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Activity Note of Intent</a>
 </p>
 </td>
 </tr>
@@ -108,6 +108,7 @@ in a separate email.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/26Sep__Draft_Stage_B_Mitigation_Action_Assessment_Protocol.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Action Assessment Protocol</a>
+<a href="/files/Stage_B_Mitigation_Action_Assessment_Protocol__300924_.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </td>
 </tr>
@@ -116,7 +117,8 @@ in a separate email.</p>
 <p>Stage C:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ghana-Singapore Authorisation Application form</p>
+<p><a href="/files/Stage_C_Mitigation_Activity_Authorisation_Application__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Authorisation Application form</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +126,8 @@ in a separate email.</p>
 <p>Stage D:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ghana-Singapore ITMO Issuance Application form</p>
+<p><a href="/files/Stage_D_Ghana_Singapore_ITMO_Issuance_Application_Form__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore ITMO Issuance Application form</a>
+</p>
 </td>
 </tr>
 </tbody>

@@ -68,7 +68,7 @@ can support the achievement of our respective NDCs.</p>
 <p>Dominican Republic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indonesia</p>
+<p>Lao PDR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senegal</p>
@@ -77,17 +77,6 @@ can support the achievement of our respective NDCs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Peru</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lao PDR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mongolia</p>
@@ -120,5 +109,6 @@ can support the achievement of our respective NDCs.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Singapore has also signed MOUs with countries such as Brunei and Indonesia
+to cooperate on broader carbon market initiatives.</p>
 <p></p>

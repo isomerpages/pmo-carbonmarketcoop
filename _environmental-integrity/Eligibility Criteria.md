@@ -18,4 +18,4 @@ To comply with Article 6 of the Paris Agreement, the certified emissions reducti
 | **No net harm** | The project or programme that generated the certified emissions reductions or removals must not violate any applicable laws, regulatory requirements, or international obligations of the host country. |
 | **No leakage** | The project or programme that generated the certified emissions reductions or removals must not result in a material increase in emissions elsewhere, or if there is a risk of a material increase in emissions elsewhere, there must be measures in place to monitor, mitigate and compensate any such material increase in emissions. |
 
-[For more details on Singapore's Eligibility Criteria, please click here](https://www.mse.gov.sg/resource-room/category/2023-10-04-eligibility-criteria-for-international%20carbon%20credits)
+[For more details on Singapore's Eligibility Criteria, please click here](https://www.mse.gov.sg/latest-news/eligibility-criteria-for-internationalcarboncredits)

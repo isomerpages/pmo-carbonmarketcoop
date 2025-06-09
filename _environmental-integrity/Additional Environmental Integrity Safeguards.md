@@ -31,7 +31,7 @@ generation units (e.g. solar PV, tidal/wave, wind, hydro, geothermal, waste-to-e
 renewable biomass) that are supplying energy or electricity.</p>
 <p>** Definition of LDC is based on United Nations’ definition; Definition
 of lower middle income countries is based on World Bank’s definition&nbsp;</p>
-<p><strong>&nbsp;<u>Forestry Conservation (i.e., REDD+)</u></strong>
+<p><strong><u>Forestry Conservation (i.e., REDD+)</u></strong>
 </p>
 <p>All forestry projects are required to:</p>
 <ul data-tight="true" class="tight">

@@ -10,8 +10,7 @@ cooperative approach enables us to achieve emissions targets set out in
 our NDCs, while promoting sustainable development and environmental integrity.
 This approach is also underpinned by a legally binding framework, known
 as an Implementation Agreement, signed between Singapore and host countries.</p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <p><u>Memoranda of Understanding (MOU)<br></u>The MOU signals Singapore’s
 and host countries’ intent to collaborate on carbon markets, aligned with
 Article 6 of the Paris Agreement. Under the MOU, we will work towards a
@@ -47,20 +46,16 @@ respective NDCs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https:/www.mti.gov.sg/Newsroom/Press-Releases/2022/08/Singapore-signs-Memorandum-of-Understanding-with-Colombia-to-collaborate-in-carbon-credits" rel="noopener noreferrer nofollow" target="_blank">Colombia</a>
-</p>
+<p>Colombia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https:/www.mti.gov.sg/Newsroom/Press-Releases/2023/05/Singapore-and-Bhutan-sign-Memorandum-of-Understanding-to-collaborate-on-carbon-credits" rel="noopener noreferrer nofollow" target="_blank">Bhutan</a>
-</p>
+<p>Bhutan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https:/www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2023/05/20230518-PM-Visit-to-Kenya" rel="noopener noreferrer nofollow" target="_blank">Kenya</a>
-</p>
+<p>Kenya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https:/www.mse.gov.sg/resource-room/category/2022-11-14-media-release-singapore-and-papua-new-guinea-collaborate-advancing-climate-actions-and-ambition" rel="noopener noreferrer nofollow" target="_blank">Fiji</a>
-</p>
+<p>Fiji</p>
 </td>
 </tr>
 <tr>
@@ -68,12 +63,10 @@ respective NDCs.</p>
 <p>Costa Rica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https:/www.mti.gov.sg/Newsroom/Press-Releases/2023/04/Singapore-And-Cambodia-Sign-Memorandum-Of-Understanding-To-Collaborate-On-Carbon-Credits" rel="noopener noreferrer nofollow" target="_blank">Cambodia</a>
-</p>
+<p>Cambodia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https:/www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2022/07/20220704-min-morocco" rel="noopener noreferrer nofollow" target="_blank">Morocco</a>
-</p>
+<p>Morocco</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -81,12 +74,10 @@ respective NDCs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https:/www.mti.gov.sg/Newsroom/Press-Releases/2023/06/Singapore-And-Dominican-Republic-Sign-Memorandum-Of-Understanding-To-Collaborate-On-Carbon-Credits" rel="noopener noreferrer nofollow" target="_blank">Dominican Republic</a>
-</p>
+<p>Dominican Republic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https:/www.mti.gov.sg/Newsroom/Press-Releases/2023/03/Indonesia-And-Singapore-Sign-MOU-On-Renewable-Energy-Cooperation" rel="noopener noreferrer nofollow" target="_blank">Indonesia</a>
-</p>
+<p>Indonesia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senegal</p>
@@ -142,8 +133,7 @@ respective NDCs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://safe.menlosecurity.com/https:/www.mse.gov.sg/resource-room/category/2023-06-09-press-release-singapore-mongolia-mou-carbon-credits" rel="noopener noreferrer nofollow" target="_blank">Mongolia</a>
-</p>
+<p>Mongolia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -245,7 +235,7 @@ with the following countries:</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Share of Proceeds</u>
 </p>
 <p>In support of global climate ambition, Singapore’s bilateral agreements

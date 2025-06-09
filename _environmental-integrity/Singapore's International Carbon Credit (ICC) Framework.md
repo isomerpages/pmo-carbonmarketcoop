@@ -4,10 +4,13 @@ permalink: /environmental-integrity/eligibility-criteria/
 description: Singapore Eligibility Criteria
 variant: tiptap
 ---
-<h3>Singapore's Eligibility Criteria</h3>
-<p>To comply with Article 6 of the Paris Agreement, the certified emissions
-reductions or removals must have occurred between 1 January 2021 and 31
-December 2030.</p>
+<h4><strong>International Carbon Credits (ICCs) used must comply with Singapore’s Eligibility Criteria</strong></h4>
+<p>Under the Carbon Pricing (Amendment) Act 2022 (CPA), carbon tax-liable
+facilities can use eligible ICCs to offset up to 5% of their taxable emissions
+from 1 Jan 2024. ICCs must meet Singapore’s Eligibility Criteria.</p>
+<p>The Eligibility Criteria for ICCs is prescribed in the Carbon Pricing
+(Carbon Tax and Carbon Credits Registry) (Amendment) Regulations 2023,
+and is summarised in the table below.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -21,6 +24,13 @@ December 2030.</p>
 <th rowspan="1" colspan="1">
 <p>Definition</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>To comply with Article 6 of the Paris Agreement, the certified emissions
+reductions or removals must have occurred between 1 January 2021 and 31
+December 2030.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -108,5 +118,31 @@ material increase in emissions.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.mse.gov.sg/latest-news/eligibility-criteria-for-internationalcarboncredits" rel="noopener noreferrer nofollow" target="_blank">For more details on Singapore's Eligibility Criteria, please click here</a>
+<p>Information on the process of surrendering eligible ICCs for the payment
+of carbon tax can be found in the <a href="https://www.nea.gov.sg/docs/default-source/default-document-library/icc-guidance-document---surrendering-of-icc-for-payment-of-carbon-tax-under-cpa-final-_.pdf" rel="noopener noreferrer nofollow" target="_blank">ICC Guidance Document</a>.</p>
+<p>&nbsp;</p>
+<p>NEA conducts engagement sessions to update Taxable Facilities on Singapore’s
+ICC Framework. Past materials are available for perusal below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Attchement_2__NEA_Gold_Standard_ICC_Webinar.pdf" rel="noopener nofollow" target="_blank">NEA-Gold Standard International Carbon Credits Webinar</a>
 </p>
+<p>&nbsp;</p>
+<p>Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Attachment_1__ICC_Industry_Briefing_Slides_070324.pdf" rel="noopener noreferrer nofollow" target="_blank">NEA’s Industry Briefing for Carbon Tax-liable Facilities on Use of International Carbon Credits for Carbon Tax Compliance</a>
+</p>
+<p>&nbsp;</p>
+<p>Feb 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

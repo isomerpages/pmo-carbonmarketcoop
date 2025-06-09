@@ -2,6 +2,7 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
+      - Participation Criteria/.keep
       - Overview/Overview.md
       - Overview/.keep
       - Ghana/.keep

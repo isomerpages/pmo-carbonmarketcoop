@@ -1,5 +1,5 @@
 collections:
-  implementation-agreements:
+  sg-article-6-cooperation:
     output: true
     order:
       - Overall IAs.md

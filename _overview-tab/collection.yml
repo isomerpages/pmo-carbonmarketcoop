@@ -2,8 +2,8 @@ collections:
   overview-tab:
     output: true
     order:
-      - Singapore's Article 6 Approach.md
       - What are carbon credits?.md
+      - Singapore's Article 6 Approach.md
       - Participation Criteria for IAs/.keep
       - Participation Criteria for IAs/Requirement for all ITMOs Authorised
         under Singapore’s IAs.md

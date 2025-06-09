@@ -4,89 +4,14 @@ permalink: /environmental-integrity/overall-eligibility-list/
 description: Overall Eligibility List
 variant: tiptap
 ---
-<h1><strong>2.2: Overall eligibility list</strong></h1>
-<p>&nbsp;</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>The Eligibility List sets out the requirements that international carbon
-credits (ICCs) must meet to be accepted by the National Environment Agency
-(NEA) for carbon tax-liable companies in Singapore to offset up to 5% of
-their taxable emissions from 1 Jan 2024.</p>
+<p>Singapore takes reference from internationally recognised carbon crediting
+programmes and methodologies to ensure that the Eligibility List upholds
+environmental integrity standards.</p>
+<p>Please note that the Eligibility List is subject to regular reviews and
+updates to maintain relevance. The Eligibility List differs by host countries
+as it is bilaterally agreed upon between Singapore and the respective host
+country.</p>
 <p></p>
-</li>
-<li>
-<p>The ICCs must each represent one tonne of greenhouse gas emissions reductions
-or removals measured in tCO2e, where —</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The ICCs are generated from a project or programme that meets the specific
-requirements in Annex A (where Annex A is applicable);</p>
-</li>
-<li>
-<p>the project or programme is carried out in a country specified in the
-first column in Annex B;</p>
-</li>
-<li>
-<p>the ICCs are issued under a carbon crediting programme in the second column
-of Annex B, opposite that country; and</p>
-</li>
-<li>
-<p>the certified greenhouse gas emissions reductions or removals represented
-by the ICCs are calculated using a methodology in the third column of Annex
-B, opposite that carbon crediting programme.</p>
-<p></p>
-</li>
-</ul>
-</li>
-<li>
-<p>The Eligibility List may be reviewed and updated from time to time. In
-particular, it will be reviewed annually to maintain relevance and uphold
-high environmental integrity standards based on the latest science and
-evidence.</p>
-</li>
-</ol>
-<hr>
-<p><em>Applicable for 2024 Emissions Year onwards; Last Updated 8 Sep 2024:</em>
-</p>
-<h3><strong>ANNEX A</strong>&nbsp;</h3>
-<h4><strong><u>Specific Requirements for Project Types</u></strong>&nbsp;</h4>
-<p><strong>For renewable energy projects<sup>1</sup>, only ICCs from the following projects are eligible:&nbsp;</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Projects that use offshore wind technology, or waste-to-energy technology;
-or&nbsp;</p>
-</li>
-<li>
-<p>Projects that are linked with energy storage systems; or&nbsp;</p>
-</li>
-<li>
-<p>Projects outside of (1) and (2) that come from (i) Least Developed Countries
-(LDC)<sup>2</sup>, (ii) micro-grids that are not linked to national grids,
-or (iii) lower middle income countries<sup>2</sup> with less than 5% of
-the said renewable technology deployed in their national grid at the point
-of registration or renewal.&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><em><sup>1 </sup>Renewable energy projects refer to projects that (i) generate and deliver energy services (e.g. mechanical, work, electricity, heat) from non-fossil fuel and renewable energy sources, or (ii) comprise of renewable energy generation units (e.g. solar PV, tidal/wave, wind, hydro, geothermal, waste-to-energy, renewable biomass) that are supplying energy or electricity.&nbsp;</em>
-</p>
-<p><em><sup>2 </sup>Definition of LDC is based on <a href="https://www.un.org/development/desa/dpad/least-developed-country-category/ldcs-at-a-glance.html" rel="noopener noreferrer nofollow" target="_blank">United Nations’ definition</a>; Definition of lower middle income countries is based on <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=XN" rel="noopener noreferrer nofollow" target="_blank">World Bank’s definition</a>.&nbsp;</em>
-</p>
-<p></p>
-<hr>
-<p><strong>For High Forest cover, Low Deforestation (HFLD)<sup>3</sup> countries,</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Reducing Emissions from Deforestation and Forest Degradation (REDD/REDD+)
-projects or programmes are not eligible.&nbsp;</p>
-</li>
-</ul>
-<p></p>
-<p><em><sup>3</sup> HFLD countries are developing countries with more than 50% forest cover and a deforestation rate of less than 0.22% per year.&nbsp;&nbsp;</em>
-</p>
-<h3><strong>Annex B</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

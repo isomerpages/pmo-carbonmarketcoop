@@ -4,7 +4,7 @@ permalink: /our-art6-cooperation/what-are-carbon-credits/
 description: Carbon credits and the process of carbon trading explained.
 variant: tiptap
 ---
-<h4><strong>Carbon credits, or carbon offsets, refer to carbon emissions reductions or removals, measured in tonnes of carbon dioxide equivalent (tCO2e). </strong></h4>
+<h4><strong>Carbon credits, or carbon offsets, refer to carbon emissions reductions or removals, measured in tonnes of carbon dioxide equivalent (tCO2e).</strong></h4>
 <p>Carbon credits can be generated through projects which take in carbon
 (e.g. reforestation), or reduce the amount of carbon released into the
 atmosphere (e.g. renewable energy projects).</p>

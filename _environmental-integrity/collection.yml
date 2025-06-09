@@ -2,5 +2,6 @@ collections:
   environmental-integrity:
     output: true
     order:
+      - Additional Environmental Integrity Safeguards.md
       - Singapore's International Carbon Credit (ICC) Framework.md
       - Overall Eligibility List.md

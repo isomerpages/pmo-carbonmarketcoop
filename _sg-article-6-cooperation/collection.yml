@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Overview/.keep
       - Participation Criteria/.keep
       - SG's Implementation Agreements/.keep
       - Ghana/.keep

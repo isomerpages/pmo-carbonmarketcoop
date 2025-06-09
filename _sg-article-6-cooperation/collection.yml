@@ -2,11 +2,6 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
-      - Paraguay/.keep
-      - Rwanda/.keep
-      - Peru/.keep
-      - Chile/.keep
-      - Bhutan/.keep
       - Overview.md
       - Participation Criteria/.keep
       - Papua New Guinea/.keep
@@ -21,3 +16,8 @@ collections:
       - Ghana/Eligibility List.md
       - Ghana/Forms.md
       - Ghana/Project Register.md
+      - Bhutan/.keep
+      - Chile/.keep
+      - Peru/.keep
+      - Rwanda/.keep
+      - Paraguay/.keep

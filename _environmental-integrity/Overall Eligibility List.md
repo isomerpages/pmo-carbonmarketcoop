@@ -379,32 +379,32 @@ project types or methodologies:&nbsp;</p>
 <p>Verified Carbon Standard (VCS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0008-weatherization-of-single-family-and-multi-family-buildings-v1-1/" rel="noopener noreferrer nofollow" target="_blank">VM0008 Weatherization of Single-Family and Multi-Family Buildings, v1.1</a>
+<p>16.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0008-weatherization-of-single-family-and-multi-family-buildings-v1-1/" rel="noopener noreferrer nofollow" target="_blank">VM0008 Weatherization of Single-Family and Multi-Family Buildings, v1.1</a>
 </p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0018-energy-efficiency-and-solid-waste-diversion-activities-within-a-sustainable-community-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0018 Energy Efficiency and Solid Waste Diversion Activities within a Sustainable Community, v1.0</a>
+<p>17.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0018-energy-efficiency-and-solid-waste-diversion-activities-within-a-sustainable-community-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0018 Energy Efficiency and Solid Waste Diversion Activities within a Sustainable Community, v1.0</a>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0019-fuel-switch-from-gasoline-to-ethanol-in-flex-fuel-vehicle-fleets-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0019 Fuel Switch from Gasoline to Ethanol in Flex-Fuel Vehicle Fleets, v1.0</a>
+<p>18.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0019-fuel-switch-from-gasoline-to-ethanol-in-flex-fuel-vehicle-fleets-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0019 Fuel Switch from Gasoline to Ethanol in Flex-Fuel Vehicle Fleets, v1.0</a>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0025-campus-clean-energy-and-energy-efficiency-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0025 Campus Clean Energy and Energy Efficiency, v1.0</a>
+<p>19.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0025-campus-clean-energy-and-energy-efficiency-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0025 Campus Clean Energy and Energy Efficiency, v1.0</a>
 </p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0032-methodology-for-the-adoption-of-sustainable-grasslands-through-adjustment-of-fire-and-grazing-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0032 Methodology for the Adoption of Sustainable Grasslands through Adjustment of Fire and Grazing, v1.0</a>
+<p>20.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0032-methodology-for-the-adoption-of-sustainable-grasslands-through-adjustment-of-fire-and-grazing-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0032 Methodology for the Adoption of Sustainable Grasslands through Adjustment of Fire and Grazing, v1.0</a>
 </p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0038-methodology-for-electric-vehicle-charging-systems-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0038 Methodology for Electric Vehicle Charging Systems, v1.0</a>
+<p>21.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodology/vm0038-methodology-for-electric-vehicle-charging-systems-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0038 Methodology for Electric Vehicle Charging Systems, v1.0</a>
 </p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodologies/vm0042-methodology-for-improved-agricultural-land-management-v2-0/" rel="noopener noreferrer nofollow" target="_blank">VM0042 Methodology for Improved Agricultural Land Management, v2.1</a>
+<p>22.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodologies/vm0042-methodology-for-improved-agricultural-land-management-v2-0/" rel="noopener noreferrer nofollow" target="_blank">VM0042 Methodology for Improved Agricultural Land Management, v2.1</a>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodologies/vm0044-methodology-for-biochar-utilization-in-soil-and-non-soil-applications/" rel="noopener noreferrer nofollow" target="_blank">VM0044 Methodology for Biochar Utilization in Soil and Non-Soil Applications, v1.1</a>
+<p>23.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodologies/vm0044-methodology-for-biochar-utilization-in-soil-and-non-soil-applications/" rel="noopener noreferrer nofollow" target="_blank">VM0044 Methodology for Biochar Utilization in Soil and Non-Soil Applications, v1.1</a>
 </p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodologies/vm0046-methodology-for-reducing-food-loss-and-waste-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0046 Methodology for Reducing Food Loss and Waste, v1.0</a>
+<p>24.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://verra.org/methodologies/vm0046-methodology-for-reducing-food-loss-and-waste-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VM0046 Methodology for Reducing Food Loss and Waste, v1.0</a>
 </p>
-<p>10.&nbsp; <a href="https://verra.org/methodologies/vmr0007-revision-to-ams-iii-aj-recovery-and-recycling-of-materials-from-solid-wastes-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VMR0007 Revision to AMS-III.AJ.: Recovery and Recycling of Materials from Solid Wastes v1.0</a>
+<p>25.&nbsp; <a href="https://verra.org/methodologies/vmr0007-revision-to-ams-iii-aj-recovery-and-recycling-of-materials-from-solid-wastes-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VMR0007 Revision to AMS-III.AJ.: Recovery and Recycling of Materials from Solid Wastes v1.0</a>
 </p>
-<p>11.&nbsp; <a href="https://verra.org/methodologies/vmr0008-revision-to-ams-iii-ba-recovery-and-recycling-of-materials-from-e-waste-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VMR0008 Revision to </a>
+<p>26.&nbsp; <a href="https://verra.org/methodologies/vmr0008-revision-to-ams-iii-ba-recovery-and-recycling-of-materials-from-e-waste-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VMR0008 Revision to </a>
 <a rel="noopener noreferrer nofollow" target="_blank">AMS-III.BA</a><a href="https://verra.org/methodologies/vmr0008-revision-to-ams-iii-ba-recovery-and-recycling-of-materials-from-e-waste-v1-0/" rel="noopener noreferrer nofollow" target="_blank">.: Recovery and Recycling of Materials from E-waste v1.0</a>
 </p>
-<p>12.&nbsp; <a href="https://verra.org/methodologies/revision-to-am0057-avoided-emissions-from-biomass-wastes-through-use-as-feed-stock-in-pulp-and-paper-cardboard-fiberboard-or-bio-oil-production/" rel="noopener noreferrer nofollow" target="_blank">VMR0009 Revision to AM0057: Avoided Emissions from Biomass Wastes through Use as Feedstock in Pulp and Paper, Cardboard, Fiberboard or Bio-oil Production, v1.0</a>
+<p>27.&nbsp; <a href="https://verra.org/methodologies/revision-to-am0057-avoided-emissions-from-biomass-wastes-through-use-as-feed-stock-in-pulp-and-paper-cardboard-fiberboard-or-bio-oil-production/" rel="noopener noreferrer nofollow" target="_blank">VMR0009 Revision to AM0057: Avoided Emissions from Biomass Wastes through Use as Feedstock in Pulp and Paper, Cardboard, Fiberboard or Bio-oil Production, v1.0</a>
 </p>
-<p>13.&nbsp; <a href="https://verra.org/methodologies/vmr0010-electricity-supply-for-ships-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VMR0010 Electricity Supply for Ships, v1.0</a>
+<p>28.&nbsp; <a href="https://verra.org/methodologies/vmr0010-electricity-supply-for-ships-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VMR0010 Electricity Supply for Ships, v1.0</a>
 </p>
 <p>&nbsp;</p>
 <p>Where any VCS methodology is used, the project participant will be required
@@ -420,7 +420,7 @@ VISta) or another standard recognised by VCS for such purpose.</p>
 <p>American Carbon Registry (ACR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://acrcarbon.org/methodology/landfill-gas-destruction-and-beneficial-use-projects/" rel="noopener noreferrer nofollow" target="_blank">Landfill Gas Destruction and Beneficial Use Projects v2.0</a>
+<p>29.&nbsp;<a href="https://acrcarbon.org/methodology/landfill-gas-destruction-and-beneficial-use-projects/" rel="noopener noreferrer nofollow" target="_blank">Landfill Gas Destruction and Beneficial Use Projects v2.0</a>
 </p>
 </td>
 </tr>

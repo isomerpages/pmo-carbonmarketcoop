@@ -11,7 +11,6 @@ environmental integrity standards.</p>
 updates to maintain relevance. The Eligibility List differs by host countries
 as it is bilaterally agreed upon between Singapore and the respective host
 country.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -79,6 +78,9 @@ exceptions:</p>
 <p>VM0032</p>
 </li>
 <li>
+<p>VM0033</p>
+</li>
+<li>
 <p>VM0036</p>
 </li>
 <li>
@@ -134,37 +136,31 @@ V1.0;</p>
 under the “Sectoral Scope 14” category of VCS, with these allowable exceptions:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Scenario 2a and 3 of VCS Jurisdictional and Nested REDD+ (JNR) framework;</p>
+<p>Scenario 2a and 3 of VCS Jurisdictional and Nested REDD+ (JNR) framework</p>
 </li>
 <li>
-<p>VM0012 Improved Forest Management in Temperate and Boreal Forest, v1.2;</p>
+<p>VM0012</p>
 </li>
 <li>
-<p>VM0022 Quantifying N2O Emissions Reductions in Agricultural Crops through
-Nitrogen Fertilizer Rate Reduction, v1.1;</p>
+<p>VM0022</p>
 </li>
 <li>
-<p>VM0026 Methodology for Sustainable Grassland Management, v1.1;</p>
+<p>VM0026 (and VMD0040)</p>
 </li>
 <li>
-<p>VMD0040 Leakage from Displacement of Grazing Activities, v.1.0;</p>
+<p>VM0032</p>
 </li>
 <li>
-<p>VM0032 Methodology for the Adoption of Sustainable Grasslands through
-Adjustment of Fire and Grazing, v1.0;</p>
+<p>VM0033</p>
 </li>
 <li>
-<p>VM0033 Methodology for Tidal Wetland and Seagrass Restoration, v2.1;</p>
+<p>VM0036</p>
 </li>
 <li>
-<p>VM0036 Methodology for Rewetting Drained Temperate Peatlands, v1.0;</p>
+<p>VM0041</p>
 </li>
 <li>
-<p>VM0041 Methodology for the Reduction of Enteric Methane Emissions from
-Ruminants through the Use of Feed Ingredients, v.2.0;</p>
-</li>
-<li>
-<p>VM0042 Methodology for Improved Agricultural Land Management, v2.0.</p>
+<p>VM0042</p>
 <p></p>
 </li>
 </ul>
@@ -215,7 +211,6 @@ Plant, v1.0;</p>
 </li>
 <li>
 <p>GCCM005 Methodology for Desalinated Water Savings in Buildings, v1.0.</p>
-<p></p>
 </li>
 </ul>
 </td>

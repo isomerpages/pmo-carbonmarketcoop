@@ -2,7 +2,7 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
-      - Overall IAs.md
+      - Overview.md
       - Ghana/.keep
       - Ghana/Overview.md
       - Ghana/Processes.md

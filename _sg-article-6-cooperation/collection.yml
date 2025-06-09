@@ -2,7 +2,6 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
-      - Chile.md
       - Bhutan/.keep
       - Overview.md
       - Participation Criteria/.keep

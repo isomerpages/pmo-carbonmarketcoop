@@ -2,10 +2,10 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
-      - SG's Implementation Agreements/.keep
       - Overview/.keep
       - Overview/Overview.md
       - Participation Criteria/.keep
+      - SG's Implementation Agreements/.keep
       - Ghana/.keep
       - Ghana/Overview.md
       - Ghana/Processes.md

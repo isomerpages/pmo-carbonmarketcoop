@@ -90,7 +90,6 @@ exceptions:</p>
 <p>VM0042</p>
 </li>
 </ul>
-<p></p>
 <p>Where any VCS methodology is used, the project participant will be required
 to demonstrate the Sustainable Development contributions or co-benefits
 of the relevant mitigation activity by submitting to the Joint Committee
@@ -161,7 +160,6 @@ under the “Sectoral Scope 14” category of VCS, with these allowable exceptio
 </li>
 <li>
 <p>VM0042</p>
-<p></p>
 </li>
 </ul>
 <p>Where any VCS methodology is used, the project participant will be required
@@ -234,7 +232,6 @@ the “Land Use and Forestry &amp; Agriculture” category of GS4GG.&nbsp;</p>
 <p>All active methodologies published before 31 March 2023, except those
 that are under the “Sectoral Scope 14” category of VCS and are not an allowable
 exception listed in the paragraph below.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Allowable exceptions from “Sectoral Scope 14” category of VCS are as follows:&nbsp;&nbsp;</p>
 <ul>
 <li>
@@ -273,7 +270,6 @@ Ruminants through the Use of Feed Ingredients&nbsp;&nbsp;</p>
 <p>VM0042 Improved Agricultural Land Management&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Where any VCS methodology is used, the Project Participant will be required
 to demonstrate the sustainable development contributions or co-benefits
 of the relevant Mitigation Activity by submitting to the Joint Committee
@@ -406,7 +402,6 @@ project types or methodologies:&nbsp;</p>
 </p>
 <p>28.&nbsp; <a href="https://verra.org/methodologies/vmr0010-electricity-supply-for-ships-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VMR0010 Electricity Supply for Ships, v1.0</a>
 </p>
-<p>&nbsp;</p>
 <p>Where any VCS methodology is used, the project participant will be required
 to demonstrate the Sustainable Development contributions or co-benefits
 of the relevant mitigation activity by submitting to the Joint Committee

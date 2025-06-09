@@ -2,6 +2,7 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
+      - Bhutan/.keep
       - Overview.md
       - Participation Criteria/.keep
       - Papua New Guinea/.keep

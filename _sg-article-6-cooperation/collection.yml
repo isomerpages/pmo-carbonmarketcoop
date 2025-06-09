@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview/.keep
-      - Overview.md
       - Ghana/.keep
       - Ghana/Overview.md
       - Ghana/Processes.md

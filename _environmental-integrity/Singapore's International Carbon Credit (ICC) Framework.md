@@ -123,26 +123,13 @@ of carbon tax can be found in the <a href="https://www.nea.gov.sg/docs/default-s
 <p>&nbsp;</p>
 <p>NEA conducts engagement sessions to update Taxable Facilities on Singapore’s
 ICC Framework. Past materials are available for perusal below.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Attchement_2__NEA_Gold_Standard_ICC_Webinar.pdf" rel="noopener nofollow" target="_blank">NEA-Gold Standard International Carbon Credits Webinar</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>[Sep 2024] <a href="/files/Attchement_2__NEA_Gold_Standard_ICC_Webinar.pdf" rel="noopener nofollow" target="_blank">NEA-Gold Standard International Carbon Credits Webinar</a>
 </p>
-<p>&nbsp;</p>
-<p>Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Attachment_1__ICC_Industry_Briefing_Slides_070324.pdf" rel="noopener noreferrer nofollow" target="_blank">NEA’s Industry Briefing for Carbon Tax-liable Facilities on Use of International Carbon Credits for Carbon Tax Compliance</a>
-</p>
-<p>&nbsp;</p>
-<p>Feb 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>[Feb 2024] <a href="/files/Attachment_1__ICC_Industry_Briefing_Slides_070324.pdf" rel="noopener noreferrer nofollow" target="_blank">NEA’s Industry Briefing for Carbon Tax-liable Facilities on Use of International Carbon Credits for Carbon Tax Compliance</a>&nbsp;</p>
+</li>
+</ul>
+<p></p>

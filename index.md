@@ -21,7 +21,7 @@ sections:
           url: /overview/
         - title: Project Register
           description: ""
-          url: /implementation-agreements/overall-ias/
+          url: /project-register/overall-register/
       variant: center
   - resources:
       title: Newsroom

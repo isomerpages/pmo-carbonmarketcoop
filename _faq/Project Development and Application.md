@@ -9,7 +9,6 @@ description: ""
 <summary>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I register a project using
 a methodology that is not on the Eligibility List (EL)?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>No. Projects must use carbon credit programmes and methodologies listed
 on the eligibility list at the point of submission.</p>
 </div>
@@ -18,7 +17,6 @@ on the eligibility list at the point of submission.</p>
 <summary>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How are carbon crediting programmes
 and methodologies selected for inclusion in the EL?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Singapore takes reference from reputable international standards such
 as the Carbon Offsetting and Reduction Scheme for International Aviation
 (CORSIA) in the development of the EL.</p>
@@ -30,7 +28,6 @@ would have to fulfill the requirements of the host countries.&nbsp;</p>
 <summary>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does Singapore take the approach
 of only accepting a set of pre-approved/whitelisted methodologies?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>This approach allows Singapore to tap on Carbon Crediting Programmes’
 (CCPs) capabilities in ensuring that ICCs are robustly validated, verified,
 issued and retired. It also enables faster time-to-market given that the

@@ -39,7 +39,6 @@ expect to buy ICCs?</summary>
 Ghana, Papua New Guinea, Peru, Rwanda and Paraguay on Article 6 carbon
 credits cooperation. We are actively working with our counterparts to operationalise
 these partnerships. </p>
-<p>&nbsp;</p>
 <p>For the Singapore-Ghana IA, we launched the call for project applications
 in Sept 2024, and are working closely with Ghana to assess the applications
 received.&nbsp;</p>

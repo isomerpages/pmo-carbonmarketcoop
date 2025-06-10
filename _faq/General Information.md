@@ -48,4 +48,4 @@ received.&nbsp;</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>Have other questions? Please send them to <a href="mailto:climate_cooperation@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">climate_cooperation@pmo.gov.sg</a>.</p>

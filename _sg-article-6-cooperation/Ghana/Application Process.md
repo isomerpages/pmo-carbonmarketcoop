@@ -209,18 +209,14 @@ by Ghana.</p>
 <p>If the proposed ITMO issuance is not authorised, the project applicant
 will be informed, along with any reasons for the non-acceptance (if relevant).</p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Required forms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Required documents</p>
+<p>Documents to be submitted</p>
 </td>
 </tr>
 <tr>
@@ -229,10 +225,6 @@ will be informed, along with any reasons for the non-acceptance (if relevant).</
 <li>
 <p>Ghana-Singapore ITMO Issuance Application Form</p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
 <p>Proof of Issuance from Carbon Crediting Programme with Accompanying Verification
 Report</p>
@@ -254,7 +246,6 @@ Report</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Singapore and Ghana may request for the submission of other relevant documents
 not listed above.</p>
 </div>

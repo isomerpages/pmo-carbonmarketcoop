@@ -15,7 +15,7 @@ sections:
           url: /our-art6-cooperation/what-are-carbon-credits/
         - title: Environmental Intergrity
           description: ""
-          url: /project-register/overall-register/
+          url: /environmental-integrity/eligibility-criteria/
         - title: Singapore's Article 6 Cooperation
           description: ""
           url: /our-article-6-cooperation/singapores-art-6-cooperations/overview/

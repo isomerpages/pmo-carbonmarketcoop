@@ -2,5 +2,5 @@ collections:
   faq:
     output: true
     order:
-      - Project Development and Application.md
       - General Information.md
+      - Project Development and Application.md

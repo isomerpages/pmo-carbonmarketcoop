@@ -9,7 +9,6 @@ description: ""
 <summary>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can a carbon tax-liable facility
 source for eligible International Carbon Credits (ICCs)?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Tax-liable facilities can work with project developers or third-party
 service provider to either source eligible ICCs from existing projects
 or develop new ones.</p>
@@ -26,7 +25,6 @@ from their projects will be accepted under the carbon tax.</p>
 purchase carbon credits from other countries other than those countries
 that Singapore have signed Implementation Agreements with?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>No. To comply with Article 6.2 of the Paris Agreement, carbon credits
 from projects hosted in countries without an implementation agreement are
 not allowed to be used to offset carbon-tax liability under Singapore’s

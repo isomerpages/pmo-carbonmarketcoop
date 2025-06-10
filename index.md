@@ -18,7 +18,7 @@ sections:
           url: /environmental-integrity/eligibility-criteria/
         - title: Singapore's Article 6 Cooperation
           description: ""
-          url: /our-article-6-cooperation/singapores-art-6-cooperations/overview/
+          url: /overview/
         - title: Project Register
           description: ""
           url: /implementation-agreements/overall-ias/

@@ -2,4 +2,5 @@ collections:
   faq:
     output: true
     order:
+      - General Information.md
       - Frequently Asked Questions (FAQs).md

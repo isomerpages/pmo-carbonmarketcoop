@@ -167,4 +167,268 @@ The evidence and details to be submitted are as per those set out at (A)(i)
 </tr>
 </tbody>
 </table>
+<p><strong>Request for Supporting Evidence</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Project developers may also be required to provide evidence that ITMOs
+previously authorised under Singapore’s IAs have either been sold or transferred
+to Eligible Entities. The Singapore will request such evidence when the
+project developers have previously successfully applied for corresponding
+adjustments of ITMOs under one of Singapore’s IAs and are applying for
+the authorisation of additional ITMOs. The Singapore Government may also
+request the evidence at any time up to 3 years from the date of the relevant
+ITMOs’ authorisation. The evidence requested may include:</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>(a) Registry transaction records showing that past ITMOs authorised under
+the IA were transferred to the Eligible Entities;</p>
+<p>&nbsp;</p>
+<p>(b) Sales receipt showing the sale of past ITMOs authorised under the
+IA to Eligible Entities (receipt must clearly indicate the relevant mitigation
+activity, volumes of ITMOs transacted, and the&nbsp;names of both the project
+developer and Buyer); and</p>
+<p>&nbsp;</p>
+<p>(c) Other documents that show clearly show ownership transfer of past
+ITMOs authorised under the IA to Eligible Entities.</p>
+<p>&nbsp;</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>The Singapore Government may directly contact the Eligible Entities to
+provide supporting evidence of their eligibility, including:</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<p>(a) Last 24 months of audited financial statements; and</p>
+<p>&nbsp;</p>
+<p>(b) Last 24 months of employee records.</p>
+<p>&nbsp;</p>
+<p><em>The Singapore Government may, on a case-by-case basis and as appropriate, consider other documents submitted by the project developers as evidence for the fulfilment of the above requirements.</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>The Singapore Government may also, on a case-by-case basis, and as appropriate, waive the requirement for ITMOs authorised under Singapore’s IAs to be first sold or transferred to an Eligible Entity. For instance, the Singapore Government may allow the ITMOs to be first sold or transferred to an entity that does not carry out trade or business in Singapore in a specific case if it assesses that the sale or transfer will bring benefits to Singapore. Project developers seeking waiver of the requirement are to write to</em>&nbsp;<em><a rel="noopener noreferrer nofollow" target="_blank">Climate_Cooperation@pmo.gov.sg</a></em>  <em>prior to the intended sale or transfer.</em>
+</p>
+<p><strong>Singapore Government Offtake</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>As part of the IA approval process, a project developer (referred to in
+the IA as “Project Applicant” or Project Participant”, depending on the
+stage of the process) must submit a binding offer to the Singapore Government
+for the Singapore Government to purchase at least 30% of the ITMOs&nbsp;<u>that are authorised under Singapore’s IAs</u>.
+Details on the terms of sale to the Government will be notified to all
+applicants who have submitted applications at Stage A or B of the process.</p>
+<p>&nbsp;</p>
+<p><strong>Singapore Carbon Tax-Liable Companies</strong>
+</p>
+<p>&nbsp;</p>
+<p>Where the project developer is an entity that is liable to pay carbon
+tax under the Carbon Pricing Act 2018, the project developer may elect
+to:</p>
+<p>
+<br>(a) submit a binding offer to the Singapore Government for the Singapore
+Government to purchase ITMOs authorised under the IAs, (i) using the template
+that will be provided by the Singapore Government; (ii) after successful
+project validation by a third-party VVB (validation and verification body);
+and (iii) no later than during the submission of the said validation report
+to the Joint Committee/Relevant Authorities of Singapore and the host country&nbsp;
+(The specific stage of the IA authorisation process where the validation
+report is to be submitted may differ across IAs).</p>
+<p>
+<br>(b) surrender ITMOs authorised under the IAs towards its carbon tax liability&nbsp;<strong>within 24 months</strong>&nbsp;of
+the ITMOs being authorised or;</p>
+<p>
+<br>(c) adopt both (a) and (b), provided that a total of at least 30% of ITMOs
+authorised under the IAs are either offered to the Singapore Government
+for purchase or surrendered to the Singapore Government to offset its carbon
+tax liability.</p>
+<p>&nbsp;</p>
+<p>Whether the Singapore Government will accept the offer and purchase the
+ITMOs is at the Singapore Government’s discretion. The Singapore Government
+will only consider purchasing ITMOs that secure Article 6 authorisation
+under Singapore’s IAs, and that meet all of Singapore’s prevailing environmental
+integrity (EI) requirements at the point of offtake.</p>
+<p><strong>Calculation of the 30% Threshold</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The project developer submits a
+request for authorisation of 100,000 ITMOs generated by a mitigation activity
+under Singapore’s IA. At the same time, the project developer also submits
+its offer to sell the ITMOs to the Singapore Government, in accordance
+with the Singapore Government’s requirements.</p>
+<p>&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The obligation to offer the ITMOs
+to the Singapore Government for purchase will apply to at least 30% of
+the ITMOs that are <strong>authorised for international transfer</strong> under
+the IA. To illustrate using the Singapore-Ghana IA as an example, based
+on the abovementioned example (see Table 2):</p>
+<p><em><u>&nbsp;</u></em>
+</p>
+<p><em><u>Table 2</u></em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mitigation Outcomes (Metric tonnes)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Verified mitigation outcomes submitted for authorisation under the IA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Verified mitigation outcomes that are <u>not</u> authorised for international
+transfer, per the host country’s domestic framework.</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>Using the example of the Singapore-Ghana IA, there is a buffer pool contribution of 1% under Ghana’s carbon market framework.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1% * 100,000</p>
+<p>= 1,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2% Overall Mitigation of Global Emissions (OMGE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2% * 100,000</p>
+<p>= 2,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5% Share of Proceeds (SOP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5% * 100,000</p>
+<p>= 5,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ITMOs issued and authorised for international transfer.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>100,000 - 1,000 - 2,000 - 5,000 = 92,000</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>At least 30% offer to the Singapore Government.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>30% * 92,000</strong>
+</p>
+<p><strong>= 27,600</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Remaining ITMOs that the project developer can sell/trade, subject to
+all other prevailing requirements of both Singapore and the host country.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100,000 - 1,000 - 2,000 - 5,000 - 27,600</p>
+<p>= 64,400</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Non-Compliance</strong>
+</p>
+<p>The Singapore Government reserves the right to impose measures on project
+developers that do not comply with Singapore’s published requirements (see
+Table 3).&nbsp;</p>
+<p>The Singapore Government also reserves the option to waive the requirements
+or measures on a case-by-case basis.</p>
+<p><em><u>Table 3</u></em>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The project developer</strong>&nbsp;<strong>is unable to provide satisfactory evidence of compliance within&nbsp;<u>1 month</u>&nbsp;of being requested by the Singapore Government to do so.</strong>
+</p>
+<p>The project developer will be issued with a Warning Letter and has 3 months
+(the “<strong>grace period</strong>”) to submit satisfactory evidence of
+compliance.</p>
+<p>Should the project developer fail to submit satisfactory evidence of compliance
+by the end of the grace period, the Singapore Government may&nbsp;<u>withhold authorisations of ITMOs</u>&nbsp;from
+the relevant mitigation activity until the project developer has submitted
+the required evidence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The project developer&nbsp;fails to provide satisfactory evidence of compliance by the end of the grace period&nbsp;<u>more than once</u>&nbsp;within the span of 3 years.</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The project developer may be disqualified from participation under any
+of Singapore’s IAs for a period of&nbsp;<u>12 to 24 months (to be determined by the Singapore Government), starting from the date of notice of the disqualification issued by the Singapore Government</u>.
+During the period of disqualification, the Singapore Government may withhold
+authorisations of:</p>
+<p>&nbsp;</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All ITMOs from previously authorised
+projects, and</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; New projects by the project developer
+and its shareholders and directors under any of Singapore’s IAs.</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project developer fails to submit a binding offer to the Singapore Government or to surrender towards its carbon tax liability at least 30% of the ITMOs authorised under the IA, despite giving an undertaking to do so.</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Project developer may be disqualified from participation under any of
+Singapore’s IAs for a period of 12 to 24 months&nbsp;<u>(to be determined by the Singapore Government)</u>,
+starting from the date of notice of the disqualification issued by the
+Singapore Government. During the period of disqualification, the Singapore
+Government may withhold authorisations of:</p>
+<p>&nbsp;</p>
+<p>a. All ITMOs from previously authorised projects, and</p>
+<p>b. New projects by the project developer and its shareholders and directors
+under any of Singapore’s IAs.</p>
+<p>&nbsp;</p>
+<p>The Government may also take civil proceedings in court against the project
+developer for breach of undertaking.</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

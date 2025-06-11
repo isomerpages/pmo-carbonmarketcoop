@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Ghana
 ---
-<p><em>Note: Application outcomes will only be issued from late October 2024, after the Singapore-Ghana Implementation Agreement has entered into force.</em>
-</p>
-<hr>
 <h4><strong>Instructions for Use:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>

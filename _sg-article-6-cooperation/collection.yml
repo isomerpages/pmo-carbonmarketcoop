@@ -2,8 +2,8 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
-      - Participation Criteria.md
       - Introduction.md
+      - Participation Criteria.md
       - Papua New Guinea/.keep
       - Papua New Guinea/Overview.md
       - Ghana/.keep

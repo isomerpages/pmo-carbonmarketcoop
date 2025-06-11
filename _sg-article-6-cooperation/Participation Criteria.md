@@ -82,8 +82,7 @@ document is to be submitted may differ across IAs.</p>
 <td rowspan="1" colspan="1">
 <p>Submit, as part of the Mitigation Activity Note of Intent, an Undertaking
 to Comply with Singapore’s requirements for participation under the Implementation
-Agreement (the “<strong>Undertaking</strong>”)&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+Agreement (the “<strong>Undertaking</strong>”)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(1)&nbsp;&nbsp;&nbsp; Submit to the relevant authorities (e.g. Joint Committee)
@@ -99,7 +98,6 @@ the Undertaking specified in the Mitigation Activity Note of Intent.</p>
 <p>Submit, as part of the IA Authorisation Form, an Additional Undertaking
 to Comply with Singapore’s requirements for participation under the Implementation
 Agreement (the “<strong>Additional Undertaking</strong>”)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(2)&nbsp;&nbsp;&nbsp; Submit to the relevant authorities (e.g. Joint Committee)

@@ -9,9 +9,9 @@ description: ""
 all ITMOs* authorised under Singapore’s IAs to be first either sold or
 transferred to an Eligible Entity bona fide (“Qualifying Sale or Transfer”).</p>
 <p>An Eligible Entity refers to:</p>
+<p>&nbsp;Singapore-based companies that:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>&nbsp;Singapore-based companies that:</p>
 <p>(a) is incorporated (in the case of a company) or otherwise registered
 in Singapore, and is a tax resident of Singapore;</p>
 <p>(b) is carrying on a trade or business in Singapore^; and</p>
@@ -21,8 +21,7 @@ make CPF contributions); or</p>
 </li>
 <li>
 <p>the Singapore Government (including entities appointed by the Singapore
-Government to act on its behalf to receive ITMOs) and Statutory Boards.</p>
-<p></p>
+Government to act on its behalf to receive ITMOs) and Statutory Boards</p>
 </li>
 </ol>
 <p>* Excluding OMGE (Overall Mitigation in Global Emissions) and SOP (Share
@@ -50,10 +49,8 @@ be to an Eligible Entity.</p>
 Singapore’s requirements under the Implementation Agreement (IA) (ref.
 Table 1). The specific stage of the IA authorisation process where each
 document is to be submitted may differ across IAs.</p>
-<p>&nbsp;</p>
 <p><em><u>Table 1</u></em>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

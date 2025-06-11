@@ -77,7 +77,7 @@ respective NDCs.</p>
 <p>Dominican Republic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indonesia</p>
+<p>Laos</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senegal</p>
@@ -91,24 +91,10 @@ respective NDCs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Laos</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zambia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Philippines</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Zambia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>

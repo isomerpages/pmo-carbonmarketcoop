@@ -1,5 +1,4 @@
 collections:
   sg-article-6-initiatives:
     output: true
-    order:
-      - test.md
+    order: []

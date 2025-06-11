@@ -10,18 +10,18 @@ sections:
       title: Singapore's Article 6 Cooperation
       background: /images/website background.png
       key_highlights:
-        - title: About carbon trading
+        - title: Overview
           description: ""
           url: /our-art6-cooperation/what-are-carbon-credits/
+        - title: Environmental Intergrity
+          description: ""
+          url: /environmental-integrity/eligibility-criteria/
+        - title: Singapore's Article 6 Cooperation
+          description: ""
+          url: /overview/
         - title: Project Register
           description: ""
           url: /project-register/overall-register/
-        - title: Article 6 Implementation Agreements
-          description: ""
-          url: /our-article-6-cooperation/singapores-art-6-cooperations/overview/
-        - title: Project Application
-          description: ""
-          url: /implementation-agreements/overall-ias/
       variant: center
   - resources:
       title: Newsroom

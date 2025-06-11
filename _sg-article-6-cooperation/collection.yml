@@ -1,0 +1,24 @@
+collections:
+  sg-article-6-cooperation:
+    output: true
+    order:
+      - Introduction.md
+      - Participation Criteria.md
+      - Papua New Guinea/.keep
+      - Papua New Guinea/Overview.md
+      - Ghana/.keep
+      - Ghana/Overview.md
+      - Ghana/Application Process.md
+      - Ghana/Eligibility List.md
+      - Ghana/Forms.md
+      - Ghana/Project Register.md
+      - Bhutan/Overview.md
+      - Bhutan/.keep
+      - Chile/Overview.md
+      - Chile/.keep
+      - Peru/Overview.md
+      - Peru/.keep
+      - Rwanda/Overview.md
+      - Rwanda/.keep
+      - Paraguay/Overview.md
+      - Paraguay/.keep

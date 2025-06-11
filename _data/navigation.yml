@@ -1,12 +1,14 @@
 logo: /images/carbontrading-logo.png
 links:
-  - title: About
-    collection: our-article-6-cooperation
+  - title: Overview
+    collection: overview-tab
   - title: Environmental Integrity
     collection: environmental-integrity
-  - title: Implementation Agreements
-    collection: implementation-agreements
-  - title: Project Register
+  - title: SG's Article 6 Cooperation
+    collection: sg-article-6-cooperation
+  - title: SG's Article 6 Initiatives
+    collection: sg-article-6-initiatives
+  - title: Overall Project Register
     collection: project-register
   - title: Newsroom
     resource_room: true

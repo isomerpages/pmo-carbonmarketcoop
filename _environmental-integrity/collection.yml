@@ -2,5 +2,6 @@ collections:
   environmental-integrity:
     output: true
     order:
-      - Eligibility Criteria.md
+      - Singapore's International Carbon Credit (ICC) Framework.md
       - Overall Eligibility List.md
+      - Additional Environmental Integrity Safeguards.md

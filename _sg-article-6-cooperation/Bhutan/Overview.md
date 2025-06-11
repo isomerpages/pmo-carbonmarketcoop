@@ -5,12 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Bhutan
 ---
-<p>Singapore and Bhutan signed an Implementation Agreement on carbon credits
-cooperation on 28 February 2025.</p>
-<p>&nbsp;More details of the processes to seek Article 6 authorisation of
-the mitigation activities and the mitigation outcomes, including required
-documents at each stage will be published in due course.</p>
-<p>&nbsp;<u>Joint Committee</u>
+<p>Singapore and Bhutan signed an <a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2025/02/Singapore-signs-Implementation-Agreement-with-Bhutan-to-cooperate-on-carbon-credits-under-Article-6" rel="noopener nofollow" target="_blank">Implementation Agreement</a> on
+carbon credits cooperation on 28 February 2025.</p>
+<hr>
+<p>More details of the processes to seek Article 6 authorisation of the mitigation
+activities and the mitigation outcomes, including required documents at
+each stage will be published in due course.</p>
+<hr>
+<p><strong>Joint Committee</strong>
 </p>
 <p>The Joint Committee is a coordination body that oversees the administration
 of the Implementation Agreement.</p>

@@ -93,14 +93,10 @@ VISta) or another standard recognised by VCS for such purpose.</p>
 </div>
 </li>
 </ul>
-<p></p>
-<p></p>
 <p>The above list of carbon crediting programmes and methodologies meet the
 eligibility criteria and domestic laws, regulations and administrative
 frameworks of both Ghana and Singapore.&nbsp;
-<br>
-</p>
-<p>Though eligible, the applicability of these methodologies may be further
+<br>Though eligible, the applicability of these methodologies may be further
 assessed by both Ghana and Singapore when project applications are submitted.
 Singapore and / or Ghana reserves the right to refuse authorisation of
 a mitigation activity. The refusal for authorisation may be due to:&nbsp;</p>

@@ -115,4 +115,4 @@ relevant carbon crediting programme, when the project application is submitted.&
 </li>
 </ul>
 <p>Additional requirements from Singapore for specific project types&nbsp;can
-be found <a href="https://carbonmarkets-cooperation.gov.sg/environmental-integrity/overall-eligibility-list/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+be found <a href="https://carbonmarkets-cooperation.gov.sg/additional-environmental-integrity-safeguards/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>

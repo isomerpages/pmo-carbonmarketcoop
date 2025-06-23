@@ -4,7 +4,10 @@ title: Singapore's Carbon Markets Cooperation
 description: Learn about Singapore's approach to carbon trading, and what it accomplishes.
 image: /images/carbontrading-logo.png
 permalink: /
-notification: ""
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam, or visit
+  scamshield.gov.sg for more information.
 sections:
   - hero:
       title: Singapore's Article 6 Cooperation

@@ -186,7 +186,7 @@ with the following countries:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bhutan</p>
+<p>Bhutan (Entered into Force)</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ with the following countries:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rwanda</p>
+<p>Rwanda (Entered into Force)</p>
 </td>
 </tr>
 </tbody>

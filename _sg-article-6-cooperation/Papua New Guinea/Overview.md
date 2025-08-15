@@ -16,27 +16,27 @@ can be found below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="/files/PNG_Singapore___IA___Main_Text__Signed_.pdf" rel="noopener nofollow" target="_blank">Main Text</a>
+<p><a href="/files/PNG_Singapore___IA___Main_Text__Signed_.pdf" rel="noopener nofollow" target="_blank">Implementation Agreement between Singapore and Papua New Guinea</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PNG___IA___Annex_A__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex A</a>
+<p><a href="/files/PNG___IA___Annex_A__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex A - Pre-approved List of Offset Programmes and Methodologies</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PNG___IA___Annex_B__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex B</a>
+<p><a href="/files/PNG___IA___Annex_B__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activites, and the Issuance and Transfer of ITMOs</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PNG___IA___Annex_C__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex C</a>
+<p><a href="/files/PNG___IA___Annex_C__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex C - Terms of Reference of the Joint Committee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PNG___IA___Annex_D__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex D</a>
+<p><a href="/files/PNG___IA___Annex_D__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex D - Procedure for Project Participants to Resolve Disputes with Papua New Guinea Relating to the Applications of Corresponding Adjustments</a>
 </p>
 </td>
 </tr>

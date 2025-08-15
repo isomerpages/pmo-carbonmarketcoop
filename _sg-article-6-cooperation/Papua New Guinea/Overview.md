@@ -26,7 +26,7 @@ can be found below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/PNG___IA___Annex_B__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activites, and the Issuance and Transfer of ITMOs</a>
+<p><a href="/files/PNG___IA___Annex_B__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activities, and the Issuance and Transfer of ITMOs</a>
 </p>
 </td>
 </tr>

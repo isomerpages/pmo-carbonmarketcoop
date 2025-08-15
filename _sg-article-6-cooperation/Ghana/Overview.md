@@ -22,20 +22,22 @@ can be found below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Singapore_Ghana_IA_Annex_A.pdf" rel="noopener nofollow" target="_blank">Annex A-Pre-approved List of Offset Programmes and Methodologies</a>
+<p><a href="/files/Singapore_Ghana_IA_Annex_A.pdf" rel="noopener nofollow" target="_blank">Annex A - Pre-approved List of Offset Programmes and Methodologies</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Singapore_Ghana_IA_Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B-Processes for the Authorisation of Mitigation Activities and Issuance and Transfer of ITMOs</a>
+<p><a href="/files/Singapore_Ghana_IA_Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activities, and Issuance and Transfer of ITMOs</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Singapore_Ghana_IA_Annex_C.pdf" rel="noopener nofollow" target="_blank">Annex C - Terms of Reference of the Joint Committee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Singapore_Ghana_IA_Annex_D.pdf" rel="noopener nofollow" target="_blank">Annex D - Procedure for Project Participants to Resolve Disputes with Ghana Relating to the Applications of Corresponding Adjustments</a>
+</p>
 </td>
 </tr>
 </tbody>

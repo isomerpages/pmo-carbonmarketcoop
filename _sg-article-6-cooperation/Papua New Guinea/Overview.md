@@ -6,17 +6,42 @@ description: ""
 third_nav_title: Papua New Guinea
 ---
 <p>Singapore and Papua New Guinea signed an <a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2023/12/Singapore-signs-first-Implementation-Agreement-with-Papua-New-Guinea" rel="noopener noreferrer nofollow" target="_blank">Implementation Agreement</a> on
-carbon credits cooperation on 8 December 2023.</p>
+carbon credits cooperation on 8 December 2023. A copy of the signed agreement
+can be found below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
 <p><a href="/files/PNG_Singapore___IA___Main_Text__Signed_.pdf" rel="noopener nofollow" target="_blank">Main Text</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/PNG___IA___Annex_A__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex A</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/PNG___IA___Annex_B__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex B</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/PNG___IA___Annex_C__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex C</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/PNG___IA___Annex_D__Signed_.pdf" rel="noopener nofollow" target="_blank">Annex D</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <p>More details of the processes to seek Article 6 authorisation of the mitigation
 activities and the mitigation outcomes, including required documents at

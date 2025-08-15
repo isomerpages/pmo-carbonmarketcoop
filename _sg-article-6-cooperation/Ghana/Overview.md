@@ -16,7 +16,7 @@ can be found below.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><a href="/files/Singapore_Ghana_IA__Main_Text.pdf" rel="noopener nofollow" target="_blank">Implementation Agreement between Singapore and </a><strong><a href="/files/Singapore_Ghana_IA__Main_Text.pdf" rel="noopener nofollow" target="_blank">Ghana</a></strong>
+<p><a href="/files/Singapore_Ghana_IA__Main_Text.pdf" rel="noopener nofollow" target="_blank">Implementation Agreement between Singapore and Ghana</a>
 </p>
 </th>
 </tr>

@@ -22,11 +22,12 @@ can be found below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Singapore_Ghana_IA_Annex_A.pdf" rel="noopener nofollow" target="_blank">Annex A - Pre-approved List of Offset Programmes and Methodologies</a>
+<p><a href="/files/Singapore_Ghana_IA_Annex_A.pdf" rel="noopener nofollow" target="_blank">Annex A-Pre-approved List of Offset Programmes and Methodologies</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Singapore_Ghana_IA_Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B-Processes for the Authorisation of Mitigation Activities and Issuance and Transfer of ITMOs</a>
+</p>
 </td>
 </tr>
 <tr>

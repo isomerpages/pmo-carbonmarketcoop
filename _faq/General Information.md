@@ -54,13 +54,21 @@ ICC Framework.</p>
 <summary>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When can carbon tax-liable companies
 expect to buy ICCs?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Singapore has signed Implementation Agreements (IAs) with Bhutan, Chile,
-Ghana, Papua New Guinea, Peru, Rwanda and Paraguay on Article 6 carbon
-credits cooperation. We are actively working with our counterparts to operationalise
-these partnerships. </p>
-<p>For the Singapore-Ghana IA, we launched the call for project applications
-in Sept 2024, and are working closely with Ghana to assess the applications
-received.&nbsp;</p>
+<p>Under the ICC Framework, carbon tax-liable companies may use eligible
+ICCs to offset up to 5% of their carbon tax liabilities annually.</p>
+<p>Singapore has signed legally binding Implementation Agreements (IAs) with
+seven countries – Papua New Guinea, Ghana, Bhutan, Peru, Chile, Rwanda,
+Paraguay. We are actively working with our counterparts to further our
+collaboration and operationalise these partnerships and to generate eligible
+ICCs from projects authorised under these IAs.</p>
+<p>In the meantime, there may be a constrained supply of ICCs for emissions
+year 2024. In light of this, taxable facilities will be allowed to roll
+over their unutilised ICC offset limit, of up to 5% of taxable emissions
+in 2024, to emissions year 2025. This will allow more time for projects
+to be authorised under Singapore’s Article 6 IAs, and for these projects
+to generate eligible ICCs.</p>
+<p>For more information, please refer to the documents for each partner country
+on available on this website (e.g., for <a href="https://www.carbonmarkets-cooperation.gov.sg/overview/" rel="noopener noreferrer nofollow" target="_blank">Ghana</a>).</p>
 </div>
 </details>
 </div>

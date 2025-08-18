@@ -4,13 +4,18 @@ permalink: /project-development-and-application/
 variant: tiptap
 description: ""
 ---
+<p><strong>Eligibility List</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I register a project using
 a methodology that is not on the Eligibility List (EL)?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. Projects must use carbon credit programmes and methodologies listed
-on the eligibility list at the point of submission.</p>
+on the eligibility list at the point of submission. Please refer to the
+Eligibility List of methodologies under each Implementation Agreement (IA),
+which is jointly agreed between Singapore and the host country. One example
+is the Singapore-Ghana Eligibility List, which can be found <a href="https://www.carbonmarkets-cooperation.gov.sg/eligibility-list/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -26,9 +31,9 @@ would have to fulfill the requirements of the host countries.&nbsp;</p>
 </details>
 <details class="isomer-details">
 <summary>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does Singapore take the approach
-of only accepting a set of pre-approved/whitelisted methodologies?</summary>
+of only accepting the methodologies on the Eligibility List?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>This approach allows Singapore to tap on Carbon Crediting Programmes’
+<p>This approach allows Singapore to tap into Carbon Crediting Programmes’
 (CCPs) capabilities in ensuring that ICCs are robustly validated, verified,
 issued and retired. It also enables faster time-to-market given that the
 methodologies are already published, and streamlines the registration process
@@ -36,11 +41,11 @@ given industry’s familiarity.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How often is the EL updated?</summary>
+<summary>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How often is the Eligibility List
+updated?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The EL is reviewed regularly to maintain relevance and uphold the required
-environmental integrity standards. Updates will be made to the relevant
-pages whenever available.</p>
+<p>The Eligibility List is reviewed regularly to maintain relevance and uphold
+the required environmental integrity standards.</p>
 </div>
 </details>
 <details class="isomer-details">

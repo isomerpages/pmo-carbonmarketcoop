@@ -114,4 +114,71 @@ process and comply with all other requirements. &nbsp;</p>
 </div>
 </details>
 </div>
+<p><strong>Right of First Offer (ROFO) and Request for Proposal (RFP)</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When do I need to
+submit an offer to Singapore under the Right of First Offer (ROFO) requirement?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You should submit a binding offer to Singapore Government at the point
+of validated Project Design Document (PDD) to the Singapore Government
+under the Implementation Agreement (IA) authorisation process. The specific
+stage of the authorisation process may differ, depending on the IA. For
+example, this will be Stage C in the Singapore-Ghana IA authorisation process,
+and Stage B in the Singapore-Rwanda IA authorisation process.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Will the Singapore
+Government be setting a fixed price for the Right of First Offer requirement
+(ROFO), or can the project developer determine the price?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Singapore Government will not pre-determine the price of ITMOs under
+the Right of First Offer (ROFO) requirement.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can I sell my Internationally
+Transferred Mitigation Outcomes (ITMOs) to other buyers, if the Singapore
+Government declines to purchase them under the Right Of First Offer (ROFO)
+requirement?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, if the Singapore Government declines to purchase the ITMOs offered
+under ROFO, you may sell them to other buyers. Please note that the sale
+of the ITMO is still subject to the <a href="https://www.carbonmarkets-cooperation.gov.sg/implementation-agreements/participation-criteria/" rel="noopener noreferrer nofollow" target="_blank">Eligible Entity</a> requirement.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where can Internationally
+Transferred Mitigation Outcomes (ITMOs) authorised under the Implementation
+Agreement (IA) be sold?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>ITMOs authorised under Singapore’s IAs must first be sold or transferred
+an to <a href="https://www.carbonmarkets-cooperation.gov.sg/participation-criteria/" rel="noopener noreferrer nofollow" target="_blank">Eligible Entities</a>.
+Once the ITMOs have met the Eligible Entity criteria, they can be sold
+domestically or internationally. Besides the Singapore Government, other
+demand sources include Singapore carbon tax-liable companies and other
+sectoral compliance schemes such as CORSIA.</p>
+<p>&nbsp;Sellers who are interested to be connected to carbon-tax liable
+companies in Singapore may register their interest with the <a href="https://go.gov.sg/scma-eoi" rel="noopener noreferrer nofollow" target="_blank">Singapore Carbon Market Association (SCMA)</a>.</p>
+<p>&nbsp;The government issues Requests for Proposals (RFPs) to purchase
+ITMOs. These opportunities are publicised on GeBIZ, and interested sellers
+can register for an account <a href="https://www.gebiz.gov.sg/ptn/gtpregistration/signup.xhtml" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+You are also encouraged to submit your company details at this <a href="https://form.gov.sg/6826b231b6888482cfdec92f" rel="noopener noreferrer nofollow" target="_blank">form</a> to
+be kept informed of future RFP opportunities.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can I participate in
+future Request for Proposals (RFPs) launched by the Singapore Government?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Our upcoming RFPs will be hosted on the Government procurement website,
+GeBIZ. You can register for a free GeBIZ account <a href="https://www.gebiz.gov.sg/ptn/gtpregistration/signup.xhtml" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+participate in future RFPs. Please fill up the form <a href="https://form.gov.sg/6826b231b6888482cfdec92f" rel="noopener noreferrer nofollow" target="_blank">here</a> to be notified
+of future RFPs. &nbsp;</p>
+</div>
+</details>
+</div>
 <p>Have other questions? Please send them to <a href="mailto:climate_cooperation@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">climate_cooperation@pmo.gov.sg</a>.</p>
+<p></p>

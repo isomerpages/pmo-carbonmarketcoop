@@ -20,12 +20,12 @@ is the Singapore-Ghana Eligibility List, which can be found <a href="https://www
 </details>
 <details class="isomer-details">
 <summary>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How are carbon crediting programmes
-and methodologies selected for inclusion in the EL?</summary>
+and methodologies selected for inclusion in the Eligibility List?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Singapore takes reference from reputable international standards such
 as the Carbon Offsetting and Reduction Scheme for International Aviation
-(CORSIA) in the development of the EL.</p>
-<p>&nbsp;Please note that the EL differs by host country as accepted methodologies
+(CORSIA) in the development of the Eligibility List.</p>
+<p>Please note that the EL differs by host country as accepted methodologies
 would have to fulfill the requirements of the host countries.&nbsp;</p>
 </div>
 </details>
@@ -67,6 +67,16 @@ Mitigation Outcomes (ITMOs), in compliance with Article 6 of the Paris
 Agreement.</p>
 <p>Singapore is actively engaging partner countries to sign and effect Implementation
 Agreements on carbon credit collaboration.</p>
+</div>
+</details>
+</div>
+<p><strong>Authorisation</strong> 
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>

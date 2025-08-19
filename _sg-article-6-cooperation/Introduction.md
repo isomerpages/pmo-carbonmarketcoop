@@ -174,7 +174,7 @@ with the following countries:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p><strong>Signed IA</strong>
 </p>
 <p><em>&nbsp;</em>
@@ -217,6 +217,11 @@ with the following countries:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Rwanda (Entered into Force)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thailand (Entered into Force)</p>
 </td>
 </tr>
 </tbody>

@@ -104,7 +104,7 @@ domestic laws, regulations and administrative framework.</p>
 <summary>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the Implementation Agreement
 (IA) authorisation process, are project applicants required to submit a
 Project Design Document (PDD) to the Singapore Government before registering
-the project with a Carbon Crediting Programme (e.g., Verra, Gold Standard)</summary>
+the project with a Carbon Crediting Programme (e.g., Verra, Gold Standard)?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes. Depending on the eligibility criteria agreed with each host country,
 it is possible for project applicants to submit their PDD to carbon crediting
@@ -155,16 +155,16 @@ Transferred Mitigation Outcomes (ITMOs) authorised under the Implementation
 Agreement (IA) be sold?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>ITMOs authorised under Singapore’s IAs must first be sold or transferred
-an to <a href="https://www.carbonmarkets-cooperation.gov.sg/participation-criteria/" rel="noopener noreferrer nofollow" target="_blank">Eligible Entities</a>.
+to <a href="https://www.carbonmarkets-cooperation.gov.sg/participation-criteria/" rel="noopener noreferrer nofollow" target="_blank">Eligible Entities</a>.
 Once the ITMOs have met the Eligible Entity criteria, they can be sold
 domestically or internationally. Besides the Singapore Government, other
 demand sources include Singapore carbon tax-liable companies and other
 sectoral compliance schemes such as CORSIA.</p>
-<p>&nbsp;Sellers who are interested to be connected to carbon-tax liable
-companies in Singapore may register their interest with the <a href="https://go.gov.sg/scma-eoi" rel="noopener noreferrer nofollow" target="_blank">Singapore Carbon Market Association (SCMA)</a>.</p>
-<p>&nbsp;The government issues Requests for Proposals (RFPs) to purchase
-ITMOs. These opportunities are publicised on GeBIZ, and interested sellers
-can register for an account <a href="https://www.gebiz.gov.sg/ptn/gtpregistration/signup.xhtml" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p>Sellers who are interested to be connected to carbon-tax liable companies
+in Singapore may register their interest with the <a href="https://go.gov.sg/scma-eoi" rel="noopener noreferrer nofollow" target="_blank">Singapore Carbon Market Association (SCMA)</a>.</p>
+<p>The government issues Requests for Proposals (RFPs) to purchase ITMOs.
+These opportunities are publicised on GeBIZ, and interested sellers can
+register for an account <a href="https://www.gebiz.gov.sg/ptn/gtpregistration/signup.xhtml" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 You are also encouraged to submit your company details at this <a href="https://form.gov.sg/6826b231b6888482cfdec92f" rel="noopener noreferrer nofollow" target="_blank">form</a> to
 be kept informed of future RFP opportunities.</p>
 </div>

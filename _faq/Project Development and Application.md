@@ -63,22 +63,37 @@ to <a rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.s
 Voluntary Carbon Market (VCM) also restricted to the whitelisted methodologies
 on NEA's Eligibility List?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>There are no restrictions on credits that can be bought or sold in Singapore’s
+Voluntary Carbon Market.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For agreements without an Eligibility
+List, when will it be made available?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Eligibility List is bilaterally agreed upon between Singapore and
+the host country. The Eligibility List will be published online when ready.</p>
 </div>
 </details>
 </div>
 <p></p>
 <p><strong>Authorisation</strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I register projects in countries
+where Singapore does not have an Implementation Agreement with?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Only carbon credits generated in countries where Singapore has an IA can
+be authorised and transferred as Internationally Transferable Mitigation
+Outcomes (ITMOs), in compliance with Article 6 of the Paris Agreement.</p>
+<p>&nbsp;Singapore is actively engaging partner countries on Implementation
+Agreements on carbon credit collaboration.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Can I request for authorisation for a project that has been implemented?</summary>
+<summary>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I request for authorisation
+for a project that has been implemented?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes, existing projects that have already been implemented may still be
 considered for authorisation, provided they meet both countries’ applicable
@@ -86,10 +101,16 @@ domestic laws, regulations and administrative framework.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Can I register projects in countries where Singapore does not have an
-Implementation Agreement with?</summary>
+<summary>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the Implementation Agreement
+(IA) authorisation process, are project applicants required to submit a
+Project Design Document (PDD) to the Singapore Government before registering
+the project with a Carbon Crediting Programme (e.g., Verra, Gold Standard)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Yes. Depending on the eligibility criteria agreed with each host country,
+it is possible for project applicants to submit their PDD to carbon crediting
+programmes prior to initiating the application under the IA process. These
+projects are still required to go through all stages of the application
+process and comply with all other requirements. &nbsp;</p>
 </div>
 </details>
 </div>

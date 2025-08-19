@@ -12,10 +12,10 @@ description: ""
 a methodology that is not on the Eligibility List (EL)?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. Projects must use carbon credit programmes and methodologies listed
-on the eligibility list at the point of submission. Please refer to the
-Eligibility List of methodologies under each Implementation Agreement (IA),
-which is jointly agreed between Singapore and the host country. One example
-is the Singapore-Ghana Eligibility List, which can be found <a href="https://www.carbonmarkets-cooperation.gov.sg/eligibility-list/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+on the Eligibility List at the point of submission. Please refer to the
+Eligibility List under each Implementation Agreement (IA), which is jointly
+agreed between Singapore and the host country. One example is the Singapore-Ghana
+Eligibility List, which can be found <a href="https://www.carbonmarkets-cooperation.gov.sg/eligibility-list/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -25,8 +25,8 @@ and methodologies selected for inclusion in the Eligibility List?</summary>
 <p>Singapore takes reference from reputable international standards such
 as the Carbon Offsetting and Reduction Scheme for International Aviation
 (CORSIA) in the development of the Eligibility List.</p>
-<p>Please note that the EL differs by host country as accepted methodologies
-would have to fulfill the requirements of the host countries.&nbsp;</p>
+<p>Please note that the Eligiblity List differs by host country as accepted
+methodologies would have to fulfill the requirements of the host countries.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -87,8 +87,8 @@ where Singapore does not have an Implementation Agreement with?</summary>
 <p>Only carbon credits generated in countries where Singapore has an IA can
 be authorised and transferred as Internationally Transferable Mitigation
 Outcomes (ITMOs), in compliance with Article 6 of the Paris Agreement.</p>
-<p>&nbsp;Singapore is actively engaging partner countries on Implementation
-Agreements on carbon credit collaboration.</p>
+<p>Singapore is actively engaging partner countries on Implementation Agreements
+on carbon credit collaboration.</p>
 </div>
 </details>
 <details class="isomer-details">

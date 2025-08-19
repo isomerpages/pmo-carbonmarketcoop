@@ -41,8 +41,8 @@ corresponding adjustments.</p>
 </details>
 <details class="isomer-details">
 <summary>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can carbon tax-liable companies
-purchase carbon credits from other countries other than those countries
-that Singapore have signed Implementation Agreements with?</summary>
+purchase carbon credits from countries other than those countries that
+Singapore have signed Implementation Agreements with?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. To comply with Article 6.2 of the Paris Agreement, carbon credits
 from projects hosted in countries without an implementation agreement are

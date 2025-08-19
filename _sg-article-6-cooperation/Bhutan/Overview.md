@@ -6,7 +6,42 @@ description: ""
 third_nav_title: Bhutan
 ---
 <p>Singapore and Bhutan signed an <a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2025/02/Singapore-signs-Implementation-Agreement-with-Bhutan-to-cooperate-on-carbon-credits-under-Article-6" rel="noopener nofollow" target="_blank">Implementation Agreement</a> on
-carbon credits cooperation on 28 February 2025.</p>
+carbon credits cooperation on 28 February 2025. A copy of the signed agreement
+can be found below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><a href="/files/Singapore_Bhutan_IA_Main_Text.pdf" rel="noopener nofollow" target="_blank">Implementation Agreement between Singapore and Bhutan</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Singapore_Bhutan_IA_Annex_A.pdf" rel="noopener nofollow" target="_blank">Annex A - Pre-approved List of Carbon Crediting Programmes and Methodologies</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Singapore_Bhutan_IA_Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activities, and the Issuance and Transfer of ITMOs</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Singapore_Bhutan_IA_Annex_C.pdf" rel="noopener nofollow" target="_blank">Annex C - Terms of Reference of the Joint Committee</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Singapore_Bhutan_IA_Annex_D.pdf" rel="noopener nofollow" target="_blank">Annex D - Procedure for Project Participants to Resolve Disputes with Bhutan Relating to the Applications of Corresponding Adjustments</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <p>More details of the processes to seek Article 6 authorisation of the mitigation
 activities and the mitigation outcomes, including required documents at

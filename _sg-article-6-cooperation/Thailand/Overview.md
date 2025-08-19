@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Thailand
 ---
-<p>Singapore and Thailand signed an <a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2025/02/Singapore-signs-Implementation-Agreement-with-Bhutan-to-cooperate-on-carbon-credits-under-Article-6" rel="noopener nofollow" target="_blank">Implementation Agreement</a> on
+<p>Singapore and Thailand signed an <a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2025/08/Singapore-signs-Implementation-Agreement-on-carbon-credits-collaboration-with-Thailand" rel="noopener nofollow" target="_blank">Implementation Agreement</a> on
 carbon credits cooperation on 19 August 2025. A copy of the signed agreement
 can be found below.</p>
 <hr>

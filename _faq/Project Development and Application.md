@@ -49,8 +49,36 @@ the required environmental integrity standards.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I request for authorisation
-for a project that has been implemented?</summary>
+<summary>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can project applicants submit methodologies
+to be included in the Eligibility List?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Eligibility List sets out the carbon credit programmes and methodologies
+that meet Singapore’s and our host country’s eligibility criteria. For
+any feedback on the Eligibility List, project applicants may wish to write
+to <a rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.sg</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Are carbon credits used in Singapore's
+Voluntary Carbon Market (VCM) also restricted to the whitelisted methodologies
+on NEA's Eligibility List?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p><strong>Authorisation</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Can I request for authorisation for a project that has been implemented?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes, existing projects that have already been implemented may still be
 considered for authorisation, provided they meet both countries’ applicable
@@ -58,23 +86,8 @@ domestic laws, regulations and administrative framework.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I register projects in countries
-where Singapore does not have an Implementation Agreement with?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Only carbon credits generated in countries where Singapore has an Implementation
-Agreement can be authorised and transferred as Internationally Transferable
-Mitigation Outcomes (ITMOs), in compliance with Article 6 of the Paris
-Agreement.</p>
-<p>Singapore is actively engaging partner countries to sign and effect Implementation
-Agreements on carbon credit collaboration.</p>
-</div>
-</details>
-</div>
-<p><strong>Authorisation</strong> 
-</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
+<summary>Can I register projects in countries where Singapore does not have an
+Implementation Agreement with?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>

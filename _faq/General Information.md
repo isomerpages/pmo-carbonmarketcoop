@@ -57,10 +57,10 @@ expect to buy ICCs?</summary>
 <p>Under the ICC Framework, carbon tax-liable companies may use eligible
 ICCs to offset up to 5% of their carbon tax liabilities annually.</p>
 <p>Singapore has signed legally binding Implementation Agreements (IAs) with
-seven countries – Papua New Guinea, Ghana, Bhutan, Peru, Chile, Rwanda,
-Paraguay. We are actively working with our counterparts to further our
-collaboration and operationalise these partnerships and to generate eligible
-ICCs from projects authorised under these IAs.</p>
+eight countries – Papua New Guinea, Ghana, Bhutan, Peru, Chile, Rwanda,
+Paraguay and Thailand. We are actively working with our counterparts to
+further our collaboration and operationalise these partnerships and to
+generate eligible ICCs from projects authorised under these IAs.</p>
 <p>In the meantime, there may be a constrained supply of ICCs for emissions
 year 2024. In light of this, taxable facilities will be allowed to roll
 over their unutilised ICC offset limit, of up to 5% of taxable emissions

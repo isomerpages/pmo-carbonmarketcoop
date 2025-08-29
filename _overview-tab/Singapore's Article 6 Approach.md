@@ -16,11 +16,11 @@ can raise global climate ambition and help countries that are alternative
 energy disadvantaged (such as Singapore) to achieve their targets through
 the transfer of mitigation outcomes between countries. To unlock the potential
 of Article 6, bilateral agreements between countries will need to be in
-place to govern and facilitate the use of Article 6 -compliant carbon credits
+place to govern and facilitate the use of Article 6-compliant carbon credits
 to offset the NDC of a country.</p>
 <p>Singapore is pursuing cooperation with other countries under Article 6.2
 of the Paris Agreement to enable the transfer of international mitigation
-outcomes to Singapore.&nbsp; More details can be found in this link.</p>
+outcomes to Singapore.&nbsp;More details can be found in this <a href="https://www.carbonmarkets-cooperation.gov.sg/introduction/" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p>Since 2024, under Singapore’s International Carbon Credit framework, taxable
 facilities in Singapore are allowed to use eligible international carbon
 credits to offset up to 5% of their taxable emissions.</p>

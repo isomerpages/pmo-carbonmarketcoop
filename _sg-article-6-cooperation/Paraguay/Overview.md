@@ -22,7 +22,7 @@ can be found below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Singapore_Paraguay_Main_Text.pdf" rel="noopener nofollow" target="_blank">Annex A - Processes for the Authorisation of Mitigation Activities, and the Issuance and Transfer of ITMOs</a>
+<p><a href="/files/Singapore_Paraguay_Annex_A.pdf" rel="noopener nofollow" target="_blank">Annex A - Processes for the Authorisation of Mitigation Activities, and the Issuance and Transfer of ITMOs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -2,7 +2,6 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
-      - Vietnam.md
       - Introduction.md
       - Participation Criteria.md
       - Papua New Guinea/.keep

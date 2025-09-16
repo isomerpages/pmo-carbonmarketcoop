@@ -165,16 +165,7 @@ with the following countries:</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Substantively concluded</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vietnam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="8" colspan="1">
+<td rowspan="9" colspan="1">
 <p><strong>Signed IA</strong>
 </p>
 <p><em>&nbsp;</em>
@@ -222,6 +213,11 @@ with the following countries:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Thailand (Entered into Force)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vietnam</p>
 </td>
 </tr>
 </tbody>

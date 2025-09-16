@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Introduction.md
-      - Vietnam/Overview.md
-      - Vietnam/.keep
       - Participation Criteria.md
       - Papua New Guinea/.keep
       - Papua New Guinea/Overview.md
@@ -24,5 +22,7 @@ collections:
       - Rwanda/Overview.md
       - Paraguay/.keep
       - Paraguay/Overview.md
-      - Thailand/Overview.md
       - Thailand/.keep
+      - Thailand/Overview.md
+      - Vietnam/.keep
+      - Vietnam/Overview.md

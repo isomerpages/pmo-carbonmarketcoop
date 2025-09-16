@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Vietnam/.keep
-      - Introduction.md
       - Participation Criteria.md
       - Papua New Guinea/.keep
       - Papua New Guinea/Overview.md

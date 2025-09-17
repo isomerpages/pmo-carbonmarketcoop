@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/
+external: https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/
 ---

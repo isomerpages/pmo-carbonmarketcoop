@@ -2,8 +2,6 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
-      - Mongolia/Overview.md
-      - Mongolia/.keep
       - Introduction.md
       - Participation Criteria.md
       - Papua New Guinea/.keep
@@ -28,3 +26,5 @@ collections:
       - Thailand/Overview.md
       - Vietnam/.keep
       - Vietnam/Overview.md
+      - Mongolia/.keep
+      - Mongolia/Overview.md

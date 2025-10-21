@@ -5,29 +5,26 @@ variant: tiptap
 description: ""
 third_nav_title: Peru
 ---
-<p>There are 4 stages to generate Internationally Transferrable Mitigation
-Outcomes (ITMOs) under the Singapore-Ghana Implementation Agreement (IA).</p>
+<p>There are 3 stages to generate Internationally Transferrable Mitigation
+Outcomes (ITMOs) under the Singapore-Peru Implementation Agreement (IA).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/v3_GH_infographic.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Stage A – Concept of the proposed mitigation activity</strong>
+<summary><strong>Stage A – Submission of Proposed Mitigation Activity</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The project applicant submits the completed <u>Singapore-Peru Mitigation Activity Note of Intent</u> (in
 English and Spanish) to the Joint Committee.&nbsp;</p>
-<p>&nbsp;</p>
 <p>If the Mitigation Activity Note of Intent is accepted, the Joint Committee
 will forward to the project applicant the <u>Letter of Support</u> (LOS)
 from Singapore. The letter may specify the conditions that the project
 applicant should meet in designing the proposed mitigation activity.</p>
-<p>&nbsp;</p>
 <p>If the Mitigation Activity Note of Intent is not accepted, the project
 applicant will be informed, along with any reasons for the non-acceptance
 (if relevant).</p>
-<p>&nbsp;</p>
 <p>The LOS will have a validity period of minimally 1 year. After the first
 year from the date of issuance, Singapore reserves the right to withdraw
 the LOS and will notify the project applicant of the withdrawal if so.</p>
@@ -70,16 +67,35 @@ not listed above.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The project applicant submits the completed <u>Mitigation Action Assessment Protocol</u> to
-Joint Committee.</p>
-<p></p>
-<p>If the Mitigation Action Assessment Protocol is accepted by both countries,
-the Joint Committee will forward to the project applicant the <u>2nd Letter of Support</u> and
-the <u>Letter of Recommendation</u> from Singapore and Ghana respectively.</p>
-<p></p>
-<p>If the proposed mitigation activity design is not accepted, the project
-applicant will be informed, along with any reasons for the non-acceptance
-(if relevant).</p>
+<p>The project applicant submits the completed (i) <u>Singapore-Peru Authorisation Application Form</u> (in
+English and Spanish); and (ii) Peru’s Registration of a Carbon Market Mitigation
+Activity under Cooperative Approaches in RENAMI (in English and Spanish)
+to the Joint Committee.</p>
+<p>&nbsp;</p>
+<p>If the Request for Authorisation is accepted by both countries, the Joint
+Committee will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Forward to the project applicant the <u>Letters of Authorisation</u> issued
+by Singapore and Peru respectively</p>
+</li>
+<li>
+<p>Enter the mitigation activity into the database of authorised mitigation
+activities; and</p>
+</li>
+<li>
+<p>Issue a <u>Joint Statement of Authorisation</u> to the project applicant,
+and publish it online.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>The project applicant may then proceed with the registration of the mitigation
+activity with the carbon crediting programme specified in the Letters of
+Authorisation and inform the Joint Committee of the successful registration.
+The project applicant may then proceed with the implementation of the project.</p>
+<p>&nbsp;</p>
+<p>If the proposed mitigation activity is not authorised, the project applicant
+will be informed, along with any reasons for the non-acceptance (if relevant).</p>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>

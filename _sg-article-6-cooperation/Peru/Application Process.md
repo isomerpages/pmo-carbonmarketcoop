@@ -63,7 +63,7 @@ not listed above.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Stage B – Design of the proposed mitigation activity</strong>
+<summary><strong>Stage B – Authorisation of Proposed Mitigation Activity</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -71,7 +71,6 @@ not listed above.</p>
 English and Spanish); and (ii) Peru’s Registration of a Carbon Market Mitigation
 Activity under Cooperative Approaches in RENAMI (in English and Spanish)
 to the Joint Committee.</p>
-<p>&nbsp;</p>
 <p>If the Request for Authorisation is accepted by both countries, the Joint
 Committee will:</p>
 <ul data-tight="true" class="tight">
@@ -88,12 +87,10 @@ activities; and</p>
 and publish it online.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>The project applicant may then proceed with the registration of the mitigation
 activity with the carbon crediting programme specified in the Letters of
 Authorisation and inform the Joint Committee of the successful registration.
 The project applicant may then proceed with the implementation of the project.</p>
-<p>&nbsp;</p>
 <p>If the proposed mitigation activity is not authorised, the project applicant
 will be informed, along with any reasons for the non-acceptance (if relevant).</p>
 <p></p>
@@ -112,20 +109,22 @@ will be informed, along with any reasons for the non-acceptance (if relevant).</
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ghana-Singapore Mitigation Action Assessment Protocol</p>
+<p>Singapore-Peru Authorisation Application Form</p>
 </li>
 <li>
-<p>Project Design Document</p>
+<p>Project design document in accordance with requirements of the carbon
+crediting programme</p>
 </li>
 <li>
-<p>Other relevant permits / approvals needed to meet Ghana's requirements</p>
+<p>Validation Report in accordance with the requirements of the carbon crediting
+programme</p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Singapore and Ghana may request for the submission of other relevant documents
+<p>Singapore and Peru may request for the submission of other relevant documents
 not listed above.</p>
 </div>
 </details>

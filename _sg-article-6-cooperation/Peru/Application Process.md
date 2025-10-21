@@ -133,7 +133,6 @@ the application form:</p>
 <p>a. A copy of the administrative order authorizing the commencement of
 operations or activities for the implementation of the mitigation activity,
 if any.</p>
-<p></p>
 <p>b. A copy of the Environmental Management Instrument for the project or
 activity corresponding to the mitigation activity and the administrative
 order approving it, if applicable.</p>
@@ -259,6 +258,5 @@ not listed above.</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <p></p>

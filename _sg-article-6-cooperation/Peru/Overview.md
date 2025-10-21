@@ -42,10 +42,10 @@ can be found below.</p>
 </tbody>
 </table>
 <hr>
-<p>The Singapore-Ghana Implementation Agreement is open for project applications.
-Interested applcants may wish to refer to the chart below for the process
+<p>The Singapore-PeruImplementation Agreement is open for project applications.
+Interested applicants may wish to refer to the chart below for the process
 to seek Article 6 authorisation of the mitigation activities and mitigation
-outcomes. More details can be found in the <a href="https://carbonmarkets-cooperation.gov.sg/processes/" rel="noopener noreferrer nofollow" target="_blank"><u>Application Process</u></a>&nbsp;tab.</p>
+outcomes. More details can be found in the <a href="https://carbonmarkets-cooperation.gov.sg/processes-peru/" rel="noopener noreferrer nofollow" target="_blank"><u>Application Process</u></a>&nbsp;tab.</p>
 <hr>
 <p><strong>Joint Committee</strong>
 </p>

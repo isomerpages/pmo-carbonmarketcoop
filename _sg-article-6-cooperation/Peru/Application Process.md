@@ -93,7 +93,6 @@ Authorisation and inform the Joint Committee of the successful registration.
 The project applicant may then proceed with the implementation of the project.</p>
 <p>If the proposed mitigation activity is not authorised, the project applicant
 will be informed, along with any reasons for the non-acceptance (if relevant).</p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>

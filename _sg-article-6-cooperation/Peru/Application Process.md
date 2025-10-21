@@ -119,6 +119,57 @@ crediting programme</p>
 <p>Validation Report in accordance with the requirements of the carbon crediting
 programme</p>
 </li>
+<li>
+<p>[If Relevant] Offer to the Singapore Government for purchase of ITMOs
+authorised under this Implementation Agreement arising from this mitigation
+activity</p>
+</li>
+<li>
+<p>Application form for the registration of a carbon market activity under
+cooperative approaches in RENAMI, accordance with the provisions for the
+operation of RENAMI, approved by Executive Order N° 010-2024-MINAM, or
+the equivalent regulation. The following documents <sup>1</sup> should accompany
+the application form:</p>
+<p>a. A copy of the administrative order authorizing the commencement of
+operations or activities for the implementation of the mitigation activity,
+if any.</p>
+<p></p>
+<p>b. A copy of the Environmental Management Instrument for the project or
+activity corresponding to the mitigation activity and the administrative
+order approving it, if applicable.</p>
+<p>c. A copy of the signed minutes of the communal assembly or assemblies
+held with the required quorum, in accordance with their bylaws and applicable
+law, recording agreement on the design, implementation, and monitoring
+of the mitigation activity, including the participation of third parties
+and their roles, in the case of mitigation activities to be implemented,
+according to their DDMM, in the territories of campesino or native communities.</p>
+<p>For the registration of a carbon market mitigation activity under cooperative
+approaches that implements REDD+ actions, in addition to the required documents
+listed in item 5 hereof, the following documents must be included:</p>
+<p>e. A copy of the SUNARP (National Superintendence of Public Registries,
+in English) registration card as proof of right in rem over the area where
+the mitigation activity is to be implemented. If the interested party does
+not possess this document, an alternative document demonstrating proof
+of the said right may be submitted instead. Native and campesino communities
+may demonstrate their rights over lands designated as suitable for forestry
+or protected areas by submitting a copy of the resolution that grants them
+land-use rights. Native or campesino communities involved in land titling
+processes must provide a copy of the titling application submitted to the
+competent authority, along with the favorable technical and legal opinion
+issued by the competent authority for the specific area.</p>
+<p>f. A copy of the current forest management plan and the administrative
+order approving it, if applicable.</p>
+<p>g. A copy of the documents evidencing compliance with REDD+ safeguards,
+as outlined in Annex II to the provisions for the operation of RENAMI,
+approved by Executive Order N° 010-2024-MINAM.</p>
+<p>
+<br><sup>1</sup>The Application form for the registration of a carbon market
+activity under cooperative approaches in RENAMI requires the submission
+of “A copy of the DDMM validated by a VVB and of the documentation supporting
+the calculation of reductions in GHG emissions and increases in GHG removals”
+and “A copy of the DDMM validation report issued by a VVB”. Please note
+that they are equivalent to the documents indicated in 2 and 3 respectively.</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -208,5 +259,6 @@ not listed above.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>

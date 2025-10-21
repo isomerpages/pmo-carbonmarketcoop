@@ -54,8 +54,8 @@ cultivation&nbsp;v1.0</p>
 Products, v1.1</p>
 </li>
 <li>
-<p>VMR0008 Revision to <a rel="noopener noreferrer nofollow" target="_blank">AMS-III.BA</a>.:
-Recovery and Recycling of Materials from E-waste v1.0</p>
+<p>VMR0008 Revision to AMS-III.A.: Recovery and Recycling of Materials from
+E-waste v1.0</p>
 </li>
 <li>
 <p>VM0047 Afforestation, Reforestation, and Revegetation, v1.1</p>

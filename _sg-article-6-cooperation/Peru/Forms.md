@@ -18,9 +18,8 @@ third_nav_title: Peru
 </p>
 </li>
 <li>
-<p>Submit the completed form and any supporting documents to <a rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.sg</a> and
-<a rel="noopener noreferrer nofollow" target="_blank">soporteceropapel@minam.gob.pe</a>Please note the guidelines for submission
-below.</p>
+<p>Submit the completed form and any supporting documents to <a rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.sg</a> and <a rel="noopener noreferrer nofollow" target="_blank">soporteceropapel@minam.gob.pe</a>Please
+note the guidelines for submission below.</p>
 </li>
 </ol>
 <table style="minWidth: 50px">
@@ -99,8 +98,7 @@ in a separate email.</p>
 <p>Stage A:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Stage_A_Mitigation_Activity_Note_of_Intent__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Activity Note of Intent</a>
-</p>
+<p>Singapore-Peru Mitigation Activity Note of Intent</p>
 </td>
 </tr>
 <tr>
@@ -108,8 +106,7 @@ in a separate email.</p>
 <p>Stage B:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Stage_B_Mitigation_Action_Assessment_Protocol__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Mitigation Action Assessment Protocol</a>
-</p>
+<p>Singapore-Peru Authorisation Application Form</p>
 </td>
 </tr>
 <tr>
@@ -117,8 +114,7 @@ in a separate email.</p>
 <p>Stage C:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Stage_C_Mitigation_Activity_Authorisation_Application__300924_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ghana-Singapore Authorisation Application Form</a>
-</p>
+<p>Singapore-Peru ITMO Issuance Application Form</p>
 </td>
 </tr>
 </tbody>

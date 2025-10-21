@@ -98,7 +98,8 @@ in a separate email.</p>
 <p>Stage A:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore-Peru Mitigation Activity Note of Intent</p>
+<p><a href="https://go.gov.sg/sg-pestagea" rel="noopener nofollow" target="_blank">Singapore-Peru Mitigation Note of Intent</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +107,8 @@ in a separate email.</p>
 <p>Stage B:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore-Peru Authorisation Application Form</p>
+<p><a href="https://go.gov.sg/sg-pestageb" rel="noopener nofollow" target="_blank">Singapore-Peru Authorisation Application Form</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +116,8 @@ in a separate email.</p>
 <p>Stage C:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore-Peru ITMO Issuance Application Form</p>
+<p><a href="https://go.gov.sg/sg-pestagec" rel="noopener nofollow" target="_blank">Singapore-Peru ITMO Issuance Application Form</a>
+</p>
 </td>
 </tr>
 </tbody>

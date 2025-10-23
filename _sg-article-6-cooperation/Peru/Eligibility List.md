@@ -8,7 +8,7 @@ third_nav_title: Peru
 <h3>Eligible Carbon Crediting Programmes and&nbsp;Methodologies</h3>
 <p></p>
 <p>The carbon crediting programmes and methodologies that meet the criteria
-of both Ghana and Singapore are:</p>
+of both Peru and Singapore are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p></p>
@@ -82,9 +82,9 @@ VISta) or another standard recognised by VCS for such purpose.</p>
 </ul>
 <p>The above list of carbon crediting programmes and methodologies meet the
 eligibility criteria and domestic laws, regulations and administrative
-frameworks of both Ghana and Singapore.&nbsp;
-<br>Though eligible, the applicability of these methodologies may be further
-assessed by both Ghana and Singapore when project applications are submitted.
+frameworks of both Peru and Singapore.&nbsp;</p>
+<p>Though eligible, the applicability of these methodologies may be further
+assessed by both Peru and Singapore when project applications are submitted.
 Singapore and / or Peru reserves the right to refuse authorisation of a
 mitigation activity. The refusal for authorisation may be due to:&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -98,7 +98,6 @@ relevant carbon crediting programme, when the project application is submitted.&
 </li>
 <li>
 <p>The methodology is not the latest version.&nbsp;</p>
-<p></p>
 </li>
 </ul>
 <p>Additional requirements from Singapore for specific project types&nbsp;and

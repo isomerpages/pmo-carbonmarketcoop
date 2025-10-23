@@ -65,7 +65,7 @@ re-assessment for projects generating alternative revenue.</p>
 </li>
 <li>
 <p>[For VM0047] Project start date should be within 5 years of validation
-to show criticality of carbon revenue and additionality</p>
+to show criticality of carbon revenue and additionality.</p>
 </li>
 <li>
 <p>[For VM0047] Credits generated from project to apply the ABACUS label,

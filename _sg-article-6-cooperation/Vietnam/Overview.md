@@ -52,7 +52,6 @@ each stage will be published in due course.</p>
 </p>
 <p>The Joint Committee is a coordination body that oversees the administration
 of the Implementation Agreement.</p>
-<p></p>
 <p>The Singapore-Vietnam Joint Committee is co-chaired by:</p>
 <table style="minWidth: 50px">
 <colgroup>

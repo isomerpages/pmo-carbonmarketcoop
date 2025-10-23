@@ -434,6 +434,38 @@ VISta) or another standard recognised by VCS for such purpose.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Peru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Standard for the Global Goals (GS4GG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. <a href="https://globalgoals.goldstandard.org/407-ee-ics-technologies-and-practices-to-displace-decentrilized-thermal-energy-tpddtec-consumption/" rel="noopener noreferrer nofollow" target="_blank">Reduced Emissions from Cooking and Heating – Technologies and Practices to Displace Decentralized Thermal Energy Consumption V4.0 (TPDDTEC)</a>
+</p>
+<p>2. <a href="https://globalgoals.goldstandard.org/433-ee-ics-methodology-for-animal-manure-management-and-biogas-use-for-thermal-energy-generation/" rel="noopener nofollow" target="_blank">Methodology For Animal Manure Management and Biogas Use for Thermal Energy Generation v1.1</a>
+</p>
+<p>3. <a href="https://globalgoals.goldstandard.org/437-luf-agr-methane-emission-reduction-awm-practice-in-rice/" rel="noopener nofollow" target="_blank">Methane Emission Reduction by adjusted Water management practice in rice cultivation v1.0</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Verified Carbon Standard (VCS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4. <a href="https://verra.org/methodologies/vm0016-recovery-and-destruction-of-ozone-depleting-substances-ods-from-products-v1-1/" rel="noopener nofollow" target="_blank">VM0016 Recovery and Destruction of Ozone-Depleting Substances (ODS) from Products, v1.1</a>
+</p>
+<p>5. <a href="https://verra.org/methodologies/vmr0008-revision-to-ams-iii-ba-recovery-and-recycling-of-materials-from-e-waste-v1-0/" rel="noopener noreferrer nofollow" target="_blank">VMR0008 Revision to </a>
+<a rel="noopener noreferrer nofollow" target="_blank">AMS-III.BA</a><a href="https://verra.org/methodologies/vmr0008-revision-to-ams-iii-ba-recovery-and-recycling-of-materials-from-e-waste-v1-0/" rel="noopener noreferrer nofollow" target="_blank">.: Recovery and Recycling of Materials from E-waste v1.0</a>
+</p>
+<p>6. <a href="https://verra.org/methodologies/vm0047-afforestation-reforestation-and-revegetation-v1-1/" rel="noopener nofollow" target="_blank">VM0047 Afforestation, Reforestation, and Revegetation, v1.1</a>
+</p>
+<p>7. <a href="https://verra.org/methodologies/vm0048-reducing-emissions-from-deforestation-and-forest-degradation-v1-0/" rel="noopener nofollow" target="_blank">VM0048 Reducing Emissions from Deforestation and Forest Degradation, v1.0</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

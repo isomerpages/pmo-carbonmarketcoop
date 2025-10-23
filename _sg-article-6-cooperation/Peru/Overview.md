@@ -76,7 +76,7 @@ of the Implementation Agreement.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Director-General, General Directorate of Climate Change and Desertification
-of the Ministry of Environment.</p>
+of the Ministry of Environment</p>
 </td>
 </tr>
 </tbody>

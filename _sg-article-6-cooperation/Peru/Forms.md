@@ -18,7 +18,7 @@ third_nav_title: Peru
 </p>
 </li>
 <li>
-<p>Submit the completed form and any supporting documents to <a rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.sg</a> and <a rel="noopener noreferrer nofollow" target="_blank">soporteceropapel@minam.gob.pe</a>Please
+<p>Submit the completed form and any supporting documents to <a rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.sg</a> and <a rel="noopener noreferrer nofollow" target="_blank">soporteceropapel@minam.gob.pe</a>. Please
 note the guidelines for submission below.</p>
 </li>
 </ol>
@@ -57,11 +57,11 @@ the forms as a <strong>certified read-only copy</strong>.</p>
 <p>Applicants should title the subject of their email submissions as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PE-SG Application Submission - [Stage A/B/C] for_[Mitigation Activity
-Reference Number (if applicable)_[Name of Mitigation Activity]</p>
+<p>PE-SG Application Submission - <em>[Stage A/B/C]</em> for <em>[Mitigation Activity Reference Number (if applicable)]</em>_<em>[Name of Mitigation Activity]</em>
+</p>
 </li>
 <li>
-<p>E.g. PE-SG Application Submission - Stage B for PE-SG-12345_ Project XYZ</p>
+<p>E.g. PE-SG Application Submission - Stage B for PE-SG-12345_Project XYZ</p>
 </li>
 </ul>
 </td>

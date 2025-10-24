@@ -4,8 +4,7 @@ permalink: /additional-environmental-integrity-safeguards/
 variant: tiptap
 description: Additional Project-level Safeguards
 ---
-<p>Please note the following requirements for the following specific project
-types:</p>
+<h4>Please note the following requirements for the following specific project types:</h4>
 <p><strong><u>Renewable Energy Projects</u></strong>
 </p>
 <p>Only carbon credits from the following renewable energy projects will
@@ -45,3 +44,40 @@ incentive factor</p>
 </li>
 </ul>
 <p></p>
+<h4>In addition, please note the following requirements for VM0047 and VM0048.</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>For the reporting of reversals, all projects must be part of an independent
+monitoring mechanism (a) or (b) or be validated with data from an independent
+source (c):</p>
+<p>(a) Projects under a jurisdictional proponent of a public-private partnership
+(e.g. Jurisdictional and Nested REDD+ or JNR);</p>
+<p>(b) Verra’s programme-level system (e.g. Long-Term Monitoring system)
+when it becomes operational in 2026; or</p>
+<p>(c) Verification against available resources on deforestation/reversals
+(e.g. national inventories/Global Forest Watch)</p>
+</li>
+<li>
+<p>Project developers shall conduct an additionality re-assessment at every
+credit issuance tranche if more than 5 years have elapsed after the first
+additionality test. For VM0047, this will apply as a financial additionality
+re-assessment for projects generating alternative revenue.</p>
+</li>
+<li>
+<p>[For VM0047] Project start date should be within 5 years of validation
+to show criticality of carbon revenue and additionality.</p>
+</li>
+<li>
+<p>[For VM0047] Credits generated from project to apply the ABACUS label,
+which requires projects to effectively maintain or enhance agricultural
+production in the project area and surrounding landscape to prevent leakage,
+amongst other safeguards.</p>
+</li>
+<li>
+<p>[For VM0048] To timely identify crediting and leakage risks in between
+map updates by Verra, project developers shall perform an ex-post analysis
+of the baseline at every credit issuance tranche.</p>
+</li>
+</ol>
+<p>Project developers can provide justifications if they are unable to meet
+the above safeguards.</p>

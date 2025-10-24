@@ -42,9 +42,14 @@ can be found below.</p>
 </tbody>
 </table>
 <hr>
-<p>More details of the processes to seek Article 6 authorisation of the mitigation
-activities and the mitigation outcomes, including required documents at
-each stage will be published in due course.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGPE_flow.png">
+</div>
+<p>The Singapore-Peru Implementation Agreement is open for project applications.
+Interested applicants may wish to refer to the chart below for the process
+to seek Article 6 authorisation of the mitigation activities and mitigation
+outcomes. More details can be found in the <a href="https://carbonmarkets-cooperation.gov.sg/processes-peru/" rel="noopener noreferrer nofollow" target="_blank"><u>Application Process</u></a>&nbsp;tab.</p>
 <hr>
 <p><strong>Joint Committee</strong>
 </p>
@@ -71,7 +76,7 @@ of the Implementation Agreement.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Director-General, General Directorate of Climate Change and Desertification
-of the Ministry of Environment.</p>
+of the Ministry of Environment</p>
 </td>
 </tr>
 </tbody>

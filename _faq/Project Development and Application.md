@@ -155,7 +155,7 @@ Transferred Mitigation Outcomes (ITMOs) authorised under the Implementation
 Agreement (IA) be sold?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>ITMOs authorised under Singapore’s IAs must first be sold or transferred
-to <a href="https://www.carbonmarkets-cooperation.gov.sg/participation-criteria/" rel="noopener noreferrer nofollow" target="_blank">Eligible Entities</a>.
+to <a href="www.carbonmarkets-cooperation.gov.sg/participation-criteria/" rel="noopener noreferrer nofollow" target="_blank">Eligible Entities</a>.
 Once the ITMOs have met the Eligible Entity criteria, they can be sold
 domestically or internationally. Besides the Singapore Government, other
 demand sources include Singapore carbon tax-liable companies and other

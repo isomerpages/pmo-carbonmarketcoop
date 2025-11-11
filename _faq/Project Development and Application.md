@@ -161,7 +161,7 @@ domestically or internationally. Besides the Singapore Government, other
 demand sources include Singapore carbon tax-liable companies and other
 sectoral compliance schemes such as CORSIA.</p>
 <p>Sellers who are interested to be connected to carbon-tax liable companies
-in Singapore may register their interest with the <a href="https://go.gov.sg/scma-eoi" rel="noopener noreferrer nofollow" target="_blank">Singapore Carbon Market Association (SCMA)</a>.</p>
+in Singapore may register their interest with the <a href="https://go.gov.sg/scma-eoi" rel="noopener noreferrer nofollow" target="_blank">Singapore Carbon Market Alliance (SCMA)</a>.</p>
 <p>The government issues Requests for Proposals (RFPs) to purchase ITMOs.
 These opportunities are publicised on GeBIZ, and interested sellers can
 register for an account <a href="https://www.gebiz.gov.sg/ptn/gtpregistration/signup.xhtml" rel="noopener noreferrer nofollow" target="_blank">here</a>.

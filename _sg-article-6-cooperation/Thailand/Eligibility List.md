@@ -18,16 +18,51 @@ of both Thailand and Singapore are:</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
-<p>Reduced Emissions from Cooking and Heating – Technologies and Practices
-to Displace Decentralized Thermal Energy Consumption v4.0 (TPDDTEC)</p>
+<p>Methane Emissions Reduction from Enteric Fermentation in Beef Cattle through
+Application of Feed Supplements&nbsp;v1.0</p>
 </li>
 <li>
 <p>Methodology For Animal Manure Management and Biogas Use for Thermal Energy
-Generation&nbsp;v1.1</p>
+Generation&nbsp;v1.1*</p>
+</li>
+<li>
+<p>Soil Organic Carbon Framework Methodology&nbsp;v1.0*</p>
 </li>
 <li>
 <p>Methane Emission Reduction by adjusted Water management practice in rice
-cultivation&nbsp;v1.0</p>
+cultivation&nbsp;v1.0*</p>
+</li>
+<li>
+<p>Gold Standard Agriculture Smallholder Dairy Methodology&nbsp;v1.0</p>
+</li>
+<li>
+<p>Indicative Program, Baseline and Monitoring Methodology for The Large-Scale
+Supply &amp; Distribution of Efficient Light Bulbs, Shower Heads and Other
+Water Saving Devices to Households&nbsp;v2.0*</p>
+</li>
+<li>
+<p>Two And Three Wheeled Personal Transportation&nbsp;v1.0*</p>
+</li>
+<li>
+<p>Emission Reduction by Shore-Side or Off-Shore Electricity Supply System
+v1.0*</p>
+</li>
+<li>
+<p>Gold Standard Reduction in Methane Emissions from Landfills Through Decentralised
+Organic Waste Processing v1.0*</p>
+</li>
+<li>
+<p>Gold Standard Methodology for Reducing Methane Emissions from Combustion
+Engine Exhaust v1.0</p>
+</li>
+<li>
+<p>Methodology For Marine Fuels and Bio Bunkers v1.0*</p>
+</li>
+<li>
+<p>Retrofit Energy Efficiency Measures in Shipping v2.0*</p>
+</li>
+<li>
+<p>GS-ACM0001 Flaring or use of landfill gas v19*</p>
 </li>
 </ol>
 </div>
@@ -36,6 +71,51 @@ cultivation&nbsp;v1.0</p>
 </li>
 <li>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Verified Carbon Standard (VCS)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; VM0008 Weatherization of Single-Family and
+Multi-Family Buildings, v1.2*</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; VM0018 Energy Efficiency and Solid Waste Diversion
+Activities within a Sustainable Community, v1.0*</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; VM0025 Campus Clean Energy and Energy Efficiency,
+v1.0*</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; VM0032 Methodology for the Adoption of Sustainable
+Grasslands through Adjustment of Fire and Grazing, v1.0</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp; VM0033 Methodology for Tidal Wetland and Seagrass
+Restoration, v2.1</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp; VM0038 Methodology for Electric Vehicle Charging
+Systems, v1.0*</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp; VM0039 Methodology for Use of Foam Stabilized
+Base and Emulsion Asphalt Mixtures in Pavement Application, v1.1*</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp; VM0041 Methodology for the Reduction of Enteric
+Methane Emissions from Ruminants through the Use of 100% Natural Feed Supplement,
+v2.0</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp; VM0042 Methodology for Improved Agricultural
+Land Management, v2.1*</p>
+<p>10.&nbsp; VM0043 Methodology for CO2&nbsp;Utilization in Concrete Production,
+v1.1*</p>
+<p>11.&nbsp; VM0046 Methodology for Reducing Food Loss and Waste, v1.0</p>
+<p>12.&nbsp; VMR0004 Improved Efficiency of Fleet Vehicles, v2.0*</p>
+<p>13.&nbsp; VMR0007 Revision to AMS-III.AJ.: Recovery and Recycling of Materials
+from Solid Wastes v1.0</p>
+<p>14.&nbsp; VMR0008 Revision to <a rel="noopener noreferrer nofollow" target="_blank">AMS-III.BA</a>.:
+Recovery and Recycling of Materials from E-waste v1.0</p>
+<p>15.&nbsp; VMR0009 Revision to AM0057: Avoided Emissions from Biomass Wastes
+through Use as Feedstock in Pulp and Paper, Cardboard, Fiberboard or Bio-oil
+Production, v1.0*</p>
+<p>16.&nbsp; VMR0010 Electricity Supply for Ships, v1.0*</p>
+<p>17.&nbsp; VMR0012 Production of Geopolymer Cement, v1.0</p>
+<p>18.&nbsp; Scenario 2a of VCS JNR framework v4.1</p>
+<p>19.&nbsp; Scenario 3 of VCS JNR framework v4.1</p>
+<p>20.&nbsp; <a href="https://cdm.unfccc.int/methodologies/DB/JPYB4DYQUXQPZLBDVPHA87479EMY9M" rel="noopener noreferrer nofollow" target="_blank">Verra-ACM0001 Flaring or use of landfill gas v19</a>*</p>
+<p>21.&nbsp; VM0047 Afforestation, Reforestation, and Revegetation, v1.1*</p>
+<p>22.&nbsp; VM0048 Reducing Emissions from Deforestation and Forest Degradation,
+v1.0*</p>
+</div>
+</details>
+</div>
 </li>
 </ul>
 <p>The above list of carbon crediting programmes and methodologies meet the

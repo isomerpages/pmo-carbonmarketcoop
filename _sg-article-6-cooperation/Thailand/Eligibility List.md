@@ -100,8 +100,8 @@ v1.1*</p>
 <p>12.&nbsp; VMR0004 Improved Efficiency of Fleet Vehicles, v2.0*</p>
 <p>13.&nbsp; VMR0007 Revision to AMS-III.AJ.: Recovery and Recycling of Materials
 from Solid Wastes v1.0</p>
-<p>14.&nbsp; VMR0008 Revision to <a rel="noopener noreferrer nofollow" target="_blank">AMS-III.BA</a>.:
-Recovery and Recycling of Materials from E-waste v1.0</p>
+<p>14.&nbsp; VMR0008 Revision to AMS-III.BA.: Recovery and Recycling of Materials
+from E-waste v1.0</p>
 <p>15.&nbsp; VMR0009 Revision to AM0057: Avoided Emissions from Biomass Wastes
 through Use as Feedstock in Pulp and Paper, Cardboard, Fiberboard or Bio-oil
 Production, v1.0*</p>
@@ -109,10 +109,44 @@ Production, v1.0*</p>
 <p>17.&nbsp; VMR0012 Production of Geopolymer Cement, v1.0</p>
 <p>18.&nbsp; Scenario 2a of VCS JNR framework v4.1</p>
 <p>19.&nbsp; Scenario 3 of VCS JNR framework v4.1</p>
-<p>20.&nbsp; <a href="https://cdm.unfccc.int/methodologies/DB/JPYB4DYQUXQPZLBDVPHA87479EMY9M" rel="noopener noreferrer nofollow" target="_blank">Verra-ACM0001 Flaring or use of landfill gas v19</a>*</p>
+<p>20. Verra-ACM0001 Flaring or use of landfill gas v19*</p>
 <p>21.&nbsp; VM0047 Afforestation, Reforestation, and Revegetation, v1.1*</p>
 <p>22.&nbsp; VM0048 Reducing Emissions from Deforestation and Forest Degradation,
 v1.0*</p>
+</div>
+</details>
+</div>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Global Carbon Council (GCC)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>36. GCCM002 Methodology for Energy Saving in Pumping Systems v1.0*</p>
+<p>37.&nbsp;&nbsp;&nbsp;&nbsp; GCCM003 Methodology for Energy Generation
+from Animal Manure and Waste Management Projects v2.0*</p>
+<p>38.&nbsp;&nbsp;&nbsp;&nbsp; GCCM004 Methodology for Water Grid Connected
+Renewable Energy Based Desalination Plant v1.0*</p>
+<p>39.&nbsp;&nbsp;&nbsp;&nbsp; GCC-ACM0001 Flaring or use of landfill gas
+v19*</p>
+</div>
+</details>
+</div>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Architecture for REDD+ Transactions (ART)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>40. The REDD+ Environmental Excellence Standard (TREES) - Version 2</p>
+<p></p>
+<p>Note: HFLD approaches for REDD/REDD+ activities and projects are not eligible.</p>
 </div>
 </details>
 </div>

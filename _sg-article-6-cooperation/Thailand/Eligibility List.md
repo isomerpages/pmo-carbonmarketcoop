@@ -75,43 +75,43 @@ Engine Exhaust v1.0</p>
 <details class="isomer-details">
 <summary>Verified Carbon Standard (VCS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; VM0008 Weatherization of Single-Family and
+<p>14.&nbsp;&nbsp;&nbsp;&nbsp; VM0008 Weatherization of Single-Family and
 Multi-Family Buildings, v1.2*</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; VM0018 Energy Efficiency and Solid Waste Diversion
+<p>15.&nbsp;&nbsp;&nbsp;&nbsp; VM0018 Energy Efficiency and Solid Waste Diversion
 Activities within a Sustainable Community, v1.0*</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; VM0025 Campus Clean Energy and Energy Efficiency,
+<p>16.&nbsp;&nbsp;&nbsp;&nbsp; VM0025 Campus Clean Energy and Energy Efficiency,
 v1.0*</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; VM0032 Methodology for the Adoption of Sustainable
+<p>17.&nbsp;&nbsp;&nbsp;&nbsp; VM0032 Methodology for the Adoption of Sustainable
 Grasslands through Adjustment of Fire and Grazing, v1.0</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; VM0033 Methodology for Tidal Wetland and Seagrass
+<p>18.&nbsp;&nbsp;&nbsp;&nbsp; VM0033 Methodology for Tidal Wetland and Seagrass
 Restoration, v2.1</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; VM0038 Methodology for Electric Vehicle Charging
+<p>19.&nbsp;&nbsp;&nbsp;&nbsp; VM0038 Methodology for Electric Vehicle Charging
 Systems, v1.0*</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp; VM0039 Methodology for Use of Foam Stabilized
+<p>20.&nbsp;&nbsp;&nbsp;&nbsp; VM0039 Methodology for Use of Foam Stabilized
 Base and Emulsion Asphalt Mixtures in Pavement Application, v1.1*</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp; VM0041 Methodology for the Reduction of Enteric
+<p>21.&nbsp;&nbsp;&nbsp;&nbsp; VM0041 Methodology for the Reduction of Enteric
 Methane Emissions from Ruminants through the Use of 100% Natural Feed Supplement,
 v2.0</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp; VM0042 Methodology for Improved Agricultural
+<p>22.&nbsp;&nbsp;&nbsp;&nbsp; VM0042 Methodology for Improved Agricultural
 Land Management, v2.1*</p>
-<p>10.&nbsp; VM0043 Methodology for CO2&nbsp;Utilization in Concrete Production,
+<p>23.&nbsp; VM0043 Methodology for CO2&nbsp;Utilization in Concrete Production,
 v1.1*</p>
-<p>11.&nbsp; VM0046 Methodology for Reducing Food Loss and Waste, v1.0</p>
-<p>12.&nbsp; VMR0004 Improved Efficiency of Fleet Vehicles, v2.0*</p>
-<p>13.&nbsp; VMR0007 Revision to AMS-III.AJ.: Recovery and Recycling of Materials
+<p>24.&nbsp; VM0046 Methodology for Reducing Food Loss and Waste, v1.0</p>
+<p>25.&nbsp; VMR0004 Improved Efficiency of Fleet Vehicles, v2.0*</p>
+<p>26.&nbsp; VMR0007 Revision to AMS-III.AJ.: Recovery and Recycling of Materials
 from Solid Wastes v1.0</p>
-<p>14.&nbsp; VMR0008 Revision to AMS-III.BA.: Recovery and Recycling of Materials
+<p>27.&nbsp; VMR0008 Revision to AMS-III.BA.: Recovery and Recycling of Materials
 from E-waste v1.0</p>
-<p>15.&nbsp; VMR0009 Revision to AM0057: Avoided Emissions from Biomass Wastes
+<p>28.&nbsp; VMR0009 Revision to AM0057: Avoided Emissions from Biomass Wastes
 through Use as Feedstock in Pulp and Paper, Cardboard, Fiberboard or Bio-oil
 Production, v1.0*</p>
-<p>16.&nbsp; VMR0010 Electricity Supply for Ships, v1.0*</p>
-<p>17.&nbsp; VMR0012 Production of Geopolymer Cement, v1.0</p>
-<p>18.&nbsp; Scenario 2a of VCS JNR framework v4.1</p>
-<p>19.&nbsp; Scenario 3 of VCS JNR framework v4.1</p>
-<p>20. Verra-ACM0001 Flaring or use of landfill gas v19*</p>
-<p>21.&nbsp; VM0047 Afforestation, Reforestation, and Revegetation, v1.1*</p>
-<p>22.&nbsp; VM0048 Reducing Emissions from Deforestation and Forest Degradation,
+<p>29.&nbsp; VMR0010 Electricity Supply for Ships, v1.0*</p>
+<p>30.&nbsp; VMR0012 Production of Geopolymer Cement, v1.0</p>
+<p>31.&nbsp; Scenario 2a of VCS JNR framework v4.1</p>
+<p>32.&nbsp; Scenario 3 of VCS JNR framework v4.1</p>
+<p>33. Verra-ACM0001 Flaring or use of landfill gas v19*</p>
+<p>34.&nbsp; VM0047 Afforestation, Reforestation, and Revegetation, v1.1*</p>
+<p>35.&nbsp; VM0048 Reducing Emissions from Deforestation and Forest Degradation,
 v1.0*</p>
 </div>
 </details>

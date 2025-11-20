@@ -146,7 +146,7 @@ requirement?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes, if the Singapore Government declines to purchase the ITMOs offered
 under ROFO, you may sell them to other buyers. Please note that the sale
-of the ITMO is still subject to the <a href="https://www.carbonmarkets-cooperation.gov.sg/implementation-agreements/participation-criteria/" rel="noopener noreferrer nofollow" target="_blank">Eligible Entity</a> requirement.</p>
+of the ITMO is still subject to the <a href="www.carbonmarkets-cooperation.gov.sg/participation-criteria/" rel="noopener noreferrer nofollow" target="_blank">Eligible Entity</a> requirement.</p>
 </div>
 </details>
 <details class="isomer-details">

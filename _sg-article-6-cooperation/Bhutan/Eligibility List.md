@@ -131,6 +131,15 @@ project types or methodologies:</p>
 </div>
 <p></p>
 </li>
+</ul>
+<p>The above list of carbon crediting programmes and methodologies meet the
+eligibility criteria and domestic laws, regulations and administrative
+frameworks of both Bhutan and Singapore.&nbsp;
+<br>Though eligible, the applicability of these methodologies may be further
+assessed by both Bhutan and Singapore when project applications are submitted.
+Singapore and / or Bhutanreserves the right to refuse authorisation of
+a mitigation activity. The refusal for authorisation may be due to:&nbsp;</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>The methodology is not aligned with domestic laws, regulations and administrative
 frameworks of respective countries, when the project application is submitted.&nbsp;</p>

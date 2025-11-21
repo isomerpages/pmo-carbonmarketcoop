@@ -186,8 +186,8 @@ report</p>
 </tr>
 </tbody>
 </table>
-<p>Singapore and Peru may request for the submission of other relevant documents
-not listed above.</p>
+<p>Singapore and Bhutan may request for the submission of other relevant
+documents not listed above</p>
 </div>
 </details>
 </div>

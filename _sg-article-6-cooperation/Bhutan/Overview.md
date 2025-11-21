@@ -49,7 +49,7 @@ can be found below.</p>
 <p>The Singapore-Bhutan Implementation Agreement is open for project applications.
 Interested applicants may wish to refer to the chart below for the process
 to seek Article 6 authorisation of the mitigation activities and mitigation
-outcomes. More details can be found in the</p>
+outcomes. More details can be found in the <a href="www.carbonmarkets-cooperation.gov.sg/eligibility-list-bhutan/" rel="noopener nofollow" target="_blank">Application Process</a> tab.</p>
 <hr>
 <p><strong>Joint Committee</strong>
 </p>

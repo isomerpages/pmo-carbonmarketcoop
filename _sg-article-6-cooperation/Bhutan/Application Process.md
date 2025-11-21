@@ -16,18 +16,19 @@ Outcomes (ITMOs) under the Singapore-Bhutan Implementation Agreement (IA).</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The project applicant submits the completed <u>Singapore-Peru Mitigation Activity Note of Intent</u> (in
-English and Spanish) to the Joint Committee.&nbsp;</p>
-<p>If the Mitigation Activity Note of Intent is accepted, the Joint Committee
-will forward to the project applicant the <u>Letter of Support</u> (LOS)
-from Singapore. The letter may specify the conditions that the project
-applicant should meet in designing the proposed mitigation activity.</p>
-<p>If the Mitigation Activity Note of Intent is not accepted, the project
-applicant will be informed, along with any reasons for the non-acceptance
+<p>The Project Applicant submits the completed <u>Singapore-Bhutan Mitigation Activity Note of Intent</u> (in
+English) to the Joint Committee.&nbsp;</p>
+<p>If the Mitigation Activity Note of Intent is accepted by both countries,
+the Joint Committee will forward to the Project Applicant the <u>Letter of Support</u> and <u>Letter of Intent</u> from
+Singapore and Bhutan respectively. These letters may specify the conditions
+that the Project Applicant should meet in designing the proposed Mitigation
+Activity.</p>
+<p>If the Mitigation Activity Note of Intent is not accepted, the Project
+Applicant will be informed, along with any reasons for the non-acceptance
 (if relevant).</p>
-<p>The LOS will have a validity period of minimally 1 year. After the first
-year from the date of issuance, Singapore reserves the right to withdraw
-the LOS and will notify the project applicant of the withdrawal if so.</p>
+<p>The LOS and LOI will have a validity period of 2 years. Should the <u>Authorisation Application Form</u> not
+be submitted during the validity period of the Letters, the Project Applicant
+would be required to reapply at Stage A of the application process.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -43,21 +44,22 @@ the LOS and will notify the project applicant of the withdrawal if so.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore-Peru Mitigation Activity Note of Intent</p>
+<p>Singapore-Bhutan Mitigation Activity Note of Intent</p>
 </li>
 <li>
-<p>Certification of Business Incorporate / Registration</p>
+<p>Certification of incorporation or registration / business license / prior
+approval from Competent Authorities</p>
 </li>
 <li>
-<p>Notice of Assessment for Corporate Tax</p>
+<p>Notice of assessment for corporate tax</p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Singapore and Peru may request for the submission of other relevant documents
-not listed above.</p>
+<p>Singapore and Bhutan may request for the submission of other relevant
+documents not listed above.</p>
 </div>
 </details>
 </div>

@@ -69,31 +69,29 @@ documents not listed above.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The project applicant submits the completed (i) <u>Singapore-Peru Authorisation Application Form</u> (in
-English and Spanish); and (ii) Peru’s Registration of a Carbon Market Mitigation
-Activity under Cooperative Approaches in RENAMI (in English and Spanish)
-to the Joint Committee.</p>
+<p>The Project Applicant submits the completed <u>Singapore-Bhutan Authorisation Application Form</u> (in
+English) to the Joint Committee.</p>
 <p>If the Request for Authorisation is accepted by both countries, the Joint
 Committee will:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Forward to the project applicant the <u>Letters of Authorisation</u> issued
-by Singapore and Peru respectively</p>
+<p>Forward to the Project Applicant the <u>Letters of Authorisation</u> issued
+by Singapore and Bhutan respectively</p>
 </li>
 <li>
-<p>Enter the mitigation activity into the database of authorised mitigation
-activities; and</p>
+<p>Enter the Mitigation Activity into the Project Register; and</p>
 </li>
 <li>
-<p>Issue a <u>Joint Statement of Authorisation</u> to the project applicant,
+<p>Issue a <u>Joint Statement of Authorisation</u> to the Project Applicant,
 and publish it online.</p>
 </li>
 </ul>
-<p>The project applicant may then proceed with the registration of the mitigation
-activity with the carbon crediting programme specified in the Letters of
-Authorisation and inform the Joint Committee of the successful registration.
-The project applicant may then proceed with the implementation of the project.</p>
-<p>If the proposed mitigation activity is not authorised, the project applicant
+<p>The Project Applicant may then proceed with the <strong>registration</strong> of
+the Mitigation Activity with the carbon crediting programme specified in
+the Letters of Authorisation and <strong>inform</strong> the Joint Committee
+of the successful registration. The Project Applicant may then proceed
+with the implementation of the project.</p>
+<p>If the proposed Mitigation Activity is not authorised, the Project Applicant
 will be informed, along with any reasons for the non-acceptance (if relevant).</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -110,73 +108,37 @@ will be informed, along with any reasons for the non-acceptance (if relevant).</
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore-Peru Authorisation Application Form</p>
+<p>Singapore-Bhutan Authorisation Application Form</p>
 </li>
 <li>
-<p>Project design document in accordance with requirements of the carbon
-crediting programme</p>
+<p>Validated Project Design Document</p>
 </li>
 <li>
 <p>Validation Report in accordance with the requirements of the carbon crediting
 programme</p>
 </li>
 <li>
-<p>[If Relevant] Offer to the Singapore Government for purchase of ITMOs
-authorised under this Implementation Agreement arising from this mitigation
-activity</p>
+<p>(If applicable) Environmental Clearance</p>
 </li>
 <li>
-<p>Application form for the registration of a carbon market activity under
-cooperative approaches in RENAMI, accordance with the provisions for the
-operation of RENAMI, approved by Executive Order N° 010-2024-MINAM, or
-the equivalent regulation. The following documents <sup>1</sup> should accompany
-the application form:</p>
-<p>a. A copy of the administrative order authorizing the commencement of
-operations or activities for the implementation of the mitigation activity,
-if any.</p>
-<p>b. A copy of the Environmental Management Instrument for the project or
-activity corresponding to the mitigation activity and the administrative
-order approving it, if applicable.</p>
-<p>c. A copy of the signed minutes of the communal assembly or assemblies
-held with the required quorum, in accordance with their bylaws and applicable
-law, recording agreement on the design, implementation, and monitoring
-of the mitigation activity, including the participation of third parties
-and their roles, in the case of mitigation activities to be implemented,
-according to their DDMM, in the territories of campesino or native communities.</p>
-<p>For the registration of a carbon market mitigation activity under cooperative
-approaches that implements REDD+ actions, in addition to the required documents
-listed in item 5 hereof, the following documents must be included:</p>
-<p>e. A copy of the SUNARP (National Superintendence of Public Registries,
-in English) registration card as proof of right in rem over the area where
-the mitigation activity is to be implemented. If the interested party does
-not possess this document, an alternative document demonstrating proof
-of the said right may be submitted instead. Native and campesino communities
-may demonstrate their rights over lands designated as suitable for forestry
-or protected areas by submitting a copy of the resolution that grants them
-land-use rights. Native or campesino communities involved in land titling
-processes must provide a copy of the titling application submitted to the
-competent authority, along with the favorable technical and legal opinion
-issued by the competent authority for the specific area.</p>
-<p>f. A copy of the current forest management plan and the administrative
-order approving it, if applicable.</p>
-<p>g. A copy of the documents evidencing compliance with REDD+ safeguards,
-as outlined in Annex II to the provisions for the operation of RENAMI,
-approved by Executive Order N° 010-2024-MINAM.</p>
-<p>
-<br><sup>1</sup>The Application form for the registration of a carbon market
-activity under cooperative approaches in RENAMI requires the submission
-of “A copy of the DDMM validated by a VVB and of the documentation supporting
-the calculation of reductions in GHG emissions and increases in GHG removals”
-and “A copy of the DDMM validation report issued by a VVB”. Please note
-that they are equivalent to the documents indicated in 2 and 3 respectively.</p>
+<p>(If applicable) Valid Land Lease Agreement / purchase agreement / Land
+User Certificate</p>
+</li>
+<li>
+<p>Letter of Intent issued by the Bhutan Government</p>
+</li>
+<li>
+<p>[If Relevant] Offer to the Singapore Government for purchase of ITMOs
+arising from this Mitigation Activity that are authorised under this Implementation
+Agreement</p>
 </li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Singapore and Peru may request for the submission of other relevant documents
-not listed above.</p>
+<p>Singapore and Bhutan may request for the submission of other relevant
+documents not listed above.</p>
 </div>
 </details>
 </div>

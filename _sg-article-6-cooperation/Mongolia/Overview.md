@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Mongolia
 ---
 <p>Singapore and Mongolia signed an <a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2025/10/Singapore-signs-Implementation-Agreement-on-carbon-credits-collaboration-with-Mongolia" rel="noopener nofollow" target="_blank"><u>Implementation Agreement</u></a> on
-carbon credits cooperation on 6 October 2025. Acopy of the sgined agreement
+carbon credits cooperation on 6 October 2025. A copy of the signed agreement
 can be found below.</p>
 <p></p>
 <hr>

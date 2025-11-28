@@ -40,7 +40,7 @@ can be found below.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Mongolia_IA___Annex_D.pdf" rel="noopener nofollow" target="_blank">Annex D - </a>
-<a href="https://www.carbonmarkets-cooperation.gov.sg/files/Singapore_Bhutan_IA_Annex_D.pdf" rel="noopener nofollow" target="_blank"><u>Procedure for Project Participants to Resolve Disputes with Bhutan Relating to the Applications of Corresponding Adjustments</u>
+<a href="https://www.carbonmarkets-cooperation.gov.sg/files/Singapore_Bhutan_IA_Annex_D.pdf" rel="noopener nofollow" target="_blank"><u>Procedure for Project Participants to Resolve Disputes with Mongolia Relating to the Applications of Corresponding Adjustments</u>
 </a>
 </p>
 </td>

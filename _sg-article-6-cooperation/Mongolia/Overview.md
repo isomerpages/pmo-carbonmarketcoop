@@ -23,20 +23,26 @@ can be found below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Mongolia_IA___Annex_A_.pdf" rel="noopener nofollow" target="_blank">Annex A - Pre-approved List of Offset Programmes and Methodologies </a>
+<p><a href="/files/Mongolia_IA___Annex_A_.pdf" rel="noopener nofollow" target="_blank">Annex A - Pre-approved List of Offset Programmes and Methodologies</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Mongolia_IA___Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activities and the Issuance, and Transfer of ITMOs </a>
+<p><a href="/files/Mongolia_IA___Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activities and the Issuance, and Transfer of ITMOs</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Mongolia_IA___Annex_C_.pdf" rel="noopener nofollow" target="_blank">Annex C - </a>
+<a href="https://www.carbonmarkets-cooperation.gov.sg/files/Singapore_Bhutan_IA_Annex_C.pdf" rel="noopener nofollow" target="_blank"><u>Terms of Reference of the Joint Committee</u>
+</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Mongolia_IA___Annex_D.pdf" rel="noopener nofollow" target="_blank">Annex D - </a>
+<a href="https://www.carbonmarkets-cooperation.gov.sg/files/Singapore_Bhutan_IA_Annex_D.pdf" rel="noopener nofollow" target="_blank"><u>Procedure for Project Participants to Resolve Disputes with Bhutan Relating to the Applications of Corresponding Adjustments</u>
+</a>
+</p>
 </td>
 </tr>
 </tbody>

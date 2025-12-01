@@ -8,7 +8,7 @@ third_nav_title: Bhutan
 <p>There are 3 stages to generate Internationally Transferrable Mitigation
 Outcomes (ITMOs) under the Singapore-Bhutan Implementation Agreement (IA).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_BT_flow.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bhutan_updated.jpg">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -191,5 +191,6 @@ documents not listed above</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>

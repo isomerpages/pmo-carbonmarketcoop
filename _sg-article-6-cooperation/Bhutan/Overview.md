@@ -44,7 +44,7 @@ can be found below.</p>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_BT_flow.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bhutan_updated.jpg">
 </div>
 <p>The Singapore-Bhutan Implementation Agreement is open for project applications.
 Interested applicants may wish to refer to the chart below for the process

@@ -8,7 +8,7 @@ third_nav_title: Rwanda
 <p>There are 3 stages to generate Internationally Transferrable Mitigation
 Outcomes (ITMOs) under the Singapore-Rwanda Implementation Agreement (IA).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGPE_flow.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rwanda_Flow.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

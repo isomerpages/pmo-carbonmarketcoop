@@ -57,7 +57,8 @@ country.</p>
 <p>Rwanda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.carbonmarkets-cooperation.gov.sg/eligibility-list-rwanda/" rel="noopener nofollow" target="_blank">SG-RW Eligibility List</a>
+</p>
 </td>
 </tr>
 <tr>

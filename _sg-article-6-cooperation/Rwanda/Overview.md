@@ -50,7 +50,7 @@ can be found below.</p>
 <p>The Singapore-Rwanda Implementation Agreement is open for project applications.
 Interested applicants may wish to refer to the chart below for the process
 to seek Article 6 authorisation of the mitigation activities and mitigation
-outcomes. More details can be found in the <a href="https://carbonmarkets-cooperation.gov.sg/processes-rwanda/" rel="noopener noreferrer nofollow" target="_blank"><u>Application Process</u></a>&nbsp;tab.</p>
+outcomes. More details can be found in the <a href="https://carbonmarkets-cooperation.gov.sg/application-process-rwanda/" rel="noopener noreferrer nofollow" target="_blank"><u>Application Process</u></a>&nbsp;tab.</p>
 <hr>
 <p><u>Joint Committee</u>
 </p>

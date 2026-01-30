@@ -29,7 +29,7 @@ fuel and renewable energy sources, or (ii) comprise of renewable energy
 generation units (e.g. solar PV, tidal/wave, wind, hydro, geothermal, waste-to-energy,
 renewable biomass) that are supplying energy or electricity.</p>
 <p>** Definition of LDC is based on United Nations’ definition; Definition
-of lower middle income countries is based on World Bank’s definition&nbsp;</p>
+of lower middle income countries is based on World Bank’s definition.</p>
 <p><strong><u>Forestry Conservation (i.e., REDD+)</u></strong>
 </p>
 <p>All forestry projects are required to:</p>

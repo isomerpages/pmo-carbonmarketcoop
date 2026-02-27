@@ -16,7 +16,7 @@ sections:
         - title: Overview
           description: ""
           url: /our-art6-cooperation/what-are-carbon-credits/
-        - title: Environmental Intergrity
+        - title: Environmental Integrity
           description: ""
           url: /environmental-integrity/eligibility-criteria/
         - title: Singapore's Article 6 Cooperation
@@ -29,5 +29,5 @@ sections:
   - resources:
       title: Newsroom
       id: resources
-      button: CLICK HERE TO FIND OUT MORE
+      button: Click here to find out more
 ---

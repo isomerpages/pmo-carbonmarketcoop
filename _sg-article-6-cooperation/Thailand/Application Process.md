@@ -9,7 +9,7 @@ third_nav_title: Thailand
 Outcomes (ITMOs) under the Singapore-Thailand Implementation Agreement
 (IA).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGPE_flow.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_TH_IA_Process.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -144,7 +144,7 @@ documents not listed above.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Stage C – ITMOs Issuance Authorisation</strong>
+<summary><strong>Stage C – ITMOs Issuance and Transfer Authorisation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Project Participant submits the completed <u>Singapore-Thailand’s ITMO Issuance and Transfer Application Form</u> (in

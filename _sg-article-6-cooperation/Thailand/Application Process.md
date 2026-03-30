@@ -168,7 +168,7 @@ will be informed, along with any reasons for the non-acceptance (if relevant).</
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore-Peru ITMO Issuance Application Form</p>
+<p>Singapore-Thailand ITMO Issuance Application Form</p>
 </li>
 <li>
 <p>Proof of Issuance from Carbon Crediting Programme with Accompanying Verification

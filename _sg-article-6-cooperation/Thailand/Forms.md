@@ -98,7 +98,8 @@ in a separate email.</p>
 <p>Stage A:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://go.gov.sg/sg-thstagea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-thstagea</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +107,8 @@ in a separate email.</p>
 <p>Stage B:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://go.gov.sg/sg-thstagea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-thstageb</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +116,8 @@ in a separate email.</p>
 <p>Stage C:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://go.gov.sg/sg-thstagea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-thstagec</a></strong>
+</p>
 </td>
 </tr>
 </tbody>

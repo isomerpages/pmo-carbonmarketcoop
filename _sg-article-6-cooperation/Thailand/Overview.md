@@ -42,8 +42,8 @@ can be found below.</p>
 </tbody>
 </table>
 <hr>
-<p>More details of the processes to seek Article 6 authorisation of the mitigation
-activities and the mitigation outcomes, including required documents at
-each stage will be published in due course.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_TH_IA_Process.png">
+</div>
 <hr>
 <p></p>

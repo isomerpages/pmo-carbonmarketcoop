@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Peru
 ---
-<p>There are 3 stages to generate Internationally Transferrable Mitigation
+<p>There are 3 stages to generate Internationally Transferable Mitigation
 Outcomes (ITMOs) under the Singapore-Peru Implementation Agreement (IA).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SGPE_flow.png">

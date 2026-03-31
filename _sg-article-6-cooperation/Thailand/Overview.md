@@ -48,6 +48,6 @@ can be found below.</p>
 <p>The Singapore-Thailand Implementation Agreement is open for project applications.
 Interested applicants may wish to refer to the chart below for the process
 to seek Article 6 authorisation of the mitigation activities and mitigation
-outcomes. More details can be found in the <a href="www.carbonmarkets-cooperation.gov.sg/eligibility-list-thailand/" rel="noopener nofollow" target="_blank">Application Process</a> tab.</p>
+outcomes. More details can be found in the <a href="https://www.carbonmarkets-cooperation.gov.sg/application-process-thailand/" rel="noopener nofollow" target="_blank">Application Process</a> tab.</p>
 <hr>
 <p></p>

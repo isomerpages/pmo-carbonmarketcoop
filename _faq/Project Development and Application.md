@@ -22,9 +22,8 @@ Eligibility List, which can be found <a href="https://www.carbonmarkets-cooperat
 <summary>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How are carbon crediting programmes
 and methodologies selected for inclusion in the Eligibility List?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Singapore takes reference from reputable international standards such
-as the Carbon Offsetting and Reduction Scheme for International Aviation
-(CORSIA) in the development of the Eligibility List.</p>
+<p>Singapore takes reference from reputable international standards in the
+development of the Eligibility List.</p>
 <p>Please note that the Eligiblity List differs by host country as accepted
 methodologies would have to fulfill the requirements of the host countries.&nbsp;</p>
 </div>

@@ -91,7 +91,7 @@ respective NDCs.</p>
 <p>Brazil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Philippines</p>
+<p>Malaysia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zambia</p>
@@ -105,7 +105,7 @@ respective NDCs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malaysia</p>
+<p>Sri Lanka</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Malawi</p>
@@ -119,7 +119,7 @@ respective NDCs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sri Lanka</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ethiopia</p>

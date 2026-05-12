@@ -213,7 +213,7 @@ with the following countries:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Phillipines</p>
+<p>The Philippines</p>
 </td>
 </tr>
 </tbody>

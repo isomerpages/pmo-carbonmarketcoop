@@ -88,10 +88,10 @@ respective NDCs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Brazil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Philippines</p>
+<p>Malaysia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zambia</p>
@@ -105,10 +105,10 @@ respective NDCs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malaysia</p>
+<p>Sri Lanka</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Malawi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -119,10 +119,10 @@ respective NDCs.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sri Lanka</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ethiopia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -151,7 +151,7 @@ with the following countries:</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="10" colspan="1">
+<td rowspan="11" colspan="1">
 <p><strong>Signed IA</strong>
 </p>
 <p><em>&nbsp;</em>
@@ -168,7 +168,7 @@ with the following countries:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chile</p>
+<p>Chile (Entered into Force)</p>
 </td>
 </tr>
 <tr>
@@ -209,6 +209,11 @@ with the following countries:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Vietnam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Phillipines</p>
 </td>
 </tr>
 </tbody>

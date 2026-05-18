@@ -18,8 +18,9 @@ third_nav_title: Thailand
 </p>
 </li>
 <li>
-<p>Submit the completed form and any supporting documents to <a rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.sg</a> and <a href="mailto:climate.measure@dcce.mail.go.th" rel="noopener noreferrer nofollow" target="_blank">climate.measure@dcce.mail.go.th</a>.
-Please note the guidelines for submission below.</p>
+<p>Submit the completed form and any supporting documents to <a href="ICC_Article_6@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.sg</a> and
+<a href="mailto:climate.measure@dcce.mail.go.th" rel="noopener noreferrer nofollow" target="_blank">climate.measure@dcce.mail.go.th</a>. Please note the guidelines for submission
+below.</p>
 </li>
 </ol>
 <table style="minWidth: 50px">

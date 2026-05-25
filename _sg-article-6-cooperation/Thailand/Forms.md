@@ -22,6 +22,13 @@ third_nav_title: Thailand
 <a href="mailto:climate.measure@dcce.mail.go.th" rel="noopener noreferrer nofollow" target="_blank">climate.measure@dcce.mail.go.th</a>. Please note the guidelines for submission
 below.</p>
 </li>
+<li>
+<p>No earlier than at the time of the Stage B Form submission, submit the
+completed Option Agreement (Binding Offer to the Singapore Government)
+and any supporting documents to <em><a href="mailto:Austen_CAMPBELL@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Austen_CAMPBELL@mti.gov.sg</a> , <a href="mailto:Flora_TOH@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Flora_TOH@mti.gov.sg</a> and <a href="mailto:Jason_YUN@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jason_YUN@mti.gov.sg</a></em> 
+<br><em>[Applicants should fill in the empty fields of the Option Agreement. Information that should not be edited by project applicants have been locked.]</em>
+</p>
+</li>
 </ol>
 <table style="minWidth: 50px">
 <colgroup>
@@ -99,7 +106,7 @@ in a separate email.</p>
 <p>Stage A:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/sg-thstagea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-thstagea</a></strong>
+<p><a href="https://go.gov.sg/sg-thstagea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-thstagea</a>
 </p>
 </td>
 </tr>
@@ -108,7 +115,18 @@ in a separate email.</p>
 <p>Stage B:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/sg-thstagea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-thstageb</a></strong>
+<p><a href="https://go.gov.sg/sg-thstagea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-thstageb</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Submissions and Notices relating to the Option Agreement should only be sent to <a href="mailto:Austen_CAMPBELL@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Austen_CAMPBELL@mti.gov.sg</a> , <a href="mailto:Flora_TOH@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Flora_TOH@mti.gov.sg</a> and <a href="mailto:Jason_YUN@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jason_YUN@mti.gov.sg</a> no earlier than during the time of the Stage B Form submission.</em>
+</p>
+<p><a href="https://go.gov.sg/optionagreement" rel="noopener nofollow" target="_blank">Option Agreement (Binding Offer to the Singapore Government) </a>
 </p>
 </td>
 </tr>
@@ -117,7 +135,7 @@ in a separate email.</p>
 <p>Stage C:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/sg-thstagea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-thstagec</a></strong>
+<p><a href="https://go.gov.sg/sg-thstagea" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sg-thstagec</a>
 </p>
 </td>
 </tr>

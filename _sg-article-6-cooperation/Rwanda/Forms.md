@@ -26,7 +26,8 @@ note the guidelines for submission below.</p>
 completed Option Agreement (Binding Offer to the Singapore Government)
 and any supporting documents to <em><a href="mailto:Austen_CAMPBELL@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Austen_CAMPBELL@mti.gov.sg</a> , <a href="mailto:Flora_TOH@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Flora_TOH@mti.gov.sg</a> and <a href="mailto:Jason_YUN@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jason_YUN@mti.gov.sg</a></em>
 </p>
-<p><em>[Applicants should fill in the empty fields of the Option Agreement. Information that should not be edited by project applicants have been locked.] </em>”</p>
+<p><em>[Applicants should fill in the empty fields of the Option Agreement. Information that should not be edited by project applicants have been locked.]</em>
+</p>
 </li>
 </ol>
 <table style="minWidth: 50px">

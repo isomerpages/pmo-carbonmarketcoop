@@ -18,9 +18,8 @@ third_nav_title: Bhutan
 </p>
 </li>
 <li>
-<p>Submit the completed form and any supporting documents to <a rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.sg</a> and
-<a rel="noopener noreferrer nofollow" target="_blank">decccarbonmarket@moenr.gov.bt</a>. Please note the guidelines for submission
-below.</p>
+<p>Submit the completed form and any supporting documents to <a rel="noopener noreferrer nofollow" target="_blank">ICC_Article_6@nea.gov.sg</a> and <a rel="noopener noreferrer nofollow" target="_blank">decccarbonmarket@moenr.gov.bt</a>. Please
+note the guidelines for submission below.</p>
 </li>
 </ol>
 <table style="minWidth: 50px">
@@ -99,7 +98,7 @@ in a separate email.</p>
 <p>Stage A:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/sg-btstagea" rel="noopener nofollow" target="_blank">Singapore-Bhutan Mitigation Activity Note of Intent </a>
+<p><a href="https://go.gov.sg/sg-btstagea" rel="noopener nofollow" target="_blank">Singapore-Bhutan Mitigation Activity Note of Intent</a>
 </p>
 </td>
 </tr>
@@ -108,7 +107,18 @@ in a separate email.</p>
 <p>Stage B:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/sg-btstageb" rel="noopener nofollow" target="_blank">Singapore-Bhutan Authorisation Application Form </a>
+<p><a href="https://go.gov.sg/sg-btstageb" rel="noopener nofollow" target="_blank">Singapore-Bhutan Authorisation Application Form</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Government Offtake:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Submissions and Notices relating to the Option Agreement should only be sent to <a href="mailto:Austen_CAMPBELL@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Austen_CAMPBELL@mti.gov.sg</a> , <a href="mailto:Flora_TOH@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Flora_TOH@mti.gov.sg</a> and <a href="mailto:Jason_YUN@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jason_YUN@mti.gov.sg</a> no earlier than during the time of the Stage B Form submission.</em>
+</p>
+<p><a href="https://go.gov.sg/optionagreement" rel="noopener nofollow" target="_blank">Option Agreement (Binding Offer to the Singapore Government) </a>
 </p>
 </td>
 </tr>

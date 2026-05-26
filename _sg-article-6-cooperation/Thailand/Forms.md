@@ -121,7 +121,7 @@ in a separate email.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Government Offtake:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Submissions and Notices relating to the Option Agreement should only be sent to <a href="mailto:Austen_CAMPBELL@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Austen_CAMPBELL@mti.gov.sg</a>, <a href="mailto:Flora_TOH@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Flora_TOH@mti.gov.sg</a> and <a href="mailto:Jason_YUN@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jason_YUN@mti.gov.sg</a> no earlier than during the time of the Stage B Form submission.</em>

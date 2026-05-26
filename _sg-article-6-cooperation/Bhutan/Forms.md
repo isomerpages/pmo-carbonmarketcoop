@@ -13,8 +13,8 @@ third_nav_title: Bhutan
 </p>
 </li>
 <li>
-<p>Complete the form template and prepare supporting documents for submission</p>
-<p><em>[Applicants should fill in the empty fields of the forms. Information that should not be edited by project applicants have been locked.]</em>
+<p>Complete the form template and prepare supporting documents for submission
+<br><em>[Applicants should fill in the empty fields of the forms. Information that should not be edited by project applicants have been locked.]</em>
 </p>
 </li>
 <li>

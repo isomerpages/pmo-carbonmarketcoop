@@ -13,8 +13,8 @@ third_nav_title: Thailand
 </p>
 </li>
 <li>
-<p>Complete the form template and prepare supporting documents for submission</p>
-<p><em>[Applicants should fill in the empty fields of the forms. Information that should not be edited by project applicants have been locked.]</em>
+<p>Complete the form template and prepare supporting documents for submission
+<br><em>[Applicants should fill in the empty fields of the forms. Information that should not be edited by project applicants have been locked.]</em>
 </p>
 </li>
 <li>
@@ -124,9 +124,9 @@ in a separate email.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Submissions and Notices relating to the Option Agreement should only be sent to <a href="mailto:Austen_CAMPBELL@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Austen_CAMPBELL@mti.gov.sg</a> , <a href="mailto:Flora_TOH@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Flora_TOH@mti.gov.sg</a> and <a href="mailto:Jason_YUN@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jason_YUN@mti.gov.sg</a> no earlier than during the time of the Stage B Form submission.</em>
+<p><em>Submissions and Notices relating to the Option Agreement should only be sent to <a href="mailto:Austen_CAMPBELL@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Austen_CAMPBELL@mti.gov.sg</a>, <a href="mailto:Flora_TOH@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Flora_TOH@mti.gov.sg</a> and <a href="mailto:Jason_YUN@mti.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jason_YUN@mti.gov.sg</a> no earlier than during the time of the Stage B Form submission.</em>
 </p>
-<p><a href="https://go.gov.sg/optionagreement" rel="noopener nofollow" target="_blank">Option Agreement (Binding Offer to the Singapore Government) </a>
+<p><a href="https://go.gov.sg/optionagreement" rel="noopener nofollow" target="_blank">Option Agreement (Binding Offer to the Singapore Government)</a>
 </p>
 </td>
 </tr>

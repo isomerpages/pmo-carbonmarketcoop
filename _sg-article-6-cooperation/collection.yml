@@ -2,6 +2,7 @@ collections:
   sg-article-6-cooperation:
     output: true
     order:
+      - The Philippines/Overview.md
       - The Philippines/.keep
       - Introduction.md
       - Participation Criteria.md

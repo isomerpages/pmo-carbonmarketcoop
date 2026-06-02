@@ -27,7 +27,7 @@ can be found below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Annex_B___Processes_for_the_Authorisation_of_Mitigation_Activities__and_the_Issuance_and_Transfer_of_ITMOs.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activities and the Issuance and Transfer of ITMOs </a>
+<p><a href="/files/Annex_B___Processes_for_the_Authorisation_of_Mitigation_Activities__and_the_Issuance_and_Transfer_of_ITMOs.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activities and the Issuance and Transfer of ITMOs</a>
 </p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ of the Implementation Agreement.</p>
 <p>Director (Carbon Planning Division), National Environment Agency</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Undersecretary, Department of Environment and Natural Resource</p>
+<p>Undersecretary, Department of Environment and Natural Resources</p>
 </td>
 </tr>
 </tbody>

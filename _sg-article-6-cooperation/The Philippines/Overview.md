@@ -78,5 +78,3 @@ of the Implementation Agreement.</p>
 </tbody>
 </table>
 <p></p>
-<p><a href="https://www.carbonmarkets-cooperation.gov.sg/project-register/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>

@@ -43,7 +43,20 @@ concerns over leakage and non-additionality due to policy; and</p>
 incentive factor</p>
 </li>
 </ul>
-<p></p>
+<p><strong><u>Methodologies using fraction of non-renewable biomass (fNRB) values</u></strong>
+</p>
+<p>For all projects that require the use of fNRB (regardless of credit vintage),
+the fNRB shall be either:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Derived from Modelling Fuelwood Savings Scenarios (MoFuSS) model, or</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Based on the latest UNFCCC Default Values found in the “Fraction of non-renewable
+biomass” methodological tool accepted under Paris Agreement Crediting Mechanism
+(PACM-6.4)</p>
+<p>Where the host country and/or carbon crediting programmes have separate
+fNRB requirements, the most conservative value (amongst (i) the value determined
+under (a) or (b) above, (ii) the applicable host country value and (iii)
+programme-allowed value) shall apply.</p>
 <h4>In addition, please note the following requirements for VM0047 and VM0048.</h4>
 <ol data-tight="true" class="tight">
 <li>

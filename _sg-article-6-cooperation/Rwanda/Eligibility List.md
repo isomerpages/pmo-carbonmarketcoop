@@ -20,12 +20,12 @@ Agriculture Smallholder Dairy Methodology v1.0</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Methane
 Emissions Reduction from Enteric Fermentation in Beef Cattle through Application
 of Feed Supplements v1.0</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Two and
-Three Wheeled Personal Transportation V1.0</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Two And
+Three Wheeled Personal Transportation v1.0</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Emission
-Reduction by Shore-Side or Off-Shore Electricity Supply System V1.0</p>
+Reduction by Shore-Side or Off-Shore Electricity Supply System v1.0</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Emission
-Reductions from Safe Drinking Water Supply V1.0</p>
+Reductions from Safe Drinking Water Supply v1.0</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gold Standard's
 Reduced emissions from cooking and heating (RECH) (formerly TPDDTEC) v5.0</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Gold
@@ -33,16 +33,16 @@ Standard Simplified Methodology For Clean And Efficient Cookstoves v4.0</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quantification
 of Climate Related Emission Reductions of Black Carbon and Co-Emitted Species
 Due to The Replacement of Less Efficient Cookstoves with Improved Efficiency
-Cookstoves V1.1</p>
+Cookstoves v1.1</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Methodology
 For Metered &amp; Measured Energy Cooking Devices v2.0</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suppressed Demand
-Methodology Micro-Scale Electrification and Energization V1.0</p>
+Methodology Micro-Scale Electrification and Energization v1.0</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suppressed Demand
-Small-Scale Methodology for Low GHG Food Preservation V1.0</p>
+Small-Scale Methodology for Low GHG Food Preservation v1.0</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suppressed Demand
 Small-Scale Methodology for Energy Use for The Processing of Agricultural
-Products V1.0</p>
+Products v1.0</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Soil Organic Carbon
 Framework Methodology v1.0</p>
 <p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Methane Emission Reduction
@@ -51,18 +51,18 @@ by adjusted Water management practice in rice cultivation v1.0</p>
 Manure Management And Biogas Use For Thermal Energy Generation v2.0</p>
 <p>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gold Standard Reduction
 in Methane Emissions from Landfills Through Decentralised Organic Waste
-Processing V1.0</p>
+Processing v1.0</p>
 <p>17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Methodology for Collection
 of Sargassum and Other Macroalgae to Avoid Emissions from Decomposition
 and to Use for Beneficial Products v1.0</p>
 <p>18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gold Standard Methodology
-for Reducing Methane Emissions from Combustion Engine Exhaust V1.0</p>
+for Reducing Methane Emissions from Combustion Engine Exhaust v1.0</p>
 <p>19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Methodology For Marine
-Fuels And Bio Bunkers V1.0</p>
+Fuels And Bio Bunkers v1.0</p>
 <p>20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Retrofit Energy Efficiency
 Measures In Shipping v2.1</p>
 <p>21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GS-ACM0001 Flaring
-or use of landfill gas v19</p>
+or use of landfill gas v19.0</p>
 </div>
 </details>
 </div>
@@ -122,7 +122,7 @@ Reforestation, and Revegetation, v1.1</p>
 from Deforestation and Forest Degradation, v1.0</p>
 <p>39.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VM0050 Energy Efficiency
 and Fuel-Switch Measures in Cookstoves, v1.0</p>
-<p>40.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VMR0004 Improved Efficiency
+<p>40.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VMR0004 Improved Efficiency
 of Fleet Vehicles, v2.0</p>
 <p>41.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VMR0007 Revision to
 AMS-III.AJ.: Recovery and Recycling of Materials from Solid Wastes v1.0</p>
@@ -140,7 +140,7 @@ JNR framework v4.1</p>
 <p>47.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scenario 3 of VCS
 JNR framework v4.1</p>
 <p>48.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Verra-ACM0001 Flaring
-or use of landfill gas v19</p>
+or use of landfill gas v19.0</p>
 <p>Where any VCS methodology is used, the project participant will be required
 to demonstrate the Sustainable Development contributions or co-benefits
 of the relevant mitigation activity by submitting to the Joint Committee
@@ -193,7 +193,7 @@ Plant v1.0</p>
 <p>54.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM005
 Methodology for Desalinated Water Savings in Buildings v1.0</p>
 <p>55.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCC-ACM0001
-Flaring or use of landfill gas v19</p>
+Flaring or use of landfill gas v19.0</p>
 </div>
 </details>
 </div>

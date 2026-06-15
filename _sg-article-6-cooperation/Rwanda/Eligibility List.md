@@ -8,7 +8,7 @@ third_nav_title: Rwanda
 <h3>Eligible Carbon Crediting Programmes and&nbsp;Methodologies</h3>
 <p></p>
 <p>The carbon crediting programmes and methodologies that meet the criteria
-of both Rwanda and Singapore are:</p>
+of both Rwanda and Singapore are [w.e.f 15 Jun 2026]:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p></p>

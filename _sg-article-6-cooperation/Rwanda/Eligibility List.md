@@ -235,7 +235,7 @@ relevant carbon crediting programme, when the project application is submitted.&
 <p>Additional requirements from Singapore for specific project types&nbsp;and
 methodologies can be found <a href="https://carbonmarkets-cooperation.gov.sg/additional-environmental-integrity-safeguards/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
-<p><strong>Version History</strong>
+<p><strong>Previous Version</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -245,7 +245,7 @@ methodologies can be found <a href="https://carbonmarkets-cooperation.gov.sg/add
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Version 1 (Valid from 30 Jan 2026 to 14 Jun 2026)</p>
+<p>Valid from 30 Jan 2026 to 14 Jun 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://carbonmarkets-cooperation.gov.sg/files/Singapore_Rwanda_IA_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">carbonmarkets-cooperation.gov.sg/files/Singapore_Rwanda_IA_Annex_A.pdf</a>

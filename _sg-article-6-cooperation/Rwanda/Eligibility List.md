@@ -248,7 +248,7 @@ methodologies can be found <a href="https://carbonmarkets-cooperation.gov.sg/add
 <p>Version 1 (Valid from 30 Jan 2026 to 14 Jun 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://carbonmarkets-cooperation.gov.sg/files/Singapore_Rwanda_IA_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">carbonmarkets-cooperation.gov.sg/files/Singapore_Rwanda_IA_Annex_B.pdf</a>
+<p><a href="http://carbonmarkets-cooperation.gov.sg/files/Singapore_Rwanda_IA_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">carbonmarkets-cooperation.gov.sg/files/Singapore_Rwanda_IA_Annex_A.pdf</a>
 </p>
 </td>
 </tr>

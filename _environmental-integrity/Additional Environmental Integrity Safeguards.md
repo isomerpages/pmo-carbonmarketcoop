@@ -43,7 +43,6 @@ concerns over leakage and non-additionality due to policy; and</p>
 incentive factor</p>
 </li>
 </ul>
-<p></p>
 <h4>In addition, please note the following requirements for VM0047 and VM0048.</h4>
 <ol data-tight="true" class="tight">
 <li>

@@ -22,8 +22,9 @@ can be found below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Singapore_Rwanda_IA_Annex_A.pdf" rel="noopener nofollow" target="_blank">Annex A - Pre-approved List of Carbon Crediting Programmes and Methodologies</a>
-</p>
+<p><a href="/files/Singapore_Rwanda_IA_Annex_A.pdf" rel="noopener nofollow" target="_blank">Annex A - Pre-approved List of Carbon Crediting Programmes and Methodologies</a> [Valid
+from 30 Jan 2026 to 14 Jun 2026; see <a href="https://www.carbonmarkets-cooperation.gov.sg/eligibility-list-rwanda/" rel="noopener noreferrer nofollow" target="_blank">Eligibility List</a> for
+latest version]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Singapore_Rwanda_IA_Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B - Processes for the Authorisation of Mitigation Activities, and the Issuance and Transfer of ITMOs</a>

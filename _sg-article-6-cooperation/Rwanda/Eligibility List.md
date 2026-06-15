@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Rwanda
 ---
 <h3>Eligible Carbon Crediting Programmes and&nbsp;Methodologies</h3>
-<p></p>
 <p>The carbon crediting programmes and methodologies that meet the criteria
 of both Rwanda and Singapore are [w.e.f 15 Jun 2026]:</p>
 <ul data-tight="true" class="tight">
@@ -142,7 +141,6 @@ JNR framework v4.1</p>
 JNR framework v4.1</p>
 <p>48.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Verra-ACM0001 Flaring
 or use of landfill gas v19</p>
-<p>&nbsp;</p>
 <p>Where any VCS methodology is used, the project participant will be required
 to demonstrate the Sustainable Development contributions or co-benefits
 of the relevant mitigation activity by submitting to the Joint Committee

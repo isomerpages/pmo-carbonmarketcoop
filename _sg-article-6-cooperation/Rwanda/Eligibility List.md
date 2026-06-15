@@ -171,6 +171,16 @@ clearly identifies for such use.</p>
 of Ozone Depleting Substances and High-GWP Foam v2.0</p>
 <p>Note: Project activities shall only include emission reductions from hydrochlorofluorocarbons
 (HFCs).</p>
+</div>
+</details>
+</div>
+</li>
+<li>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Global Carbon Council (GCC)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>50.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM001
 Methodology for Renewable Energy Generation Projects Supplying Electricity
 to Grid or Captive Consumers v4.0</p>
@@ -189,24 +199,17 @@ Flaring or use of landfill gas v19</p>
 </div>
 </details>
 </div>
-</li>
-<li>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Global Carbon Council (GCC)</summary>
+<summary>Architecture for REDD+ Transactions (ART)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>30.&nbsp;&nbsp;&nbsp;&nbsp; GCCM001 Methodology for Renewable Energy Generation
-Projects Supplying Electricity to Grid or Captive Consumers v4.0</p>
-<p>31.&nbsp;&nbsp;&nbsp;&nbsp; GCCM002 Methodology for Energy Saving in Pumping
-Systems v1.0</p>
-<p>32.&nbsp;&nbsp;&nbsp;&nbsp; GCCM003 Methodology for Energy Generation
-from Animal Manure and Waste Management Projects v2.0</p>
-<p>33. GCCM005 Methodology for Desalinated Water Savings in Buildings v1.0</p>
+<p>56.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The REDD+ Environmental
+Excellence Standard (TREES) - Version 2.0</p>
+<p>Note: HFLD approaches for REDD/REDD+ activities and projects are not eligible.</p>
 </div>
 </details>
 </div>
-<p></p>
 </li>
 </ul>
 <p>The above list of carbon crediting programmes and methodologies meet the

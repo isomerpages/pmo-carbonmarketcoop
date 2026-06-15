@@ -167,7 +167,25 @@ clearly identifies for such use.</p>
 <details class="isomer-details">
 <summary>American Carbon Registry (ACR)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>29. Landfill Gas Destruction and Beneficial Use Projects v2.0</p>
+<p>49.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Destruction
+of Ozone Depleting Substances and High-GWP Foam v2.0</p>
+<p>Note: Project activities shall only include emission reductions from hydrochlorofluorocarbons
+(HFCs).</p>
+<p>50.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM001
+Methodology for Renewable Energy Generation Projects Supplying Electricity
+to Grid or Captive Consumers v4.0</p>
+<p>51.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM002
+Methodology for Energy Saving in Pumping Systems v1.0</p>
+<p>52.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM003
+Methodology for Energy Generation from Animal Manure and Waste Management
+Projects v2.0</p>
+<p>53.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM004
+Methodology for Water Grid Connected Renewable Energy Based Desalination
+Plant v1.0</p>
+<p>54.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCCM005
+Methodology for Desalinated Water Savings in Buildings v1.0</p>
+<p>55.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GCC-ACM0001
+Flaring or use of landfill gas v19</p>
 </div>
 </details>
 </div>

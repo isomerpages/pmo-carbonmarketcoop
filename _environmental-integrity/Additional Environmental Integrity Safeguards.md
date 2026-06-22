@@ -42,7 +42,8 @@ programme-allowed value) shall apply.</p>
 concerns over leakage and non-additionality due to policy; and</p>
 <p>Not use baseline that incorporates High Forest-Low Deforestation-related
 incentive factor</p>
-<p>In addition, please note the following requirements for VM0047 and VM0048.</p>
+<p>In addition, please note the following requirements for VM0047, VM0048
+and VM0010.</p>
 <p>For the reporting of reversals, all projects must be part of an independent
 monitoring mechanism (a) or (b) or be validated with data from an independent
 source (c):</p>
@@ -65,5 +66,21 @@ amongst other safeguards.</p>
 <p>[For VM0048] To timely identify crediting and leakage risks in between
 map updates by Verra, project developers shall perform an ex-post analysis
 of the baseline at every credit issuance tranche.</p>
+<p>[For VM0010] PD to provide a combination of information on actual commercial
+harvesting operations and long-term harvesting commitments to better inform
+additionality assessments</p>
+<p>[For VM0010] PD to conduct baseline validity assessments at every credit
+issuance tranche if baseline was last assessed more than 5 years ago</p>
+<p>[For VM0010] PDs to conduct market leakage validity assessment and disclosure
+of no international activity shifting leakage at each credit issuance tranche.
+PDs are expected to:</p>
+<p>(i) Justify that ex-ante leakage factors remain valid (e.g. by referencing
+open-source data such as FAO Forest Resource Assessment, national inventory,
+regional/ national harvest reports for ex-post harvest patterns);</p>
+<p>(ii) Demonstrate unlikely international market leakage (e.g. by referencing
+open-source trade databases like UN Comtrade); and</p>
+<p>(iii) Demonstrate that harvesting has not been reallocated to similar
+forest types if the PD (including parent companies and sister subsidiaries)
+controls similar forest resources locally or overseas.</p>
 <p>Project developers can provide justifications if they are unable to meet
 the above safeguards.</p>

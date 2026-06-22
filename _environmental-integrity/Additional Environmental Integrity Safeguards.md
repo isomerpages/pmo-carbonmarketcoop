@@ -42,7 +42,8 @@ programme-allowed value) shall apply.</p>
 concerns over leakage and non-additionality due to policy; and</p>
 <p>Not use baseline that incorporates High Forest-Low Deforestation-related
 incentive factor</p>
-<p>In addition, please note the following requirements for VM0047 and VM0048.</p>
+<p>In addition, please note the following requirements for VM0010, VM0047
+and VM0048.</p>
 <p>For the reporting of reversals, all projects must be part of an independent
 monitoring mechanism (a) or (b) or be validated with data from an independent
 source (c):</p>
@@ -56,6 +57,23 @@ when it becomes operational in 2026; or</p>
 credit issuance tranche if more than 5 years have elapsed after the first
 additionality test. For VM0047, this will apply as a financial additionality
 re-assessment for projects generating alternative revenue.</p>
+<p>[For VM0010] Project developers shall provide a combination of information
+on actual commercial harvesting operations and long-term harvesting commitments
+to better inform additionality assessments.</p>
+<p>[For VM0010] Project developers shall conduct baseline validity assessments
+at every credit issuance tranche if baseline was last assessed more than
+5 years ago.</p>
+<p>[For VM0010] Project developers shall conduct market leakage validity
+assessment and disclosure of no international activity shifting leakage
+at each credit issuance tranche. Project developers are expected to:</p>
+<p>(i) Justify that ex-ante leakage factors remain valid (e.g. by referencing
+open-source data such as FAO Forest Resource Assessment, national inventory,
+regional/ national harvest reports for ex-post harvest patterns);</p>
+<p>(ii) Demonstrate unlikely international market leakage (e.g. by referencing
+open-source trade databases like UN Comtrade); and</p>
+<p>(iii) Demonstrate that harvesting has not been reallocated to similar
+forest types if the PD (including parent companies and sister subsidiaries)
+controls similar forest resources locally or overseas.</p>
 <p>[For VM0047] Project start date should be within 5 years of validation
 to show criticality of carbon revenue and additionality.</p>
 <p>[For VM0047] Credits generated from project to apply the ABACUS label,

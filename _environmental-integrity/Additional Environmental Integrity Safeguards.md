@@ -30,6 +30,20 @@ generation units (e.g. solar PV, tidal/wave, wind, hydro, geothermal, waste-to-e
 renewable biomass) that are supplying energy or electricity.</p>
 <p>** Definition of LDC is based on United Nations’ definition; Definition
 of lower middle income countries is based on World Bank’s definition.</p>
+<p><strong><u>Cookstove Projects [Published on 22 Jun 2026, with immediate effect]</u></strong>
+</p>
+<p>For all projects that require the use of fNRB (regardless of credit vintage),
+the fNRB shall be either:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Derived from Modelling Fuelwood Savings Scenarios (MoFuSS) model, or</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Based on the latest UNFCCC Default Values found in the “Fraction of non-renewable
+biomass” methodological tool accepted under Paris Agreement Crediting Mechanism
+(PACM-6.4)</p>
+<p>Where the host country and/or carbon crediting programmes have separate
+fNRB requirements, the most conservative value (amongst (i) the value determined
+under (a) or (b) above, (ii) the applicable host country value and (iii)
+programme-allowed value) shall apply.</p>
 <p><strong><u>Forestry Conservation (i.e., REDD+)</u></strong>
 </p>
 <p>All forestry projects are required to:</p>
@@ -43,7 +57,7 @@ concerns over leakage and non-additionality due to policy; and</p>
 incentive factor</p>
 </li>
 </ul>
-<h4>In addition, please note the following requirements for VM0047 and VM0048.</h4>
+<p>In addition, please note the following requirements for VM0047 and VM0048.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>For the reporting of reversals, all projects must be part of an independent

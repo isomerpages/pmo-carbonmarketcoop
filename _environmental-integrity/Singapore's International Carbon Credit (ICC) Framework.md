@@ -119,7 +119,7 @@ material increase in emissions.</p>
 </tbody>
 </table>
 <p>Information on the process of surrendering eligible ICCs for the payment
-of carbon tax can be found in the <a href="https://www.nea.gov.sg/docs/default-source/default-document-library/icc-guidance-document---surrendering-of-icc-for-payment-of-carbon-tax-under-cpa-final-_.pdf" rel="noopener noreferrer nofollow" target="_blank">ICC Guidance Document</a>.</p>
+of carbon tax can be found in the <a href="/files/ICC_Guidance_Document_v1_2_8Jul2026.pdf" rel="noopener noreferrer nofollow" target="_blank">ICC Guidance Document</a>.</p>
 <p>NEA conducts engagement sessions to update Taxable Facilities on Singapore’s
 ICC Framework. Past materials are available for perusal below.</p>
 <ul data-tight="true" class="tight">

@@ -84,4 +84,11 @@ amongst other safeguards.</p>
 map updates by Verra, project developers shall perform an ex-post analysis
 of the baseline at every credit issuance tranche.</p>
 <p>Project developers can provide justifications if they are unable to meet
-the above safeguards.</p>
+the above safeguards. Where examples are cited (e.g.), the list is non-exhaustive.
+PDs may propose alternatives where applicable.</p>
+<p>Credit quantification shall be based on Carbon Crediting Programme processes;
+ex-post analysis information submitted is for monitoring and assurance
+purposes</p>
+<p>
+<br>
+</p>
